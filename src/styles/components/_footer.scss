@@ -76,6 +76,10 @@
   gap: 4rem;
 }
 
+.footer__bottom p {
+  cursor: pointer;
+}
+
 @media only screen and (min-width: 670px) {
   .footer__top {
     gap: 2rem;

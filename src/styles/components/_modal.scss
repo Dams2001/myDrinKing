@@ -1,0 +1,81 @@
+.modal__container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+  z-index: 999;
+  font-family: "Poppins", sans-serif;
+}
+
+.modal__background_container {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: #191b1d;
+  opacity: 0.7;
+}
+
+.modal__cardContainer {
+  background-color: #191919;
+  justify-content: flex-start;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 2rem;
+  width: 100%;
+  height: 80%;
+  border: 1px solid $light-brown;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+  z-index: 100;
+  font-size: 14px;
+  position: relative;
+  overflow: auto;
+  padding: 4rem 0;
+}
+
+.modal__cardContainer::-webkit-scrollbar {
+    display: none;
+  }
+
+.modal__title {
+  font-weight: 500;
+  color: $light-brown;
+  text-align: center;
+}
+
+.modal__text {
+  text-align: center;
+  color: $light-cream;
+  max-width: 90%;
+}
+
+.modal__icon {
+  position: absolute;
+  top: 20px;
+  right: 25px;
+  font-size: 25px;
+  cursor: pointer;
+  color: $light-brown;
+}
+
+@media screen and (min-width: 768px) {
+  .modal__cardContainer {
+    width: 80%;
+    font-size: 14px;
+  }
+}
+
+
+@media screen and (min-width: 900px) {
+    .modal__cardContainer {
+      font-size: 16px;
+    }
+  }
+  
