@@ -1,0 +1,29 @@
+.mapa {
+  height: 350px;
+  width: 310px;
+  z-index: 1;
+}
+
+@media only screen and (min-width: 670px) {
+  .mapa {
+    height: 350px;
+    width: 300px;
+    z-index: 1;
+  }
+}
+
+@media only screen and (min-width: 820px) {
+  .mapa {
+    height: 350px;
+    width: 350px;
+    z-index: 1;
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+  .mapa {
+    height: 350px;
+    width: 550px;
+    z-index: 1;
+  }
+}

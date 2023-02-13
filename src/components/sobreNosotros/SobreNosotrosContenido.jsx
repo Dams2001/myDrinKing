@@ -1,7 +1,8 @@
 import React from "react";
 import Juan from "../../assets/sobrenosotros__Juan.jpg";
 import GrowKingSocio from "../../assets/sobrenosotros__GrowKingSocio.jpg";
-import Mapa from "../../assets/sobrenosotros__mapa.jpg";
+// import Mapa from "../../assets/sobrenosotros__mapa.jpg";
+import MapView from "./MapView";
 
 const SobreNosotrosContenido = () => {
   return (
@@ -46,7 +47,7 @@ const SobreNosotrosContenido = () => {
             <p>El local se encuentra ubicado en la calle Av. Pueyrredón 191, Córdoba Capital, Córdoba, Argentina, en barrio Nueva Córdoba. Entre las calles Obispo Trejo y Avenida Vélez Sarsfield. El mismo posee delivery propio y la mayor variedad de productos en bebidas y grow de la Ciudad.</p>
         </div>
         <div className="sobrenosotroscontenido__article-img">
-            <img src={Mapa} alt="Mapa" loading="lazy"/>
+            <MapView latitud={"-31.42650374619513"} longitud={"-64.19136220240563"} />
         </div>
       </div>
     </section>
