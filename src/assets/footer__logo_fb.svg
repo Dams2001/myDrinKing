@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="67" height="67" viewBox="0 0 67 67">
+  <g id="logo_fb" transform="translate(-0.004 -0.408)">
+    <rect id="boton" width="67" height="67" rx="33.5" transform="translate(0.004 0.408)" fill="#ffe1c7"/>
+    <g id="icono" transform="translate(26.003 19.678)">
+      <path id="trazo" d="M22.461,2H18.245a7.029,7.029,0,0,0-7.028,7.028v4.217H7v5.622h4.217V30.111h5.622V18.867h4.217l1.406-5.622H16.839V9.028a1.406,1.406,0,0,1,1.406-1.406h4.217Z" transform="translate(-7 -2)" fill="none" stroke="#0f0e0d" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

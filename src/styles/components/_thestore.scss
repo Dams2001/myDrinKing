@@ -1,0 +1,39 @@
+.thestore__container {
+  height: 90vh;
+  background: rgb(0, 0, 0) url("../../assets/thestore__background.jpg")
+    no-repeat fixed center 5%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1.8rem;
+}
+
+.thestore__container h2 {
+  font-size: 50px;
+  line-height: 45px;
+  color: #fff3c7;
+  text-align: center;
+}
+
+.thestore__container p {
+  font-size: 20px;
+  font-weight: 500;
+  color: #fff3c7;
+  text-align: center;
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+@media only screen and (min-width: 625px) {
+  .thestore__container h2,
+  .thestore__container p {
+    color: $light-cream;
+  }
+  .thestore__container {
+    background: rgb(0, 0, 0) url("../../assets/thestore__background.jpg")
+    no-repeat fixed 5%;
+  }
+}

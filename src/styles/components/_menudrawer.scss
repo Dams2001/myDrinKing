@@ -1,0 +1,70 @@
+.menudrawer__divSocialNetworks {
+    font-size: 26px;
+    gap: 25px;
+  }
+  
+  .menudrawer__btnWrapper {
+    background-color: transparent;
+    width: 35px;
+    border: none;
+    display: flex;
+    margin-top: 5px;
+    margin-left: 5px;
+  }
+  
+  .menudrawer__divMenu {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .menudrawer__xWrapper {
+    font-size: 1.2rem;
+    color: $light-grey;
+  }
+  
+  .menudrawer__footerMenu {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    width: 100%;
+    justify-content: flex-end;
+    position: absolute;
+    top: 610px;
+    right: 10px;
+  }
+  
+  .menudrawer__link {
+    border-bottom: 2px solid var(--color-3);
+    display: flex;
+    justify-content: flex-start;
+  }
+  
+  .menudrawer__link p {
+    color: $light-grey;
+    font-size: 20px;
+    font-weight: 500;
+    padding-right: 10px;
+    padding: 1rem;
+  }
+  
+  .menudrawer__ley p {
+    font-size: 11px;
+    color: $dark-grey;
+    line-height: 20px;
+    text-align: start;
+    padding: 1rem;
+  }
+  
+  .menudrawer__socialNetworks {
+    display: flex;
+    gap: 2.5rem;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5px;
+    margin-bottom: 20px;
+  }
+  
+  .menudrawer__socialNetworks img {
+    width: 40px;
+  }
+  

@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+header, body {
+    font-family: 'Poppins', sans-serif;
+}
+
+header, body, footer {
+    width: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+li {
+    list-style: none;
+}
+
+h1, h2, h3 {
+    margin: 0;
+    padding: 0;
+}

@@ -1,0 +1,114 @@
+.cards__productos {
+  background-color: $black;
+  color: $font-color;
+  padding: 7rem 0;
+  display: flex;
+  flex-direction: column;
+  gap: 4rem;
+}
+
+.cards__productos_alcohol{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 3.5rem;
+}
+
+.cards__productos_varios {
+  display: none;
+}
+
+.cards__mobile {
+  display: flex;
+  gap: 3.5rem;
+}
+
+.cards__productos_contenido {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  overflow-x: scroll;
+}
+
+.cards__productos_contenido::-webkit-scrollbar {
+  display: none;
+}
+
+.cards__productos_contenido img {
+  width: 16rem;
+}
+
+.cards__productos_titulo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.cards__productos_titulo_icono {
+  color: $dark-brown;
+  font-size: 45px;
+}
+
+.cards__productos_titulo_boton {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0.1rem 2rem;
+  border-radius: 25px;
+  background: transparent;
+  color: $light-pink;
+  font-size: 21px;
+  font-weight: 600;
+  border: 2px solid $dark-brown;
+  cursor: pointer;
+}
+
+.cards__productos_titulo h2 {
+  font-size: 32px;
+}
+
+.cards__productos_titulo .line {
+  border-top: 2px solid #3b3b3b;
+  width: 60px;
+}
+
+.card__container {
+  text-align: center;
+  padding: 1rem 0;
+  cursor: pointer;
+}
+
+.card__container h3 {
+  padding-top: 1rem;
+}
+
+@media only screen and (min-width: 625px) {
+  .cards__productos_contenido img {
+    width: 19rem;
+  }
+  .cards__mobile {
+    display: none;
+  }
+
+  .cards__productos_varios .cards__productos_titulo {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+  }
+
+  .cards__productos_varios {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 3.5rem;
+  }
+}
+
+@media only screen and (min-width: 769px) {
+  .cards__productos_contenido {
+    justify-content: center;
+    overflow-x: hidden;
+    gap: 4rem;
+  }
+}

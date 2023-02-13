@@ -1,0 +1,138 @@
+// -------SOBRE NOSOTROS HEROE-------
+
+.sobrenosotros__container {
+  position: relative;
+  background: rgb(0, 0, 0) url("../../assets/sobrenosotros__background.jpg")
+    no-repeat fixed center 80%;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 5rem;
+}
+
+.sobrenosotros__container h2 {
+  font-size: 50px;
+  color: $light-pink;
+  width: 90%;
+  text-align: center;
+}
+
+// -------SOBRE NOSOTROS CONTENIDO-------
+
+.sobrenosotroscontenido__container {
+  background: $black;
+  color: $light-cream;
+  padding: 6rem 1rem;
+}
+
+.sobrenosotroscontenido__nuestra-mision {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  gap: 2rem;
+}
+
+.sobrenosotroscontenido__nuestra-mision h3 {
+  font-size: 35px;
+}
+
+.sobrenosotroscontenido__nuestra-mision p {
+  width: 100%;
+  font-size: 14px;
+}
+
+.sobrenosotroscontenido__article,
+.sobrenosotroscontenido__article-reverse {
+  display: flex;
+  flex-direction: column;
+  padding-top: 6rem;
+  align-items: center;
+  justify-content: center;
+  gap: 4rem;
+}
+
+.sobrenosotroscontenido__article h3,
+.sobrenosotroscontenido__article-reverse h3 {
+  font-size: 30px;
+  padding-bottom: 2rem;
+}
+
+.sobrenosotroscontenido__article-img,
+.sobrenosotroscontenido__article-text {
+  width: 100%;
+}
+
+.sobrenosotroscontenido__article-text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.sobrenosotroscontenido__article-text p {
+  font-size: 14px;
+  text-align: center;
+}
+
+.sobrenosotroscontenido__article-img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.sobrenosotroscontenido__article-img img {
+  width: 90%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.sobrenosotroscontenido__article-reverse a {
+  color: $green;
+  text-decoration: underline;
+}
+
+@media only screen and (min-width: 670px) {
+  .sobrenosotroscontenido__article {
+    flex-direction: row;
+    gap: 2rem;
+  }
+
+  .sobrenosotroscontenido__article-reverse {
+    flex-direction: row-reverse;
+    gap: 2rem;
+  }
+
+  .sobrenosotroscontenido__article-img,
+  .sobrenosotroscontenido__article-text {
+    width: 50%;
+  }
+
+  .sobrenosotroscontenido__nuestra-mision p {
+    width: 80%;
+  }
+}
+
+@media only screen and (min-width: 769px) {
+}
+
+@media only screen and (min-width: 900px) {
+  .sobrenosotroscontenido__container {
+    padding: 6rem 7rem;
+  }
+
+  .sobrenosotroscontenido__article-img img {
+    width: 80%;
+  }
+  .sobrenosotroscontenido__article-text p {
+    font-size: 16px;
+    text-align: start;
+  }
+
+  .sobrenosotroscontenido__nuestra-mision p {
+    font-size: 16px;
+  }
+}

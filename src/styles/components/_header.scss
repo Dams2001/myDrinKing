@@ -1,0 +1,141 @@
+header {
+  overflow: hidden;
+  width: 100%;
+  z-index: 99;
+  font-size: 19px;
+  position: fixed;
+  top: 0;
+  transition: all 0.5s ease-in-out;
+}
+
+.header__container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 1rem;
+  padding: 0 1rem;
+  overflow: hidden;
+}
+
+.header__logo {
+  color: $light-pink;
+  font-size: 40px;
+}
+
+.header__menu {
+  display: flex;
+  font-size: 14px;
+  color: $light-brown;
+  gap: 3rem;
+  z-index: 98;
+  margin-top: 5px;
+  position: sticky;
+  top: 0;
+  z-index: 99;
+}
+
+.header__link {
+  color: $white;
+  font-weight: 500;
+}
+
+.header__activeLink {
+  color: $light-pink;
+  font-weight: 500;
+  position: relative;
+}
+
+.header__activeLink:after {
+  content: "";
+  background-color: $light-brown;
+  height: 2px;
+  width: 70%;
+  position: absolute;
+  top: 25px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  transition: ease-in 0.2s;
+}
+
+.header__contact {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid $light-brown;
+  border-radius: 50px;
+  width: 113px;
+  height: 40px;
+  color: $white;
+  font-weight: 600;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.header__btnWrapper {
+  background-color: transparent;
+  width: 35px;
+  height: 35px;
+  border: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+.header__barsWrapper {
+  font-size: 2rem;
+  color: $light-pink;
+}
+
+.header__disableMobile {
+  display: none;
+}
+
+.header__menuDrawer {
+  position: absolute;
+}
+
+@media only screen and (min-width: 670px) {
+  .header__disableMobile {
+    display: flex;
+  }
+
+  .header__btnWrapper {
+    display: none;
+  }
+
+  .header__container {
+    margin: 1rem 2rem;
+  }
+
+  .header__menu {
+    gap: 1.5rem;
+  }
+
+  .header__logo {
+    color: $light-brown;
+    font-size: 19px;
+  }
+
+  .header__barsWrapper {
+    font-size: 1.5rem;
+    color: $light-brown;
+  }
+}
+
+@media only screen and (min-width: 769px) {
+  .header__container {
+    margin: 1rem 3rem;
+  }
+
+  .header__menu {
+    gap: 3rem;
+  }
+}
+
+@media only screen and (min-width: 900px) {
+  .header__container {
+    padding: 0 5rem;
+  }
+}

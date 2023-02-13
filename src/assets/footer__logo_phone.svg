@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="67" height="67" viewBox="0 0 67 67">
+  <g id="logo_tel" transform="translate(-0.136 -0.408)">
+    <rect id="boton" width="67" height="67" rx="33.5" transform="translate(0.136 0.408)" fill="#ffe1c7"/>
+    <g id="icono" transform="translate(19.678 19.678)">
+      <rect id="boton-2" data-name="boton" width="28" height="28" transform="translate(0.458 -0.27)" fill="rgba(253,73,198,0.35)" opacity="0"/>
+      <path id="trazo" d="M30.174,23.054v4.232A2.821,2.821,0,0,1,27.1,30.107a27.933,27.933,0,0,1-12.174-4.331,27.506,27.506,0,0,1-8.463-8.464A27.909,27.909,0,0,1,2.131,5.082,2.82,2.82,0,0,1,4.938,2.007H9.17a2.822,2.822,0,0,1,2.821,2.426A18.176,18.176,0,0,0,12.978,8.4a2.819,2.819,0,0,1-.634,2.976l-1.792,1.792a22.567,22.567,0,0,0,8.464,8.463l1.791-1.791a2.822,2.822,0,0,1,2.977-.635,18.087,18.087,0,0,0,3.964.988A2.819,2.819,0,0,1,30.174,23.054Z" transform="translate(-2.091 -2.007)" fill="none" stroke="#0f0e0d" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.007"/>
+    </g>
+  </g>
+</svg>

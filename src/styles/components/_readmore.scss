@@ -1,0 +1,48 @@
+.readmore__container {
+  height: 90vh;
+  background: rgb(0, 0, 0) url("../../assets/readmore__background.jpg")
+    no-repeat fixed 5%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 5rem;
+}
+
+.readmore__titulo {
+  font-size: 20px;
+  line-height: 45px;
+  color: $light-pink;
+  width: 90%;
+  text-align: center;
+}
+
+.readmore__boton {
+  background-color: transparent;
+  border: 2px solid $light-brown;
+  border-radius: 19px;
+  width: 8rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1.3rem;
+  height: 40px;
+  color: $white;
+  font-weight: 600;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+@media only screen and (min-width: 625px) {
+  .readmore__titulo {
+    font-size: 25px;
+  }
+}
+
+@media only screen and (min-width: 769px) {
+  .readmore__titulo {
+    font-size: 30px;
+    width: 70%;
+  }
+}
