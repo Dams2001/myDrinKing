@@ -5,6 +5,7 @@ import Button from "../../../global/Button";
 import { faWhatsapp } from "@fortawesome/free-brands-svg-icons";
 import CATEGORIAS1 from "../../../../data/categoriasAlcohol.json";
 import CATEGORIAS2 from "../../../../data/categoriasVarios.json";
+import ReactWhatsapp from "react-whatsapp";
 
 const Cards = () => {
   return (
@@ -43,7 +44,7 @@ const Cards = () => {
         <div className="cards__productos_titulo">
           <Icon css="cards__productos_titulo_icono" icon={faWhatsapp} />
           <h2>Pedí por WhatsApp</h2>
-          <a href="/pedidos"><Button css="cards__productos_titulo_boton" text="Acá"/></a>
+          <ReactWhatsapp number="+5493515186464" message="Quisiera mas informacion de DrinKing..." className="WhatsappButton"><Button css="cards__productos_titulo_boton" text="Acá"/></ReactWhatsapp>
         </div>
         <div className="cards__productos_contenido">
           {CATEGORIAS2 &&
