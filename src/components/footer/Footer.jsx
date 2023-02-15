@@ -13,10 +13,7 @@ const Footer = () => {
       <div className="footer__top">
         <div className="footer__top_logo">
           <h2>DrinKing</h2>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
-          </p>
+          <p>Expendio de bebidas y complementos</p>
         </div>
         <div className="footer__top_categorias">
           <div className="footer__top_redes">
