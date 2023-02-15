@@ -13,7 +13,7 @@
   },
   {
     "id": 3,
-    "nombre": "Coctelera Plastica",
+    "nombre": "Coctelera Plástica",
     "categoria": "Bazar, Cocteleria y Botanicos",
     "img": "/images/bazar-cocteleria-botanicos/coctelera-plastica-con-medidor.png"
   },
@@ -67,7 +67,7 @@
   },
   {
     "id": 12,
-    "nombre": "Iconos Botanicos",
+    "nombre": "Iconos Botánicos",
     "categoria": "Bazar, Cocteleria y Botanicos",
     "img": "/images/bazar-cocteleria-botanicos/iconos-botanicos.png"
   },
@@ -235,7 +235,7 @@
   },
   {
     "id": 41,
-    "nombre": "Sky Vodka",
+    "nombre": "Skyy Vodka",
     "categoria": "Bebidas Destiladas",
     "img": "/images/bebidas-destiladas/sky-vodka.png"
   },
@@ -325,7 +325,7 @@
   },
   {
     "id": 56,
-    "nombre": "Oranje Boom",
+    "nombre": "Oranjeboom",
     "categoria": "Cervezas",
     "img": "/images/cervezas/oranjeboom.png"
   },
@@ -337,7 +337,7 @@
   },
   {
     "id": 58,
-    "nombre": "Peñon Mexican Lager",
+    "nombre": "Peñón Mexican Lager",
     "categoria": "Cervezas",
     "img": "/images/cervezas/penon-lata-mexican-lager.png"
   },
@@ -355,7 +355,7 @@
   },
   {
     "id": 61,
-    "nombre": "Shofferhofer",
+    "nombre": "Schofferhofer",
     "categoria": "Cervezas",
     "img": "/images/cervezas/shofferhofer-pomelo.png"
   },
@@ -379,7 +379,7 @@
   },
   {
     "id": 65,
-    "nombre": "Futbol",
+    "nombre": "Fútbol",
     "categoria": "Juegos Hangover",
     "img": "/images/juegos-hangover/futbol.png"
   },
@@ -409,19 +409,19 @@
   },
   {
     "id": 70,
-    "nombre": "Bondiola de Cerdo",
+    "nombre": "Bondiola de Cerdo Vacío",
     "categoria": "Snacks",
     "img": "/images/snacks/bondiola-cerdo-vacio.png"
   },
   {
     "id": 71,
-    "nombre": "Lomo de Cerdo",
+    "nombre": "Lomo de Cerdo Vacío",
     "categoria": "Snacks",
     "img": "/images/snacks/lomo-cerdo-vacio.png"
   },
   {
     "id": 72,
-    "nombre": "Mani",
+    "nombre": "Maní",
     "categoria": "Snacks",
     "img": "/images/snacks/mani.png"
   },
@@ -439,7 +439,7 @@
   },
   {
     "id": 75,
-    "nombre": "Salame Bozzana Vacio",
+    "nombre": "Salame Bozzana Vacío",
     "categoria": "Snacks",
     "img": "/images/snacks/salame-bozzana-vacio.png"
   },
