@@ -39,7 +39,12 @@ const Cards = () => {
           </span>
         </div>
       </div>
-      <div className="cards__productos_varios">
+      <div className="cards__productos_titulo disableWeb">
+          <Icon css="cards__productos_titulo_icono" icon={faWhatsapp} />
+          <h2 id="pedidos">Pedí por WhatsApp</h2>
+          <ReactWhatsapp number="+5493513582675" message="Hola! Me gustaría saber el precio de" className="header__whatsapp"><Button css="cards__productos_titulo_boton" text="Acá"/></ReactWhatsapp>
+        </div>
+      <div className="cards__productos_varios disableMobile">
         <div className="cards__productos_titulo">
           <Icon css="cards__productos_titulo_icono" icon={faWhatsapp} />
           <h2 id="pedidos">Pedí por WhatsApp</h2>
