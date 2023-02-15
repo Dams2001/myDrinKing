@@ -68,7 +68,7 @@ const MenuDrawer = ({ open, handleClick }) => {
           <p>Productos</p>
         </NavLink>
       </div>
-      <div className="menudrawer__link">
+      {/* <div className="menudrawer__link">
         <ReactWhatsapp number="+5493513582675" message="Hola! Me gustaría saber el precio de" className="header__whatsapp">
           <NavLink
             className="header__link"
@@ -76,7 +76,7 @@ const MenuDrawer = ({ open, handleClick }) => {
             <p>Pedidos</p>
           </NavLink>
         </ReactWhatsapp>
-      </div>
+      </div> */}
 
       <div className="menudrawer__link">
         <NavLink
@@ -89,7 +89,7 @@ const MenuDrawer = ({ open, handleClick }) => {
         </NavLink>
       </div>
 
-      <div className="menudrawer__link">
+      {/* <div className="menudrawer__link">
         <NavLink
           to="/contacto"
           className={({ isActive }) =>
@@ -98,7 +98,7 @@ const MenuDrawer = ({ open, handleClick }) => {
         >
           <p>Contacto</p>
         </NavLink>
-      </div>
+      </div> */}
 
       <div className="menudrawer__ley">
         <p>

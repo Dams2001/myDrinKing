@@ -74,7 +74,7 @@ const Header = () => {
           >
             <p>Productos</p>
           </NavLink>
-          <ReactWhatsapp
+          {/* <ReactWhatsapp
             number="+5493513582675"
             message="Hola! Me gustaría saber el precio de"
             className="header__whatsapp"
@@ -82,7 +82,7 @@ const Header = () => {
             <NavLink className="header__link">
               <p>Pedidos</p>
             </NavLink>
-          </ReactWhatsapp>
+          </ReactWhatsapp> */}
           <NavLink
             to="/sobre-nosotros"
             className={({ isActive }) =>

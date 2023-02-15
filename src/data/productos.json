@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "nombre": "Cocteleria Acrilico con medidor",
+    "nombre": "Cocteleria Acrilico",
     "categoria": "Bazar, Cocteleria y Botanicos",
     "img": "/images/bazar-cocteleria-botanicos/coctelera-acrilico-con-medidor.png"
   },
@@ -13,7 +13,7 @@
   },
   {
     "id": 3,
-    "nombre": "Coctelera Plastica con medidor",
+    "nombre": "Coctelera Plastica",
     "categoria": "Bazar, Cocteleria y Botanicos",
     "img": "/images/bazar-cocteleria-botanicos/coctelera-plastica-con-medidor.png"
   },
@@ -265,7 +265,7 @@
   },
   {
     "id": 46,
-    "nombre": "Corona Grande Descartable",
+    "nombre": "Corona Grande",
     "categoria": "Cervezas",
     "img": "/images/cervezas/corona-grande-descartable.png"
   },
@@ -409,13 +409,13 @@
   },
   {
     "id": 70,
-    "nombre": "Bondiola de Cerdo Vacio",
+    "nombre": "Bondiola de Cerdo",
     "categoria": "Snacks",
     "img": "/images/snacks/bondiola-cerdo-vacio.png"
   },
   {
     "id": 71,
-    "nombre": "Lomo de Cerdo Vacio",
+    "nombre": "Lomo de Cerdo",
     "categoria": "Snacks",
     "img": "/images/snacks/lomo-cerdo-vacio.png"
   },

@@ -17,14 +17,24 @@ const Footer = () => {
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore et dolore magna aliqua.
           </p>
+        </div>
+        <div className="footer__top_categorias">
           <div className="footer__top_redes">
             <li>
-              <a href="https://www.facebook.com/profile.php?id=100063623920462" target="_blank" rel="noreferrer">
+              <a
+                href="https://www.facebook.com/profile.php?id=100063623920462"
+                target="_blank"
+                rel="noreferrer"
+              >
                 <img src={facebook} alt="facebook" />
               </a>
             </li>
             <li>
-              <a href="https://www.instagram.com/drinking.cba/" target="_blank" rel="noreferrer">
+              <a
+                href="https://www.instagram.com/drinking.cba/"
+                target="_blank"
+                rel="noreferrer"
+              >
                 <img src={instagram} alt="instagram" />
               </a>
             </li>
@@ -32,50 +42,6 @@ const Footer = () => {
               <a href="tel:+5493515186464">
                 <img src={phone} alt="phone" />
               </a>
-            </li>
-          </div>
-        </div>
-        <div className="footer__top_categorias">
-          <div className="footer__top_categoria">
-            <h3>Productos</h3>
-            <li>
-              <a href="/">Bebidas destiladas</a>
-            </li>
-            <li>
-              <a href="/">Vinos y espumantes</a>
-            </li>
-            <li>
-              <a href="/">Cervezas</a>
-            </li>
-            <li>
-              <a href="/">Bazar, coctelería y botánicos</a>
-            </li>
-            <li>
-              <a href="/">Snacks</a>
-            </li>
-            <li>
-              <a href="/">Juegos</a>
-            </li>
-          </div>
-          <div className="footer__top_categoria">
-            <h3>Servicios</h3>
-            <li>
-              <a href="/">Envíos</a>
-            </li>
-            <li>
-              <a href="/">Multimedia</a>
-            </li>
-          </div>
-          <div className="footer__top_categoria">
-            <h3>Contacto</h3>
-            <li>
-              <a href="/">Noticias</a>
-            </li>
-            <li>
-              <a href="/">Mailing</a>
-            </li>
-            <li>
-              <a href="/">FAQs</a>
             </li>
           </div>
         </div>

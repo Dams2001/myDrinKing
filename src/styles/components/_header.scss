@@ -19,15 +19,13 @@ header {
 
 .header__logo {
   color: $light-pink;
-  font-size: 40px;
+  font-size: 30px;
 }
 
 .header__menu {
   display: flex;
   font-size: 15px;
-  color: $light-brown;
   gap: 3rem;
-  z-index: 98;
   margin-top: 5px;
   position: sticky;
   top: 0;
@@ -37,7 +35,6 @@ header {
 .header__link {
   color: $white;
   font-weight: 500;
-  padding-bottom: 0.8rem;
 }
 
 .header__activeLink {
@@ -86,7 +83,7 @@ header {
 }
 
 .header__barsWrapper {
-  font-size: 2rem;
+  font-size: 1.7rem;
   color: $light-pink;
 }
 
@@ -106,6 +103,7 @@ header {
   font-size: 15px;
   justify-content: flex-start;
   padding: 0;
+  cursor: pointer;
 }
 
 @media only screen and (min-width: 670px) {

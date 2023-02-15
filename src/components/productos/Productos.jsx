@@ -2,6 +2,8 @@ import React, { useState, useEffect } from "react";
 import ListaCategorias from "./contenido/ListaCategorias";
 import ListaProductos from "./contenido/ListaProductos";
 import PRODUCTOS from "../../data/productos.json";
+import Button from "../global/Button";
+import ReactWhatsapp from "react-whatsapp";
 
 const Productos = () => {
   const allCategories = [
@@ -38,6 +40,7 @@ const Productos = () => {
       </div>
       <div className="productos__productos">
         <h2>Productos</h2>
+        <ReactWhatsapp className="header__whatsapp" number="+5493513582675" message="Hola! Me gustaría saber el precio de"><Button css="productos__btn" text="Pedí acá"/></ReactWhatsapp>
         <div className="productos_listaProductos">
           <ListaProductos productos={productos} />
         </div>

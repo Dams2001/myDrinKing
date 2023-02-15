@@ -1,27 +1,36 @@
-*{
-    margin: 0px;
-    box-sizing: border-box;
-    text-decoration: none;
+* {
+  margin: 0px;
+  box-sizing: border-box;
+  text-decoration: none;
 }
 
-header, body {
-    font-family: 'Poppins', sans-serif;
+header,
+body {
+  font-family: "Poppins", sans-serif;
 }
 
-header, body, footer {
-    width: 100%;
+header,
+body,
+footer {
+  width: 100%;
 }
 
 a {
-    text-decoration: none;
-    color: black;
+  text-decoration: none;
+  color: black;
 }
 
 li {
-    list-style: none;
+  list-style: none;
 }
 
-h1, h2, h3 {
-    margin: 0;
-    padding: 0;
+h1,
+h2,
+h3 {
+  margin: 0;
+  padding: 0;
+}
+
+.scrollToTop {
+  background-color: $light-brown !important;
 }
