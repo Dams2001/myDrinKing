@@ -10,33 +10,33 @@ const Footer = () => {
 
   return (
     <footer className="footer__container">
-      <div class="footer__top">
-        <div class="footer__top_logo">
+      <div className="footer__top">
+        <div className="footer__top_logo">
           <h2>DrinKing</h2>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore et dolore magna aliqua.
           </p>
-          <div class="footer__top_redes">
+          <div className="footer__top_redes">
             <li>
-              <a href="/">
+              <a href="https://www.facebook.com/profile.php?id=100063623920462" target="_blank" rel="noreferrer">
                 <img src={facebook} alt="facebook" />
               </a>
             </li>
             <li>
-              <a href="/">
+              <a href="https://www.instagram.com/drinking.cba/" target="_blank" rel="noreferrer">
                 <img src={instagram} alt="instagram" />
               </a>
             </li>
             <li>
-              <a href="/">
+              <a href="tel:+5493515186464">
                 <img src={phone} alt="phone" />
               </a>
             </li>
           </div>
         </div>
-        <div class="footer__top_categorias">
-          <div class="footer__top_categoria">
+        <div className="footer__top_categorias">
+          <div className="footer__top_categoria">
             <h3>Productos</h3>
             <li>
               <a href="/">Bebidas destiladas</a>
@@ -57,7 +57,7 @@ const Footer = () => {
               <a href="/">Juegos</a>
             </li>
           </div>
-          <div class="footer__top_categoria">
+          <div className="footer__top_categoria">
             <h3>Servicios</h3>
             <li>
               <a href="/">Envíos</a>
@@ -66,7 +66,7 @@ const Footer = () => {
               <a href="/">Multimedia</a>
             </li>
           </div>
-          <div class="footer__top_categoria">
+          <div className="footer__top_categoria">
             <h3>Contacto</h3>
             <li>
               <a href="/">Noticias</a>

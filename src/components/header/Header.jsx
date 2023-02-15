@@ -5,6 +5,8 @@ import MenuDrawer from "./MenuDrawer";
 import Button from "../global/Button";
 import Icon from "../global/Icon";
 import { faBarsStaggered } from "@fortawesome/free-solid-svg-icons";
+import ModalHeader from "../global/ModalHeader";
+import ReactWhatsapp from "react-whatsapp";
 
 const Header = () => {
   const refMenu = useRef(null);
@@ -27,23 +29,27 @@ const Header = () => {
 
   const activeLinkClassName = "header__activeLink";
   const notActiveLinkClassName = "header__link";
-  // const activeContactClassName = "header__activeContact";
-  // const notActiveContactClassName = "header__contact";
+
+  const [modal, setModal] = useState(false);
 
   window.onscroll = function () {
     scrollFunction();
   };
 
   function scrollFunction() {
-    if (document.body.scrollTop > 80 || document.documentElement.scrollTop > 80) {
+    if (
+      document.body.scrollTop > 80 ||
+      document.documentElement.scrollTop > 80
+    ) {
       document.querySelector(".header").style.background = "#000";
     } else {
       document.querySelector(".header").style.background = "transparent";
     }
   }
-  
+
   return (
     <header className="header">
+      <ModalHeader state={modal} closeModal={setModal}/>
       <div className={"header__container"}>
         <div>
           <NavLink to="/">
@@ -68,14 +74,15 @@ const Header = () => {
           >
             <p>Productos</p>
           </NavLink>
-          {/* <NavLink
-            to="/pedidos"
-            className={({ isActive }) =>
-              isActive ? activeLinkClassName : notActiveLinkClassName
-            }
+          <ReactWhatsapp
+            number="+5493513582675"
+            message="Hola! Me gustaría saber el precio de"
+            className="header__whatsapp"
           >
-            <p>Pedidos</p>
-          </NavLink> */}
+            <NavLink className="header__link">
+              <p>Pedidos</p>
+            </NavLink>
+          </ReactWhatsapp>
           <NavLink
             to="/sobre-nosotros"
             className={({ isActive }) =>
@@ -87,15 +94,9 @@ const Header = () => {
         </div>
 
         <div className={"header__disableMobile"}>
-          <NavLink
-            to="/contacto"
-            className={"header__contact"}
-            //   className={({ isActive }) =>
-            //   isActive ? activeContactClassName : notActiveContactClassName
-            // }
-          >
+          <div className={"header__contact"} onClick={() => setModal(true)}>
             <p>Contacto</p>
-          </NavLink>
+          </div>
         </div>
 
         <Button

@@ -24,7 +24,7 @@ header {
 
 .header__menu {
   display: flex;
-  font-size: 14px;
+  font-size: 15px;
   color: $light-brown;
   gap: 3rem;
   z-index: 98;
@@ -37,18 +37,20 @@ header {
 .header__link {
   color: $white;
   font-weight: 500;
+  padding-bottom: 0.8rem;
 }
 
 .header__activeLink {
   color: $light-pink;
   font-weight: 500;
   position: relative;
+  padding-bottom: 0.8rem;
 }
 
 .header__activeLink:after {
   content: "";
   background-color: $light-brown;
-  height: 2px;
+  height: 1.5px;
   width: 70%;
   position: absolute;
   top: 25px;
@@ -69,7 +71,7 @@ header {
   height: 40px;
   color: $white;
   font-weight: 600;
-  font-size: 14px;
+  font-size: 15px;
   cursor: pointer;
 }
 
@@ -94,6 +96,16 @@ header {
 
 .header__menuDrawer {
   position: absolute;
+}
+
+.header__whatsapp {
+  background: transparent;
+  border: none;
+  display: flex;
+  font-family: "Poppins", sans-serif;
+  font-size: 15px;
+  justify-content: flex-start;
+  padding: 0;
 }
 
 @media only screen and (min-width: 670px) {

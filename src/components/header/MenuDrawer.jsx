@@ -1,9 +1,10 @@
 import React from "react";
-import { Link } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 import styled from "styled-components";
 import { faArrowRight } from "@fortawesome/free-solid-svg-icons";
 import Button from "../global/Button";
 import Icon from "../global/Icon";
+import ReactWhatsapp from "react-whatsapp";
 
 import facebook from "../../assets/menudrawer__logo_fb.svg";
 import instagram from "../../assets/menudrawer__logo_ig.svg";
@@ -34,45 +35,72 @@ const NavbarWrapper = styled.nav`
 `;
 
 const MenuDrawer = ({ open, handleClick }) => {
+  const activeLinkClassName = "menuDrawer__activeLink";
+  const notActiveLinkClassName = "menuDrawer__link";
+
   return (
     <NavbarWrapper open={open}>
-      <div className='menudrawer__divMenu'>
+      <div className="menudrawer__divMenu">
         <Button
-          css='menudrawer__btnWrapper'
+          css="menudrawer__btnWrapper"
           event={handleClick}
-          text={<Icon css='menudrawer__xWrapper' icon={faArrowRight} />}
+          text={<Icon css="menudrawer__xWrapper" icon={faArrowRight} />}
         />
       </div>
 
-      <div className='menudrawer__link'>
-        <Link to="/">
+      <div className="menudrawer__link">
+        <NavLink
+          to="/"
+          className={({ isActive }) =>
+            isActive ? activeLinkClassName : notActiveLinkClassName
+          }
+        >
           <p>Inicio</p>
-        </Link>
+        </NavLink>
       </div>
-      <div className='menudrawer__link'>
-        <Link to="/productos">
+      <div className="menudrawer__link">
+        <NavLink
+          to="/productos"
+          className={({ isActive }) =>
+            isActive ? activeLinkClassName : notActiveLinkClassName
+          }
+        >
           <p>Productos</p>
-        </Link>
+        </NavLink>
       </div>
-      <div className='menudrawer__link'>
-        <Link to="/pedidos">
-          <p>Pedidos</p>
-        </Link>
+      <div className="menudrawer__link">
+        <ReactWhatsapp number="+5493513582675" message="Hola! Me gustaría saber el precio de" className="header__whatsapp">
+          <NavLink
+            className="header__link"
+          >
+            <p>Pedidos</p>
+          </NavLink>
+        </ReactWhatsapp>
       </div>
 
-      <div className='menudrawer__link'>
-        <Link to="/sobre-nosotros">
+      <div className="menudrawer__link">
+        <NavLink
+          to="/sobre-nosotros"
+          className={({ isActive }) =>
+            isActive ? activeLinkClassName : notActiveLinkClassName
+          }
+        >
           <p>Sobre Nosotros</p>
-        </Link>
+        </NavLink>
       </div>
 
-      <div className='menudrawer__link'>
-        <Link to="/contacto">
+      <div className="menudrawer__link">
+        <NavLink
+          to="/contacto"
+          className={({ isActive }) =>
+            isActive ? activeLinkClassName : notActiveLinkClassName
+          }
+        >
           <p>Contacto</p>
-        </Link>
+        </NavLink>
       </div>
 
-      <div className='menudrawer__ley'>
+      <div className="menudrawer__ley">
         <p>
           Ley 24.788. Prohíbese en todo el territorio nacional, el expendio a
           menores de dieciocho años, de todo tipo de bebidas alcohólicas. Créase
@@ -81,10 +109,25 @@ const MenuDrawer = ({ open, handleClick }) => {
         </p>
       </div>
 
-      <div className='menudrawer__socialNetworks'>
-        <img src={facebook} alt="fb" />
-        <img src={instagram} alt="ig" />
-        <img src={phone} alt="tel" />
+      <div className="menudrawer__socialNetworks">
+        <a
+          href="https://www.facebook.com/profile.php?id=100063623920462"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img src={facebook} alt="fb" />
+        </a>
+
+        <a
+          href="https://www.instagram.com/drinking.cba/"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img src={instagram} alt="ig" />
+        </a>
+        <a href="tel:+5493515186464">
+          <img src={phone} alt="tel" />
+        </a>
       </div>
     </NavbarWrapper>
   );
