@@ -34,7 +34,7 @@ const SobreNosotrosContenido = () => {
       <div className="sobrenosotroscontenido__article-reverse">
         <div className="sobrenosotroscontenido__article-text">
             <h3>GrowKing</h3>
-            <p>En 2018, Roger se unió al negocio con <a href="/">GrowKing</a>, experto en cultivo y todo lo que eso conlleva, uno de sus mayores deseos es enseñarle a la gente el mundo del grow. Posee artículos desde semillas, parafernalia, elementos para el cultivo y plantines, productos nacionales e importados. Junto a Juan, ambos conforman DrinKing y GrowKing.</p>
+            <p>En 2018, Roger se unió al negocio con <a href="https://www.growking.com.ar/" target="_blank" rel="noreferrer">GrowKing</a>, experto en cultivo y todo lo que eso conlleva, uno de sus mayores deseos es enseñarle a la gente el mundo del grow. Posee artículos desde semillas, parafernalia, elementos para el cultivo y plantines, productos nacionales e importados. Junto a Juan, ambos conforman DrinKing y GrowKing.</p>
         </div>
         <div className="sobrenosotroscontenido__article-img">
             <img src={GrowKingSocio} alt="GrowKingSocio" loading="lazy"/>

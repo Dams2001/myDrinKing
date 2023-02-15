@@ -8,7 +8,7 @@ const ReadMore = () => {
       <div className="readmore__titulo">
         <h2>[Entrada a publicaciones de Instagram]</h2>
       </div>
-      <Link to={"/entradas-blog"}><Button css="readmore__boton" text="Leer más" /></Link>
+      <Link to={"/entradas-blog"}><Button css="readmore__boton" text="Acá" /></Link>
     </section>
   );
 };
