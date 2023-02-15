@@ -44,7 +44,7 @@ const SobreNosotrosContenido = () => {
       <div className="sobrenosotroscontenido__article">
         <div className="sobrenosotroscontenido__article-text">
             <h3>La Tienda</h3>
-            <p>El local se encuentra ubicado en la calle Av. Pueyrredón 191, Córdoba Capital, Córdoba, Argentina, en barrio Nueva Córdoba. Entre las calles Obispo Trejo y Avenida Vélez Sarsfield. El mismo posee delivery propio y la mayor variedad de productos en bebidas y grow de la Ciudad.</p>
+            <p>El local se encuentra ubicado en la calle Av. Pueyrredón 191, Córdoba Capital, Córdoba, Argentina, en barrio Nueva Córdoba. Entre las calles Obispo Trejo y Avenida Vélez Sarsfield. El mismo posee delivery propio y la mayor variedad de productos en bebidas y cultivo de la Ciudad.</p>
         </div>
         <div className="sobrenosotroscontenido__article-img">
             {/* <MapView latitud={"-31.42650374619513"} longitud={"-64.19136220240563"} /> */}
