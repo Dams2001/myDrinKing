@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 import Heroe from './contenido/Heroe';
 import Cards from './contenido/cards/Cards';
-import ReadMore from './contenido/ReadMore';
+//import ReadMore from './contenido/ReadMore';
 import Services from './contenido/Services';
 import TheStore from './contenido/TheStore';
 
@@ -15,9 +15,9 @@ const Home = () => {
     <section className='home__container'>
       <Heroe />
       <Cards />
-      <ReadMore />
-      <Services />
+      {/* <ReadMore /> */}
       <TheStore />
+      <Services />
     </section>
   )
 }
