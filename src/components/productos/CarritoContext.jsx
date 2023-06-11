@@ -73,7 +73,7 @@ export const CarritoProvider = ({ children }) => {
     setTotal(0);
 
     // Construir el mensaje para WhatsApp
-    const mensajeWhatsApp = "Juanchoman, podrías asesorarme en la compra de estos productos:\n" + carritoItems.map(item =>"- " + item.titulo).join("\n");
+    const mensajeWhatsApp = "Hola, podrías asesorarme en la compra de estos productos:\n" + carritoItems.map(item =>"- " + item.titulo).join("\n");
 
     // Modificar la URL de WhatsApp con tu número de teléfono
     const numeroTelefono = "5493513582675";
