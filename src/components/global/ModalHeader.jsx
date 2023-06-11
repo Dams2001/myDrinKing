@@ -17,7 +17,7 @@ const ModalHeader = ({ state, closeModal }) => {
           <div className="modalheader__background_container" />
           <div className="modalheader__cardContainer">
             <a
-              href="https://www.facebook.com/profile.php?id=100063623920462"
+              href="https://www.facebook.com/Growking.cba"
               target="_blank"
               rel="noreferrer"
             >
@@ -27,7 +27,7 @@ const ModalHeader = ({ state, closeModal }) => {
               </div>
             </a>
             <a
-              href="https://www.instagram.com/drinking.cba/"
+              href="https://www.instagram.com/growking.cba/"
               target="_blank"
               rel="noreferrer"
             >
@@ -38,7 +38,7 @@ const ModalHeader = ({ state, closeModal }) => {
             </a>
             <ReactWhatsapp
               className="header__whatsapp"
-              number="+5493513582675"
+              number="+5493516348772"
               message="Hola! Me gustaría saber el precio de"
             >
               <div className="modalheader__item">

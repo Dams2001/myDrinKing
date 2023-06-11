@@ -15,3 +15,32 @@
 @import './components/postsinstagram';
 @import './components/productos';
 @import './components/modalHeader';
+
+
+
+.whatsapp-button {
+    position: fixed;
+    bottom: 5vh;
+    right: 4vw;
+    /*left: 20px;*/
+    z-index: 9999;
+    background-color: #25d366;
+    color: #fff;
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    transition: background-color 0.3s ease;
+  }
+  
+  .whatsapp-button:hover {
+    background-color: #128c7e;
+  }
+  
+  .whatsapp-button svg {
+    width: 30px;
+    height: 30px;
+  }

@@ -3,7 +3,7 @@
   background: rgb(0, 0, 0) url("../../assets/header__background.jpg") no-repeat
     fixed right top;
   background-size: cover;
-  height: 115vh;
+  height: 65vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -13,14 +13,14 @@
 
 .heroe__title {
   font-size: 35px;
-  color: $light-pink;
+  color: $light-cream;
   width: 90%;
   text-align: center;
 }
 
 .heroe__button {
   background-color: transparent;
-  border: 2px solid $light-brown;
+  border: 2px solid $light-green;
   border-radius: 50px;
   width: 11rem;
   display: flex;
@@ -35,7 +35,8 @@
 }
 
 .heroe__ley {
-  font-size: 12px;
+  text-align: center;
+  font-size: 13.5px;
   color: $light-cream;
   position: absolute;
   bottom: 2px;
@@ -46,6 +47,7 @@
 @media only screen and (min-width: 670px) {
   .heroe__ley {
     display: block;
+    text-align: center;
   }
   .heroe__title {
     font-size: 40px;
@@ -56,10 +58,14 @@
 @media only screen and (min-width: 769px) {
   .heroe__title {
     font-size: 50px;
-    width: 40%;
+    width: 50%;
   }
   .heroe__container {
     background: rgb(0, 0, 0) url("../../assets/header__background.jpg")
       no-repeat fixed 5%;
+  }
+  .heroe__ley {
+    /*display: block;*/
+    text-align: center;
   }
 }

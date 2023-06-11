@@ -25,7 +25,7 @@ const NavbarWrapper = styled.nav`
   width: 80%;
   max-width: 300px;
   min-width: 150px;
-  height: 100vh;
+  height: 90vh;
   transition: right 0.3s linear;
   z-index: 99993;
 
@@ -38,6 +38,10 @@ const MenuDrawer = ({ open, handleClick }) => {
   const activeLinkClassName = "menuDrawer__activeLink";
   const notActiveLinkClassName = "menuDrawer__link";
 
+  const handleCloseMenu = () => {
+    handleClick(); // Cerrar el menú al hacer clic en un enlace
+  };
+
   return (
     <NavbarWrapper open={open}>
       <div className="menudrawer__divMenu">
@@ -48,24 +52,24 @@ const MenuDrawer = ({ open, handleClick }) => {
         />
       </div>
 
-      <div className="menudrawer__link">
+      <div className="menudrawer__link" onClick={handleCloseMenu}>
         <NavLink
           to="/"
           className={({ isActive }) =>
             isActive ? activeLinkClassName : notActiveLinkClassName
           }
         >
-          <p>Inicio</p>
+          <p>Home</p>
         </NavLink>
       </div>
-      <div className="menudrawer__link">
+      <div className="menudrawer__link" onClick={handleCloseMenu}>
         <NavLink
           to="/productos"
           className={({ isActive }) =>
             isActive ? activeLinkClassName : notActiveLinkClassName
           }
         >
-          <p>Productos</p>
+          <p>Shop</p>
         </NavLink>
       </div>
       {/* <div className="menudrawer__link">
@@ -78,7 +82,9 @@ const MenuDrawer = ({ open, handleClick }) => {
         </ReactWhatsapp>
       </div> */}
 
-      <div className="menudrawer__link">
+
+      {/*
+      <div className="menudrawer__link" onClick={handleCloseMenu}>
         <NavLink
           to="/sobre-nosotros"
           className={({ isActive }) =>
@@ -88,6 +94,7 @@ const MenuDrawer = ({ open, handleClick }) => {
           <p>Sobre Nosotros</p>
         </NavLink>
       </div>
+       */}    
 
       {/* <div className="menudrawer__link">
         <NavLink
@@ -102,10 +109,10 @@ const MenuDrawer = ({ open, handleClick }) => {
 
       <div className="menudrawer__ley">
         <p>
-          Ley 24.788. Prohíbese en todo el territorio nacional, el expendio a
-          menores de dieciocho años, de todo tipo de bebidas alcohólicas. Créase
-          el Programa Nacional de Prevención y Lucha contra el Consumo Excesivo
-          de Alcohol.
+        Ley 24.788. Prohíbese en todo el territorio nacional, el expendio a
+        menores de dieciocho años, de todo tipo de bebidas alcohólicas. Créase
+        el Programa Nacional de Prevención y Lucha contra el Consumo Excesivo de
+        Alcohol.
         </p>
       </div>
 

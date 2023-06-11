@@ -1,3 +1,10 @@
+
+.lupa-icon {
+  background-image: url('../../assets/images/lupa-icon.png');
+  // Resto de tus estilos
+}
+
+
 .productos__container {
   background-color: $black;
   color: $light-cream;
@@ -10,8 +17,8 @@
 .productos {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 1rem;
-  align-items: center;
+  gap: 0.5rem;
+  align-items: start;
 }
 
 .productos__productos {
@@ -23,13 +30,14 @@
 .productos__productos h2 {
   text-align: center;
   font-size: 36px;
-  padding: 2rem;
+  padding: 0rem;
 }
 
 .producto__img_container img {
   width: 100%;
   height: 100%;
   object-fit: cover;
+  border-radius: 10px;
 }
 
 .producto__img_container {
@@ -45,21 +53,31 @@
 }
 
 .producto__title h3{
+  text-align: center;
   font-weight: 400;
   color: $light-cream;
-  font-size: 11px;
+  font-size: 14px;
 }
 
 .productos__btn {
-  font-size: 18px;
+  /*display: none;*/
+  font-size: 12px;
   padding: 0.7rem 2rem;
+  margin-top: 0.5rem;
   margin-bottom: 2rem;
   background-color: transparent;
-  color: $light-brown;
-  border: 1px solid $light-brown;
+  color: $soft-green;
+  border: 1px solid $soft-green;
   border-radius: 25px;
   cursor: pointer;
 }
+.productos__btn.added {
+  background-color:$black
+}
+/*
+.productos__btn:active{
+  background-color: #CFF2B8;
+}*/
 
 .categorias__container {
   display: flex;
@@ -69,28 +87,43 @@
   justify-content: center;
   gap: 1rem;
   margin-bottom: 3rem;
-  margin-top: 0rem;
+  margin-top: 3rem;
 }
 
 .categorias__container .categorias__btn p {
   width: 170px;
-  background-color: $dark-brown;
+  background-color: $dark-green;
   color: $white;
   font-family: "Poppins", sans-serif;
   font-size: 12px;
   font-weight: 600;
   padding: 0.5rem;
   cursor: pointer;
-  border: 1px solid $light-brown;
+  border: 1px solid $dark-green;
   border-radius: 25px;
   text-align: center;
   width: 100%;
 }
 
+.buscadorProductos{
+  display: flex;
+  height: 40px;
+  width: 80%;
+  font-family: Arial;
+  font-size: 15px;
+  margin: 80px auto;
+  border-radius: 5px;
+  border: 3px solid #CFF2B8;
+  padding-left: 30px;
+  background-image: url('../../assets/images/lupa-icon.png');
+  background-position: 5px center;
+  background-repeat: no-repeat;
+  background-size: 15px;
+}
 
 @media only screen and (min-width: 769px) {
   .productos {
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
   }
   .producto__img_container {
     width: 90%;
@@ -113,6 +146,11 @@
   }
   .productos__container {
     flex-direction: row;
+  }
+  .productos__productos h2 {
+    text-align: center;
+    font-size: 36px;
+    padding: 1rem;
   }
   .categorias__container {
     display: flex;
@@ -138,7 +176,7 @@
 @media only screen and (min-width: 1100px) {
   .productos {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
     gap: 1rem;
   }
 }

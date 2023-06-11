@@ -1,18 +1,20 @@
-import React, { useState, useRef, useEffect } from "react";
+import React, { useState, useRef, useEffect, useContext } from "react";
 import { NavLink } from "react-router-dom";
-
+import logo from "../../assets/images/LOGO GROWKING LOGO SOMBRA.png";
+import CarritoCompras from './CarritoCompras';
+import { CarritoContext } from "../productos/CarritoContext";
 import MenuDrawer from "./MenuDrawer";
 import Button from "../global/Button";
 import Icon from "../global/Icon";
-import { faBarsStaggered } from "@fortawesome/free-solid-svg-icons";
+import { faBarsStaggered, faShoppingCart } from "@fortawesome/free-solid-svg-icons";
 import ModalHeader from "../global/ModalHeader";
-import ReactWhatsapp from "react-whatsapp";
 
 const Header = () => {
   const refMenu = useRef(null);
 
   const [open, setOpen] = useState(false);
-
+  const [carritoOpen, setCarritoOpen] = useState(false); // Nuevo estado para controlar si el carrito está abierto o cerrado
+  const { carritoItems, total } = useContext(CarritoContext); // Obtener los valores del contexto del carrito
   const hideOnClickOutside = (e) => {
     if (refMenu.current && !refMenu.current.contains(e.target)) {
       setOpen(false);
@@ -23,8 +25,12 @@ const Header = () => {
     document.addEventListener("click", hideOnClickOutside, true);
   }, []);
 
-  const handleClick = () => {
+  const handleMenuClick = () => {
     setOpen(!open);
+  };
+
+  const handleCarritoClick = () => {
+    setCarritoOpen(!carritoOpen);
   };
 
   const activeLinkClassName = "header__activeLink";
@@ -49,14 +55,20 @@ const Header = () => {
 
   return (
     <header className="header">
-      <ModalHeader state={modal} closeModal={setModal}/>
+      <ModalHeader state={modal} closeModal={setModal} />
       <div className={"header__container"}>
-        <div>
+      <div>
           <NavLink to="/">
-            <h1 className="header__logo">DrinKing</h1>
+            <h1 className="header__logo" style={{color:"white"}}>DrinKing</h1>
           </NavLink>
         </div>
-
+        {/*
+        <div>
+          <a href="https://www.instagram.com/growking.cba/" target="_blank" rel="noopener noreferrer">
+            <img src={logo} alt="GrowKing Logo" className="header__logo" />
+          </a>
+        </div>
+        */}
         <div className={"header__disableMobile header__menu"}>
           <NavLink
             to="/"
@@ -74,15 +86,6 @@ const Header = () => {
           >
             <p>Productos</p>
           </NavLink>
-          {/* <ReactWhatsapp
-            number="+5493513582675"
-            message="Hola! Me gustaría saber el precio de"
-            className="header__whatsapp"
-          >
-            <NavLink className="header__link">
-              <p>Pedidos</p>
-            </NavLink>
-          </ReactWhatsapp> */}
           <NavLink
             to="/sobre-nosotros"
             className={({ isActive }) =>
@@ -90,25 +93,42 @@ const Header = () => {
             }
           >
             <p>Sobre Nosotros</p>
-          </NavLink>
-        </div>
+          </NavLink>        
 
+        </div>
+        
         <div className={"header__disableMobile"}>
-          <div className={"header__contact"} onClick={() => setModal(true)}>
+          {/*<div className={"header__contact"} onClick={() => setModal(true)}>
             <p>Contacto</p>
-          </div>
+          </div>*/}
         </div>
 
+        {/* Nuevo botón para abrir el carrito de compras */}
+        <Button
+            css={"header__btnWrapper__wsp icon__softgreen"}
+            event={handleCarritoClick}
+            text={<Icon css={"header__barsWrapper"} icon={faShoppingCart} />}
+          />
+        
+        {/* Botón para abrir el menú */}
         <Button
           css={"header__btnWrapper"}
-          event={handleClick}
+          event={handleMenuClick}
           text={<Icon css={"header__barsWrapper"} icon={faBarsStaggered} />}
         />
 
         <div ref={refMenu} className={"header__menuDrawer"}>
-          <MenuDrawer open={open} handleClick={handleClick} />
+          <MenuDrawer open={open} handleClick={handleMenuClick} />
         </div>
       </div>
+
+      {/* Mostrar el carrito de compras si está abierto */}
+      {carritoOpen && (
+        <div className="carrito-de-compras">
+          {/* Contenido del carrito de compras */}
+          <CarritoCompras carritoItems={carritoItems} total={total} /> {/* Pasar los valores del contexto al componente */}
+        </div>
+      )}
     </header>
   );
 };

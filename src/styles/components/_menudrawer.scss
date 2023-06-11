@@ -37,6 +37,7 @@
   border-bottom: 2px solid var(--color-3);
   display: flex;
   justify-content: flex-start;
+  margin:5px auto;
 }
 
 .menudrawer__link p {
@@ -60,7 +61,7 @@
   align-items: center;
   justify-content: center;
   margin-top: 5px;
-  margin-bottom: 20px;
+  margin-bottom: 30%;
 }
 
 .menudrawer__socialNetworks img {
@@ -73,14 +74,14 @@
 }
 
 .menuDrawer__activeLink {
-  color: $light-brown;
+  color: $soft-green;
   font-weight: 700;
   position: relative;
 }
 
 .menuDrawer__activeLink :after {
   content: "";
-  background-color: $dark-grey;
+  background-color: $light-green;
   height: 1.7px;
   width: 30%;
   position: absolute;

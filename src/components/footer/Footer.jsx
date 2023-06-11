@@ -12,14 +12,14 @@ const Footer = () => {
     <footer className="footer__container">
       <div className="footer__top">
         <div className="footer__top_logo">
-          <h2>DrinKing</h2>
-          <p>Expendio de bebidas y complementos</p>
+          <h2>GrowKing</h2>
+          <p>Tienda de semillas y plantines, parafernalia, cultivo y tabaco</p>
         </div>
         <div className="footer__top_categorias">
           <div className="footer__top_redes">
             <li>
               <a
-                href="https://www.facebook.com/profile.php?id=100063623920462"
+                href="https://www.facebook.com/Growking.cba"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -28,7 +28,7 @@ const Footer = () => {
             </li>
             <li>
               <a
-                href="https://www.instagram.com/drinking.cba/"
+                href="https://www.instagram.com/growking.cba/"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -36,7 +36,7 @@ const Footer = () => {
               </a>
             </li>
             <li>
-              <a href="tel:+5493515186464">
+              <a href="tel:+5493516348772">
                 <img src={phone} alt="phone" />
               </a>
             </li>
@@ -45,7 +45,7 @@ const Footer = () => {
       </div>
       <div className="footer__bottom">
         <div className="footer__bottom_copyright">
-          <p>&copy; 2023 DrinKing. Todos los derechos reservados.</p>
+          <p>&copy; 2023 GrowKing. Todos los derechos reservados.</p>
         </div>
         <div className="footer__bottom_politicas">
           <Modal

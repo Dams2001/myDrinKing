@@ -1,7 +1,7 @@
 .cards__productos {
   background-color: $black;
   color: $font-color;
-  padding: 7rem 0;
+  padding-top: 7rem;
   display: flex;
   flex-direction: column;
   gap: 4rem;
@@ -24,7 +24,7 @@
 }
 
 .cards__mobile {
-  display: flex;
+  display: none;
   gap: 3.5rem;
 }
 
@@ -47,6 +47,7 @@
 
 .cards__productos_contenido img {
   width: 16rem;
+  border-radius: 5%;
 }
 
 .cards__productos_titulo {
@@ -57,7 +58,7 @@
 }
 
 .cards__productos_titulo_icono {
-  color: $dark-brown;
+  color: $light-green;
   font-size: 45px;
 }
 
@@ -71,12 +72,13 @@
   color: $light-pink;
   font-size: 21px;
   font-weight: 600;
-  border: 2px solid $dark-brown;
+  border: 2px solid $light-green;
   cursor: pointer;
 }
 
 .cards__productos_titulo h2 {
   font-size: 32px;
+  color: $light-cream;
 }
 
 .cards__productos_titulo .line {
@@ -98,6 +100,19 @@
   background: transparent;
 }
 
+
+@media only screen and (max-width: 625px) {
+
+  .cards__productos_contenido{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 0.5rem;
+    overflow-x: scroll;
+  }
+  
+}
+
 @media only screen and (min-width: 625px) {
   .cards__productos_contenido img {
     width: 19rem;
@@ -105,7 +120,6 @@
   .cards__mobile {
     display: none;
   }
-
   .cards__productos_varios .cards__productos_titulo {
     display: flex;
     flex-direction: row;
