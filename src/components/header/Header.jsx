@@ -58,17 +58,19 @@ const Header = () => {
       <ModalHeader state={modal} closeModal={setModal} />
       <div className={"header__container"}>
       <div>
+        {/*
           <NavLink to="/">
             <h1 className="header__logo" style={{color:"white"}}>DrinKing</h1>
           </NavLink>
+        */}
         </div>
-        {/*
+        
         <div>
           <a href="https://www.instagram.com/growking.cba/" target="_blank" rel="noopener noreferrer">
             <img src={logo} alt="GrowKing Logo" className="header__logo" />
           </a>
         </div>
-        */}
+        
         <div className={"header__disableMobile header__menu"}>
           <NavLink
             to="/"

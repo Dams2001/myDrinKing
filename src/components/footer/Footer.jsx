@@ -12,7 +12,7 @@ const Footer = () => {
     <footer className="footer__container">
       <div className="footer__top">
         <div className="footer__top_logo">
-          <h2>GrowKing</h2>
+          <h2>DrinKing</h2>
           <p>Tienda de semillas y plantines, parafernalia, cultivo y tabaco</p>
         </div>
         <div className="footer__top_categorias">
@@ -45,7 +45,7 @@ const Footer = () => {
       </div>
       <div className="footer__bottom">
         <div className="footer__bottom_copyright">
-          <p>&copy; 2023 GrowKing. Todos los derechos reservados.</p>
+          <p>&copy; 2023 DrinKing. Todos los derechos reservados.</p>
         </div>
         <div className="footer__bottom_politicas">
           <Modal

@@ -76,7 +76,7 @@ export const CarritoProvider = ({ children }) => {
     const mensajeWhatsApp = "Juanchoman, podrías asesorarme en la compra de estos productos:\n" + carritoItems.map(item =>"- " + item.titulo).join("\n");
 
     // Modificar la URL de WhatsApp con tu número de teléfono
-    const numeroTelefono = "5493516348772";
+    const numeroTelefono = "5493513582675";
     const urlWhatsApp = `https://api.whatsapp.com/send?phone=${numeroTelefono}&text=${encodeURIComponent(mensajeWhatsApp)}`;
 
     // Redirigir a WhatsApp
