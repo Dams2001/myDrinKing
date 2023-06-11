@@ -13,7 +13,7 @@ const Footer = () => {
       <div className="footer__top">
         <div className="footer__top_logo">
           <h2>DrinKing</h2>
-          <p>Tienda de semillas y plantines, parafernalia, cultivo y tabaco</p>
+          {/*<p>Tienda de semillas y plantines, parafernalia, cultivo y tabaco</p>*/}
         </div>
         <div className="footer__top_categorias">
           <div className="footer__top_redes">
