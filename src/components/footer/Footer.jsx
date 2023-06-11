@@ -19,7 +19,7 @@ const Footer = () => {
           <div className="footer__top_redes">
             <li>
               <a
-                href="https://www.facebook.com/Growking.cba"
+                href="https://www.facebook.com/profile.php?id=100063623920462"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -28,7 +28,7 @@ const Footer = () => {
             </li>
             <li>
               <a
-                href="https://www.instagram.com/growking.cba/"
+                href="https://www.instagram.com/drinking.cba/"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -36,7 +36,7 @@ const Footer = () => {
               </a>
             </li>
             <li>
-              <a href="tel:+5493516348772">
+              <a href="tel:+5493513582675">
                 <img src={phone} alt="phone" />
               </a>
             </li>
