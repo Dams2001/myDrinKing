@@ -57,13 +57,12 @@ const Header = () => {
     <header className="header">
       <ModalHeader state={modal} closeModal={setModal} />
       <div className={"header__container"}>
-      <div>
         {/*
           <NavLink to="/">
             <h1 className="header__logo" style={{color:"white"}}>DrinKing</h1>
           </NavLink>
         */}
-        </div>
+      
         
         <div>
           <a href="https://www.instagram.com/drinking.cba/" target="_blank" rel="noopener noreferrer">
