@@ -66,7 +66,7 @@ const Header = () => {
         </div>
         
         <div>
-          <a href="https://www.instagram.com/growking.cba/" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.instagram.com/drinking.cba/" target="_blank" rel="noopener noreferrer">
             <img src={logo} alt="GrowKing Logo" className="header__logo" />
           </a>
         </div>
