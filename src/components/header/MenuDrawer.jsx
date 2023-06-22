@@ -83,7 +83,7 @@ const MenuDrawer = ({ open, handleClick }) => {
       </div> */}
 
 
-      {/*
+      
       <div className="menudrawer__link" onClick={handleCloseMenu}>
         <NavLink
           to="/sobre-nosotros"
@@ -91,10 +91,10 @@ const MenuDrawer = ({ open, handleClick }) => {
             isActive ? activeLinkClassName : notActiveLinkClassName
           }
         >
-          <p>Sobre Nosotros</p>
+          <p>Nosotros</p>
         </NavLink>
       </div>
-       */}    
+          
 
       {/* <div className="menudrawer__link">
         <NavLink
