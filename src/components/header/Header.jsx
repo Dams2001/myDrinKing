@@ -93,7 +93,7 @@ const Header = () => {
               isActive ? activeLinkClassName : notActiveLinkClassName
             }
           >
-            <p>Sobre Nosotros</p>
+            <p>Nosotros</p>
           </NavLink>        
 
         </div>

@@ -5,7 +5,7 @@ import GrowKingSocio from "../../assets/sobrenosotros__GrowKingSocio.jpg";
 const SobreNosotrosContenido = () => {
   return (
     <section className="sobrenosotroscontenido__container">
-      <div className="sobrenosotroscontenido__nuestra-mision">
+      {/* <div className="sobrenosotroscontenido__nuestra-mision">
         <h3>Nuestra misión</h3>
         <p>
           Dar a conocer las variedades de productos que todavía no se encuentran
@@ -17,7 +17,7 @@ const SobreNosotrosContenido = () => {
           para que de esta forma, el público pueda aprender y compartirlo con
           otras personas.
         </p>
-      </div>
+      </div> */}
       {/* DRINKING */}
       <div className="sobrenosotroscontenido__article">
         <div className="sobrenosotroscontenido__article-text">
@@ -45,7 +45,7 @@ const SobreNosotrosContenido = () => {
         </div>
       </div>
       {/* GROWKING */}
-      <div className="sobrenosotroscontenido__article-reverse">
+      {/* <div className="sobrenosotroscontenido__article-reverse">
         <div className="sobrenosotroscontenido__article-text">
           <h3>GrowKing</h3>
           <p>
@@ -60,7 +60,7 @@ const SobreNosotrosContenido = () => {
         <div className="sobrenosotroscontenido__article-img">
           <img src={GrowKingSocio} alt="GrowKingSocio" loading="lazy" />
         </div>
-      </div>
+      </div> */}
       {/* LA TIENDA */}
       <div className="sobrenosotroscontenido__article">
         <div className="sobrenosotroscontenido__article-text">

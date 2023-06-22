@@ -3,7 +3,7 @@ import React from 'react';
 const SobreNosotrosHeroe = () => {
   return (
     <section className='sobrenosotros__container'>
-        <h2>Nuestra Historia</h2>
+        <h2>Quiénes Somos</h2>
     </section>
   )
 }
