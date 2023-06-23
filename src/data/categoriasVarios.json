@@ -3,16 +3,7 @@
       "id": 4,
       "categoria": "Bazar, coctelería y botánicos",
       "img": "/images/promo_4.jpg" 
-    },
-    {
-      "id": 5,
-      "categoria": "Snacks",
-      "img": "/images/promo_5.jpg" 
-    },
-    {
-      "id": 6,
-      "categoria": "Juegos",
-      "img": "/images/promo_6.jpg" 
-    }
+    }    
   ]
+  
   

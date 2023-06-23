@@ -19,3 +19,13 @@ const ListaCategorias = ({ categorias, filtroCategoria }) => {
 };
 
 export default ListaCategorias;
+// {
+//   "id": 5,
+//   "categoria": "Snacks",
+//   "img": "/images/promo_5.jpg" 
+// },
+// {
+//   "id": 6,
+//   "categoria": "Juegos",
+//   "img": "/images/promo_6.jpg" 
+// }
