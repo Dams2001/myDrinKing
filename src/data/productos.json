@@ -149,140 +149,140 @@
   {
     "id": 22,
     "nombre": "Amarula",
-    "categoria": "Bebidas Destiladas",
+    "categoria": "Bebidas Espirituosas",
     "img": "/images/bebidas-destiladas/amarula.png",
     "precio": "2971.95"
   },
   {
     "id": 24,
     "nombre": "Baileys",
-    "categoria": "Bebidas Destiladas",
+    "categoria": "Bebidas Espirituosas",
     "img": "/images/bebidas-destiladas/baileys.png",
     "precio": "3375.81"
   },
   {
     "id": 25,
     "nombre": "Barcelo Dorado",
-    "categoria": "Bebidas Destiladas",
+    "categoria": "Bebidas Espirituosas",
     "img": "/images/bebidas-destiladas/barcelo-dorado.png",
     "precio": "6528.71"
   },
   {
     "id": 26,
     "nombre": "Beefeater",
-    "categoria": "Bebidas Destiladas",
+    "categoria": "Bebidas Espirituosas",
     "img": "/images/bebidas-destiladas/beefeater.png",
     "precio": "315.35"
   },
   {
     "id": 27,
     "nombre": "Campari Rosso",
-    "categoria": "Bebidas Destiladas",
+    "categoria": "Bebidas Espirituosas",
     "img": "/images/bebidas-destiladas/campari-rosso.png",
     "precio": "4779.43"
   },
   {
     "id": 28,
     "nombre": "Carpano Rosso",
-    "categoria": "Bebidas Destiladas",
+    "categoria": "Bebidas Espirituosas",
     "img": "/images/bebidas-destiladas/carpano-rosso.png",
     "precio": "320.55"
   },
   {
     "id": 29,
     "nombre": "Frizze",
-    "categoria": "Bebidas Destiladas",
+    "categoria": "Bebidas Espirituosas",
     "img": "/images/bebidas-destiladas/frizze.png",
     "precio": "2890.68"
   },
   {
     "id": 30,
     "nombre": "Gancia",
-    "categoria": "Bebidas Destiladas",
+    "categoria": "Bebidas Espirituosas",
     "img": "/images/bebidas-destiladas/gancia.png",
     "precio": "5741.84"
   },
   {
     "id": 31,
     "nombre": "Granadina Cusenier",
-    "categoria": "Bebidas Destiladas",
+    "categoria": "Bebidas Espirituosas",
     "img": "/images/bebidas-destiladas/granadina-cusenier.png",
     "precio": "6974.39"
   },
   {
     "id": 32,
     "nombre": "Hesperidina",
-    "categoria": "Bebidas Destiladas",
+    "categoria": "Bebidas Espirituosas",
     "img": "/images/bebidas-destiladas/hesperidina.png",
     "precio": "7891.79"
   },
   {
     "id": 33,
     "nombre": "Jack Daniels Honey",
-    "categoria": "Bebidas Destiladas",
+    "categoria": "Bebidas Espirituosas",
     "img": "/images/bebidas-destiladas/jack-daniels-honey.png",
     "precio": "7607.36"
   },
   {
     "id": 34,
     "nombre": "Jagermeister",
-    "categoria": "Bebidas Destiladas",
+    "categoria": "Bebidas Espirituosas",
     "img": "/images/bebidas-destiladas/jagermeister.png",
     "precio": "691.74"
   },
   {
     "id": 35,
     "nombre": "Jameson Ipa",
-    "categoria": "Bebidas Destiladas",
+    "categoria": "Bebidas Espirituosas",
     "img": "/images/bebidas-destiladas/jameson-ipa.png",
     "precio": "3272.33"
   },
   {
     "id": 36,
     "nombre": "Jim Beam Devils Cut",
-    "categoria": "Bebidas Destiladas",
+    "categoria": "Bebidas Espirituosas",
     "img": "/images/bebidas-destiladas/jim-beam-devils-cut.png",
     "precio": "1877.37"
   },
   {
     "id": 37,
     "nombre": "Llave",
-    "categoria": "Bebidas Destiladas",
+    "categoria": "Bebidas Espirituosas",
     "img": "/images/bebidas-destiladas/llave.png",
     "precio": "5280.37"
   },
   {
     "id": 38,
     "nombre": "Malibu",
-    "categoria": "Bebidas Destiladas",
+    "categoria": "Bebidas Espirituosas",
     "img": "/images/bebidas-destiladas/malibu.png",
     "precio": "6114.92"
   },
   {
     "id": 39,
     "nombre": "Martini",
-    "categoria": "Bebidas Destiladas",
+    "categoria": "Bebidas Espirituosas",
     "img": "/images/bebidas-destiladas/martini.png",
     "precio": "40.50"
   },
   {
     "id": 40,
     "nombre": "Sidra Real",
-    "categoria": "Bebidas Destiladas",
+    "categoria": "Bebidas Espirituosas",
     "img": "/images/bebidas-destiladas/sidra-real.png",
     "precio": "6548.68"
   },
   {
     "id": 41,
     "nombre": "Skyy Vodka",
-    "categoria": "Bebidas Destiladas",
+    "categoria": "Bebidas Espirituosas",
     "img": "/images/bebidas-destiladas/sky-vodka.png",
     "precio": "1400.38"
   },
   {
     "id": 42,
     "nombre": "Tia Maria Cafe",
-    "categoria": "Bebidas Destiladas",
+    "categoria": "Bebidas Espirituosas",
     "img": "/images/bebidas-destiladas/tia-maria-cafe.png",
     "precio": "4684.88"
   },
