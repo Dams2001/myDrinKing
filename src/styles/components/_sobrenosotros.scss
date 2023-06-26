@@ -34,8 +34,8 @@
 	  display: flex;
 	  padding: 0;
 	  width: 400%;
-  
-	  animation: slide 16s infinite alternate ease-in-out;
+    animation: slide 20s infinite normal ease-in-out;
+    //animation: slide 10s ease-in-out 2s alternate both running;
 	}
   
 	li {
@@ -51,33 +51,44 @@
   }
   
   @keyframes slide {
-	0% {
-	  margin-left: 0;
-	}
-	20% {
-	  margin-left: 0;
-	}
+	// 0% {
+	//   margin-left: 0;
+	// }
+	// 20% {
+	//   margin-left: 0;
+	// }
   
-	25% {
-	  margin-left: -100%;
-	}
-	45% {
-	  margin-left: -100%;
-	}
+	// 25% {
+	//   margin-left: -100%;
+	// }
+	// 45% {
+	//   margin-left: -100%;
+	// }
   
-	50% {
-	  margin-left: -200%;
-	}
-	70% {
-	  margin-left: -200%;
-	}
+	// 50% {
+	//   margin-left: -200%;
+	// }
+	// 70% {
+	//   margin-left: -200%;
+	// }
   
-	75% {
-	  margin-left: -300%;
-	}
-	100% {
-	  margin-left: -300%;
-	}
+	// 75% {
+	//   margin-left: -300%;
+	// }
+	// 100% {
+	//   margin-left: -300%;
+	// }
+    0% {margin-left: 0;}
+    10% {margin-left: 0;}
+    
+    15% {margin-left: -100%;}
+    25% {margin-left: -100%;}
+    
+    30% {margin-left: -200%;}
+    40% {margin-left: -200%;}
+    
+    45% {margin-left: -300%;}
+    50% {margin-left: -300%;}
   }
 
 // -------SOBRE NOSOTROS CONTENIDO-------
