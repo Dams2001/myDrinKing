@@ -25,7 +25,7 @@ const SobreNosotrosContenido = () => {
           <p>
             En el año 2016 Juan fundó{" "}
             <a
-              href="https://www.drinking.com.ar"
+              href="https://my-drin-king.vercel.app"
               target="_blank"
               rel="noreferrer"
             >
