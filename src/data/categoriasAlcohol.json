@@ -1,7 +1,12 @@
 [
     {
+      "id": 0,
+      "categoria": "Promos",
+      "img": "/images/promo_0.jpg" 
+    },
+    {
       "id": 1,
-      "categoria": "Bebidas destiladas",
+      "categoria": "Bebidas Espirituosas",
       "img": "/images/promo_1.jpg" 
     },
     {
