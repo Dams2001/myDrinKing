@@ -1,31 +1,11 @@
 [
-    {
-      "id": 1,
-      "nombre": "Cocteleria Acrilico",
-      "categoria": "Bazar, Cocteleria y Botanicos",
-      "img": "/images/bazar-cocteleria-botanicos/coctelera-acrilico-con-medidor.png",
-      "precio": "5000.15"
-    },
-    {
-      "id": 2,
-      "nombre": "Coctelera Boston",
-      "categoria": "Bazar, Cocteleria y Botanicos",
-      "img": "/images/bazar-cocteleria-botanicos/coctelera-boston.png",
-      "precio": "8521.09"
-    },
+  
     {
       "id": 3,
       "nombre": "Coctelera Plástica",
       "categoria": "Bazar, Cocteleria y Botanicos",
       "img": "/images/bazar-cocteleria-botanicos/coctelera-plastica-con-medidor.png",
       "precio": "2784.30"
-    },
-    {
-      "id": 4,
-      "nombre": "Colador Oruga",
-      "categoria": "Bazar, Cocteleria y Botanicos",
-      "img": "/images/bazar-cocteleria-botanicos/colador-oruga.png",
-      "precio": "985.60"
     },
     {
       "id": 5,
@@ -3516,7 +3496,7 @@
       "id": 563,
       "nombre": "COCTELERA BOSTON IMPORTADA",
       "categoria": "Bazar, Cocteleria y Botanicos",
-      "img": "/images/bazar-cocteleria-botanicos/LOGO GROWKING LOGO SOMBRA.png",
+      "img": "/images/bazar-cocteleria-botanicos/coctelera-boston.png",
       "precio": "10.150,00"
     },
     {
@@ -3754,7 +3734,7 @@
       "id": 597,
       "nombre": "COLADOR ORUGA",
       "categoria": "Bazar, Cocteleria y Botanicos",
-      "img": "/images/bazar-cocteleria-botanicos/LOGO GROWKING LOGO SOMBRA.png",
+      "img": "/images/bazar-cocteleria-botanicos/colador-oruga.png",
       "precio": "3.230,00"
     },
     {
@@ -4034,14 +4014,14 @@
         "id": 637,
         "nombre": "Wild Africa Licor",
         "categoria": "Bebidas Espirituosas",
-        "img": "/images/bebidas-espirituosas/Wild Africa Licor.jpg",
+        "img": "/images/bebidas-espirituosas/Wild Africa Licor.jpeg",
         "precio": "2.750,00"
       },
       {
         "id": 638,
         "nombre": "Baileys Chocolate (dolares)",
         "categoria": "Bebidas Espirituosas",
-        "img": "/images/bebidas-espirituosas/Baileys Chocolate (dolares).jpg",
+        "img": "/images/bebidas-espirituosas/Baileys Chocolate (dolares).png",
         "precio": "15,00"
       },
       {
@@ -4094,13 +4074,6 @@
         "precio": "2.270,00"
       },
       {
-        "id": 646,
-        "nombre": "",
-        "categoria": "Bebidas Espirituosas",
-        "img": "/images/bebidas-espirituosas/.jpg",
-        "precio": "5,00"
-      },
-      {
         "id": 647,
         "nombre": "PIÑA COLADA AMERCAN CLUB",
         "categoria": "Bebidas Espirituosas",
@@ -4148,13 +4121,6 @@
         "categoria": "Bebidas Espirituosas",
         "img": "/images/bebidas-espirituosas/HODLMOSER.jpg",
         "precio": "4.600,00"
-      },
-      {
-        "id": 654,
-        "nombre": " ",
-        "categoria": "Bebidas Espirituosas",
-        "img": "/images/bebidas-espirituosas/ .jpg",
-        "precio": "2.500,00"
       },
       {
         "id": 655,
@@ -4356,21 +4322,21 @@
         "id": 683,
         "nombre": "CAPITAN MORGAN COCO NUT DOLARES",
         "categoria": "Bebidas Espirituosas",
-        "img": "/images/bebidas-espirituosas/CAPITAN MORGAN COCO NUT DOLARES.jpg",
+        "img": "/images/bebidas-espirituosas/CAPITAN MORGAN COCO NUT DOLARES.png",
         "precio": "170,00"
       },
       {
         "id": 684,
         "nombre": "GIN MALARIA COMUN",
         "categoria": "Bebidas Espirituosas",
-        "img": "/images/bebidas-espirituosas/GIN MALARIA COMUN.jpg",
+        "img": "/images/bebidas-espirituosas/GIN MALARIA COMUN.png",
         "precio": "7.100,00"
       },
       {
         "id": 685,
         "nombre": "BOMBAY BLACKBERRY RASBERRY DOLARES BLUE LITRO",
         "categoria": "Bebidas Espirituosas",
-        "img": "/images/bebidas-espirituosas/BOMBAY BLACKBERRY RASBERRY DOLARES BLUE LITRO.jpg",
+        "img": "/images/bebidas-espirituosas/BOMBAY BLACKBERRY RASBERRY.jpg",
         "precio": "25,00"
       },
       {
@@ -4465,13 +4431,6 @@
         "precio": "17.700,00"
       },
       {
-        "id": 699,
-        "nombre": "CAÑA CON RUDA",
-        "categoria": "Bebidas Espirituosas",
-        "img": "/images/bebidas-espirituosas/CAÑA CON RUDA.jpg",
-        "precio": "460,00"
-      },
-      {
         "id": 700,
         "nombre": "JW GOT DRAGON O LOBO",
         "categoria": "Bebidas Espirituosas",
@@ -4549,13 +4508,6 @@
         "precio": "20.000,00"
       },
       {
-        "id": 711,
-        "nombre": "JACK DANIELS N°7 Litro (dolares)",
-        "categoria": "Bebidas Espirituosas",
-        "img": "/images/bazar-cocteleria-botanicos/LOGO GROWKING LOGO SOMBRA.png",
-        "precio": "35,00"
-      },
-      {
         "id": 712,
         "nombre": "JACK DANIELS N°7 Litro Caja Metal (dolares)",
         "categoria": "Bebidas Espirituosas",
@@ -4570,32 +4522,11 @@
         "precio": "20.000,00"
       },
       {
-        "id": 714,
-        "nombre": "JACK DANIELS Honey Litro (dolares)",
-        "categoria": "Bebidas Espirituosas",
-        "img": "/images/bebidas-espirituosas/JACK DANIELS Honey Litro (dolares).jpg",
-        "precio": "35,00"
-      },
-      {
-        "id": 715,
-        "nombre": "JACK DANIELS1,75 LITROS",
-        "categoria": "Bebidas Espirituosas",
-        "img": "/images/bebidas-espirituosas/JACK DANIELS1,75 LITROS.jpg",
-        "precio": "150,00"
-      },
-      {
         "id": 716,
         "nombre": "JACK DANIELS Fire, MANZANA APPLE 750 ml",
         "categoria": "Bebidas Espirituosas",
         "img": "/images/bebidas-espirituosas/JACK DANIELS Fire, MANZANA APPLE 750 ml.jpg",
         "precio": "20.000,00"
-      },
-      {
-        "id": 717,
-        "nombre": "JACK DANIELS Silver Select (dolares)",
-        "categoria": "Bebidas Espirituosas",
-        "img": "/images/bebidas-espirituosas/JACK DANIELS Silver Select (dolares).jpg",
-        "precio": "120,00"
       },
       {
         "id": 718,
@@ -4661,13 +4592,6 @@
         "precio": "5.570,00"
       },
       {
-        "id": 727,
-        "nombre": "Chivas Extra LITRO (dolares)",
-        "categoria": "Bebidas Espirituosas",
-        "img": "/images/bebidas-espirituosas/Chivas Extra LITRO (dolares).jpg",
-        "precio": "21,00"
-      },
-      {
         "id": 728,
         "nombre": "The Famous Grouse 750ML",
         "categoria": "Bebidas Espirituosas",
@@ -4731,13 +4655,6 @@
         "precio": "3.400,00"
       },
       {
-        "id": 737,
-        "nombre": "",
-        "categoria": "Bebidas Espirituosas",
-        "img": "/images/bebidas-espirituosas/.jpg",
-        "precio": "4.000,00"
-      },
-      {
         "id": 738,
         "nombre": "BALLATINE 750 ML",
         "categoria": "Bebidas Espirituosas",
@@ -4792,13 +4709,6 @@
         "categoria": "Bebidas Espirituosas",
         "img": "/images/bebidas-espirituosas/J & B 750 ml JyB Whisky.jpg",
         "precio": "3.300,00"
-      },
-      {
-        "id": 746,
-        "nombre": "",
-        "categoria": "Bebidas Espirituosas",
-        "img": "/images/bebidas-espirituosas/.jpg",
-        "precio": "2.900,00"
       },
       {
         "id": 747,
@@ -4860,7 +4770,7 @@
         "id": 755,
         "nombre": "STOLICHNAYA LITRO (DOLARES)",
         "categoria": "Bebidas Espirituosas",
-        "img": "/images/bebidas-espirituosas/STOLICHNAYA LITRO (DOLARES).jpg",
+        "img": "/images/bebidas-espirituosas/STOLICHNAYA LITRO (DOLARES).jpeg",
         "precio": "23,00"
       },
       {
@@ -4920,13 +4830,6 @@
         "precio": "13.700,00"
       },
       {
-        "id": 764,
-        "nombre": "",
-        "categoria": "Bebidas Espirituosas",
-        "img": "/images/bebidas-espirituosas/.jpg",
-        "precio": "250,00"
-      },
-      {
         "id": 765,
         "nombre": "GINEBRA LLAVE 750ML",
         "categoria": "Bebidas Espirituosas",
@@ -4983,13 +4886,6 @@
         "precio": "11.160,00"
       },
       {
-        "id": 773,
-        "nombre": "PACTO CON LOBOS GIN",
-        "categoria": "Bebidas Espirituosas",
-        "img": "/images/bebidas-espirituosas/PACTO CON LOBOS GIN.jpg",
-        "precio": "2.200,00"
-      },
-      {
         "id": 774,
         "nombre": "GIN ACONCAGUA  DE ALUMIO DE 500 ML",
         "categoria": "Bebidas Espirituosas",
@@ -5025,13 +4921,6 @@
         "precio": "25,00"
       },
       {
-        "id": 779,
-        "nombre": "Absolut LOVE Litro",
-        "categoria": "Bebidas Espirituosas",
-        "img": "/images/bebidas-espirituosas/Absolut LOVE Litro.jpg",
-        "precio": "16,00"
-      },
-      {
         "id": 780,
         "nombre": "BOMBAY LITRO CON CAJA EDICION LIMITADA",
         "categoria": "Bebidas Espirituosas",
@@ -5044,20 +4933,6 @@
         "categoria": "Bebidas Espirituosas",
         "img": "/images/bebidas-espirituosas/Smirnoff Triple Destilacion Litro dolares.jpg",
         "precio": "16,00"
-      },
-      {
-        "id": 782,
-        "nombre": "Patagonia Ice",
-        "categoria": "Bebidas Espirituosas",
-        "img": "/images/bebidas-espirituosas/Patagonia Ice.jpg",
-        "precio": ""
-      },
-      {
-        "id": 783,
-        "nombre": "Russian Vodka",
-        "categoria": "Bebidas Espirituosas",
-        "img": "/images/bebidas-espirituosas/Russian Vodka.jpg",
-        "precio": "500,00"
       },
       {
         "id": 784,
@@ -5170,13 +5045,6 @@
         "categoria": "Bebidas Espirituosas",
         "img": "/images/bebidas-espirituosas/BARCELO IMPERIAL.jpg",
         "precio": "15.400,00"
-      },
-      {
-        "id": 800,
-        "nombre": "",
-        "categoria": "Bebidas Espirituosas",
-        "img": "/images/bebidas-espirituosas/.jpg",
-        "precio": "3.300,00"
       },
       {
         "id": 801,
@@ -5305,13 +5173,6 @@
         "precio": "2.200,00"
       },
       {
-        "id": 819,
-        "nombre": "THE CARTEL GIN",
-        "categoria": "Bebidas Espirituosas",
-        "img": "/images/bebidas-espirituosas/THE CARTEL GIN.jpg",
-        "precio": "2.500,00"
-      },
-      {
         "id": 820,
         "nombre": "BARCELO GRAN AÑEJO",
         "categoria": "Bebidas Espirituosas",
@@ -5321,7 +5182,7 @@
       {
         "id": 821,
         "nombre": "Saint Omer Cerveza Francesa",
-        "categoria": "Bebidas Espirituosas",
+        "categoria": "Cervezas",
         "img": "/images/bebidas-espirituosas/Saint Omer Cerveza Francesa.jpg",
         "precio": "110,00"
       },
@@ -5336,7 +5197,7 @@
         "id": 823,
         "nombre": "Soho Soju Saborizado",
         "categoria": "Bebidas Espirituosas",
-        "img": "/images/bebidas-espirituosas/Soho Soju Saborizado.jpg",
+        "img": "/images/bebidas-espirituosas/Soho Soju Saborizado.jpeg",
         "precio": "1.700,00"
       },
       {
@@ -5396,20 +5257,6 @@
         "precio": "2.125,00"
       },
       {
-        "id": 832,
-        "nombre": "",
-        "categoria": "Bebidas Espirituosas",
-        "img": "/images/bebidas-espirituosas/.jpg",
-        "precio": "2.300,00"
-      },
-      {
-        "id": 833,
-        "nombre": "",
-        "categoria": "Bebidas Espirituosas",
-        "img": "/images/bebidas-espirituosas/.jpg",
-        "precio": "600,00"
-      },
-      {
         "id": 834,
         "nombre": "GIN GORDONSTONIC LATA",
         "categoria": "Bebidas Espirituosas",
@@ -5422,13 +5269,6 @@
         "categoria": "Bebidas Espirituosas",
         "img": "/images/bebidas-espirituosas/Absolut 200 ml (DOLARES).jpg",
         "precio": "6,50"
-      },
-      {
-        "id": 836,
-        "nombre": "PETACAS NEW STYLE",
-        "categoria": "Bebidas Espirituosas",
-        "img": "/images/bebidas-espirituosas/PETACAS NEW STYLE.jpg",
-        "precio": "380,00"
       },
       {
         "id": 837,
@@ -5525,7 +5365,7 @@
         "id": 850,
         "nombre": "CIROC SABORIZADO",
         "categoria": "Bebidas Espirituosas",
-        "img": "/images/bebidas-espirituosas/CIROC SABORIZADO.jpg",
+        "img": "/images/bebidas-espirituosas/CIROC SABORIZADO.jpeg",
         "precio": "10.300,00"
       },
       {
@@ -5648,24 +5488,10 @@
         "precio": "2.800,00"
       },
       {
-        "id": 868,
-        "nombre": "AGUALABOCA LICORES 750 ML",
-        "categoria": "Bebidas Espirituosas",
-        "img": "/images/bebidas-espirituosas/AGUALABOCA LICORES 750 ML.jpg",
-        "precio": "750,00"
-      },
-      {
-        "id": 869,
-        "nombre": "",
-        "categoria": "Bebidas Espirituosas",
-        "img": "/images/bebidas-espirituosas/.jpg",
-        "precio": "230,00"
-      },
-      {
         "id": 870,
         "nombre": "GIN TANQUERAY SEVILLA",
         "categoria": "Bebidas Espirituosas",
-        "img": "/images/bebidas-espirituosas/GIN TANQUERAY SEVILLA.jpg",
+        "img": "/images/bebidas-espirituosas/GIN TANQUERAY SEVILLA.jpeg",
         "precio": "6.200,00"
       },
       {
@@ -5709,13 +5535,6 @@
         "categoria": "Bebidas Espirituosas",
         "img": "/images/bebidas-espirituosas/Jager SCHARF.jpg",
         "precio": "8.500,00"
-      },
-      {
-        "id": 877,
-        "nombre": "",
-        "categoria": "Bebidas Espirituosas",
-        "img": "/images/bebidas-espirituosas/.jpg",
-        "precio": "6.200,00"
       },
       {
         "id": 878,
@@ -6085,7 +5904,7 @@
         "id": 930,
         "nombre": "BALLATINES 12 AÑOS",
         "categoria": "Bebidas Espirituosas",
-        "img": "/images/bebidas-espirituosas/BALLATINES 12 AÑOS.jpg",
+        "img": "/images/bebidas-espirituosas/BALLATINES 12 AÑOS1.jpg",
         "precio": "9.300,00"
       },
       {
@@ -6299,45 +6118,10 @@
         "precio": "150,00"
       },
       {
-        "id": 961,
-        "nombre": "ABSOLUT DE LITRO SABORES DOLAR BLUE",
-        "categoria": "Bebidas Espirituosas",
-        "img": "/images/bebidas-espirituosas/ABSOLUT DE LITRO SABORES DOLAR BLUE.jpg",
-        "precio": "18,00"
-      },
-      {
-        "id": 962,
-        "nombre": "ABSOLUT 100 DE LITRO DOLAR BLUE",
-        "categoria": "Bebidas Espirituosas",
-        "img": "/images/bebidas-espirituosas/ABSOLUT 100 DE LITRO DOLAR BLUE.jpg",
-        "precio": "28,00"
-      },
-      {
-        "id": 963,
-        "nombre": "CHIVAS 12 1,75 LT DOLARES BLUE",
-        "categoria": "Bebidas Espirituosas",
-        "img": "/images/bebidas-espirituosas/CHIVAS 12 1,75 LT DOLARES BLUE.jpg",
-        "precio": "60,00"
-      },
-      {
-        "id": 964,
-        "nombre": "ABSOLUT BOTELLON 4,5 LITROS DOLAR BLUE",
-        "categoria": "Bebidas Espirituosas",
-        "img": "/images/bebidas-espirituosas/ABSOLUT BOTELLON 4,5 LITROS DOLAR BLUE.jpg",
-        "precio": "85,00"
-      },
-      {
-        "id": 965,
-        "nombre": "GIN HOLTZEN",
-        "categoria": "Bebidas Espirituosas",
-        "img": "/images/bebidas-espirituosas/GIN HOLTZEN.jpg",
-        "precio": "830,00"
-      },
-      {
         "id": 966,
         "nombre": "TANQUERAY ROYALE",
         "categoria": "Bebidas Espirituosas",
-        "img": "/images/bebidas-espirituosas/TANQUERAY ROYALE.jpg",
+        "img": "/images/bebidas-espirituosas/TANQUERAY ROYALE.jpeg",
         "precio": "6.200,00"
       },
       {
@@ -6390,32 +6174,11 @@
         "precio": "45,00"
       },
       {
-        "id": 974,
-        "nombre": "VODKA HELMICH",
-        "categoria": "Bebidas Espirituosas",
-        "img": "/images/bebidas-espirituosas/VODKA HELMICH.jpg",
-        "precio": "650,00"
-      },
-      {
         "id": 975,
         "nombre": "EL MILAGRO TEQUILA",
         "categoria": "Bebidas Espirituosas",
         "img": "/images/bebidas-espirituosas/EL MILAGRO TEQUILA.jpg",
         "precio": "180,00"
-      },
-      {
-        "id": 976,
-        "nombre": "NONO ANTONIO GRAPA ARTENAL 8 MESES AÑEJADO EN BARRICA ROBLE",
-        "categoria": "Bebidas Espirituosas",
-        "img": "/images/bebidas-espirituosas/NONO ANTONIO GRAPA ARTENAL 8 MESES AÑEJADO EN BARRICA ROBLE.jpg",
-        "precio": "2.700,00"
-      },
-      {
-        "id": 977,
-        "nombre": "NONO ANTONIO GRAPA ARTENAL BLANCO",
-        "categoria": "Bebidas Espirituosas",
-        "img": "/images/bebidas-espirituosas/NONO ANTONIO GRAPA ARTENAL BLANCO.jpg",
-        "precio": "2.700,00"
       },
       {
         "id": 978,
