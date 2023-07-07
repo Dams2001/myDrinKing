@@ -1,0 +1,134 @@
+[    {
+    "id": 43,
+    "nombre": "ACDC Lata",
+    "categoria": "Cervezas",
+    "img": "/images/cervezas/acdc-lata.png",
+    "precio": "2979.59"
+  },
+  {
+    "id": 44,
+    "nombre": "Brahma",
+    "categoria": "Cervezas",
+    "img": "/images/cervezas/brahma.png",
+    "precio": "1785.15"
+  },
+  {
+    "id": 45,
+    "nombre": "Carlberg",
+    "categoria": "Cervezas",
+    "img": "/images/cervezas/carlberg.png",
+    "precio": "7022.61"
+  },
+  {
+    "id": 46,
+    "nombre": "Corona Grande",
+    "categoria": "Cervezas",
+    "img": "/images/cervezas/corona-grande-descartable.png",
+    "precio": "52.94"
+  },
+  {
+    "id": 47,
+    "nombre": "Estrella Damm",
+    "categoria": "Cervezas",
+    "img": "/images/cervezas/estrella-damm-lata.png",
+    "precio": "2778.71"
+  },
+  {
+    "id": 48,
+    "nombre": "Faxe Ipa",
+    "categoria": "Cervezas",
+    "img": "/images/cervezas/faxe-ipa-lata.png",
+    "precio": "6303.05"
+  },
+  {
+    "id": 49,
+    "nombre": "Heineken",
+    "categoria": "Cervezas",
+    "img": "/images/cervezas/heineken.png",
+    "precio": "8813.07"
+  },
+  {
+    "id": 50,
+    "nombre": "Isenbeck",
+    "categoria": "Cervezas",
+    "img": "/images/cervezas/isenbeck.png",
+    "precio": "1625.75"
+  },
+  {
+    "id": 51,
+    "nombre": "Amstel Lager",
+    "categoria": "Cervezas",
+    "img": "/images/cervezas/lata-amstel-lager.png",
+    "precio": "2627.84"
+  },
+  {
+    "id": 52,
+    "nombre": "Cordoba",
+    "categoria": "Cervezas",
+    "img": "/images/cervezas/lata-cordoba.png",
+    "precio": "8529.28"
+  },
+  {
+    "id": 53,
+    "nombre": "Heineken Lata",
+    "categoria": "Cervezas",
+    "img": "/images/cervezas/lata-heineken.png",
+    "precio": "3395.67"
+  },
+  {
+    "id": 54,
+    "nombre": "Warsteiner",
+    "categoria": "Cervezas",
+    "img": "/images/cervezas/lata-warsteiner.png",
+    "precio": "8765.12"
+  },
+  {
+    "id": 55,
+    "nombre": "Miller",
+    "categoria": "Cervezas",
+    "img": "/images/cervezas/miller.png",
+    "precio": "7720.33"
+  },
+  {
+    "id": 56,
+    "nombre": "Oranjeboom",
+    "categoria": "Cervezas",
+    "img": "/images/cervezas/oranjeboom.png",
+    "precio": "2385.93"
+  },
+  {
+    "id": 57,
+    "nombre": "Patagonia Amber Lager",
+    "categoria": "Cervezas",
+    "img": "/images/cervezas/patagonia-amber-lager.png",
+    "precio": "6593.68"
+  },
+  {
+    "id": 58,
+    "nombre": "Peñón Mexican Lager",
+    "categoria": "Cervezas",
+    "img": "/images/cervezas/penon-lata-mexican-lager.png",
+    "precio": "1713.97"
+  },
+  {
+    "id": 59,
+    "nombre": "Quilmes",
+    "categoria": "Cervezas",
+    "img": "/images/cervezas/quilmes.png",
+    "precio": "1171.41"
+  },
+  {
+    "id": 60,
+    "nombre": "Salta Rubia",
+    "categoria": "Cervezas",
+    "img": "/images/cervezas/salta-rubia.png",
+    "precio": "3626.99"
+  },
+  {
+    "id": 61,
+    "nombre": "Schofferhofer",
+    "categoria": "Cervezas",
+    "img": "/images/cervezas/shofferhofer-pomelo.png",
+    "precio": "7694.37"
+  }
+]
