@@ -1056,5 +1056,33 @@
         "categoria": "Cervezas",
         "img": "/images/bazar-cocteleria-botanicos/LOGO GROWKING LOGO SOMBRA.png",
         "precio": "2.079,00"
+      },
+      {
+        "id": 542,
+        "nombre": "",
+        "categoria": "Gaseosas",
+        "img": "/images/gaseosas/.jpg",
+        "precio": "224,75"
+      },
+      {
+        "id": 541,
+        "nombre": "",
+        "categoria": "Gaseosas",
+        "img": "/images/gaseosas/.jpg",
+        "precio": "365,50"
+      },
+      {
+        "id": 546,
+        "nombre": "",
+        "categoria": "Gaseosas",
+        "img": "/images/gaseosas/.jpg",
+        "precio": ""
+      },
+      {
+        "id": 528,
+        "nombre": "SODA CIFON",
+        "categoria": "Gaseosas",
+        "img": "/images/gaseosas/SODA CIFON.jpg",
+        "precio": "368,00"
       }
 ]
