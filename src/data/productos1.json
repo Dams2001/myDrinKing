@@ -3374,13 +3374,6 @@
         "precio": "1.000,00"
       },
       {
-        "id": 719,
-        "nombre": "DOOLEYS + COPAS DE LICOR DOOLEYS (UNA BOTELLA)",
-        "categoria": "Bebidas Espirituosas",
-        "img": "/images/bebidas-espirituosas/DOOLEYS + COPAS DE LICOR DOOLEYS (UNA BOTELLA).jpg",
-        "precio": "9.000,00"
-      },
-      {
         "id": 720,
         "nombre": "GIN MALARIA BLACK",
         "categoria": "Bebidas Espirituosas",
@@ -3755,7 +3748,7 @@
         "id": 778,
         "nombre": "OLE's Moky Harley, MANZANA, MORA (DOLARES)",
         "categoria": "Bebidas Espirituosas",
-        "img": "/images/bebidas-espirituosas/OLE's Moky Harley, MANZANA, MORA (DOLARES).jpg",
+        "img": "/images/bebidas-espirituosas/Ole's Moky Harley, MANZANA, MORA.jpg",
         "precio": "25,00"
       },
       {
