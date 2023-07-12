@@ -1084,5 +1084,12 @@
         "categoria": "Gaseosas",
         "img": "/images/gaseosas/SODA CIFON.jpg",
         "precio": "368,00"
+      },
+      {
+        "id": 719,
+        "nombre": "DOOLEYS + COPAS DE LICOR DOOLEYS (UNA BOTELLA)",
+        "categoria": "Bebidas Espirituosas",
+        "img": "/images/bebidas-espirituosas/DOOLEYS + COPAS DE LICOR DOOLEYS (UNA BOTELLA).jpg",
+        "precio": "9.000,00"
       }
 ]
