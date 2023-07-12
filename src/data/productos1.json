@@ -497,27 +497,6 @@
       "precio": "212,50"
     },
     {
-      "id": 174,
-      "nombre": "AIME MINI EXTRA BRUT",
-      "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/AIME MINI EXTRA BRUT.jpg",
-      "precio": "204,00"
-    },
-    {
-      "id": 175,
-      "nombre": "AMPAKAMA MALBEC",
-      "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/AMPAKAMA MALBEC.jpg",
-      "precio": "221,00"
-    },
-    {
-      "id": 176,
-      "nombre": "",
-      "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/.jpg",
-      "precio": "544,00"
-    },
-    {
       "id": 177,
       "nombre": "MISTELA CROTTA",
       "categoria": "Vinos y Espumantes",
