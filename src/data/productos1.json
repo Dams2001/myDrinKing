@@ -2290,20 +2290,6 @@
     },
     {
       "id": 433,
-      "nombre": "CHATEU SUBSONICO MALBEC",
-      "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/CHATEU SUBSONICO MALBEC.jpg",
-      "precio": "3.400,00"
-    },
-    {
-      "id": 434,
-      "nombre": "IL FORTE MALBEC",
-      "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/IL FORTE MALBEC.jpg",
-      "precio": "2.550,00"
-    },
-    {
-      "id": 433,
       "nombre": "LATAS HEINEKEN 710 ML",
       "categoria": "Cervezas",
       "img": "/images/cervezas/LATAS HEINEKEN 710 ML.jpeg",
