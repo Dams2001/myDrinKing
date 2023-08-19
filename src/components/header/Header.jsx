@@ -15,6 +15,8 @@ const Header = () => {
   const [open, setOpen] = useState(false);
   const [carritoOpen, setCarritoOpen] = useState(false); // Nuevo estado para controlar si el carrito está abierto o cerrado
   const { carritoItems, total } = useContext(CarritoContext); // Obtener los valores del contexto del carrito
+  const cantidadItemsEnCarrito = carritoItems.length;
+
   const hideOnClickOutside = (e) => {
     if (refMenu.current && !refMenu.current.contains(e.target)) {
       setOpen(false);
@@ -105,11 +107,25 @@ const Header = () => {
         </div>
 
         {/* Nuevo botón para abrir el carrito de compras */}
-        <Button
+        {/* <Button
             css={"header__btnWrapper__wsp icon__softgreen"}
             event={handleCarritoClick}
             text={<Icon css={"header__barsWrapper"} icon={faShoppingCart} />}
-          />
+          /> */}
+        
+        <Button
+            css={"header__btnWrapper__wsp icon__softgreen"}
+            event={handleCarritoClick}
+            text={
+            <div className="carrito-icon-container">
+            <Icon css={"header__barsWrapper"} icon={faShoppingCart} />
+            {cantidadItemsEnCarrito > 0 && (
+            <span className="carrito-cantidad">{cantidadItemsEnCarrito}</span>
+            )}
+            </div>
+            }
+        />
+
         
         {/* Botón para abrir el menú */}
         <Button

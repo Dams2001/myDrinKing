@@ -93,6 +93,24 @@ header {
   padding: 0;
 }
 
+/* Estilos para la cantidad de elementos en el carrito */
+.carrito-icon-container {
+  position: relative;
+  display: inline-block;
+}
+
+.carrito-cantidad {
+  background-color: #E9B465;
+  color: black;
+  border-radius: 50%;
+  padding: 4px 8px;
+  font-size: 12px;
+  position: absolute;
+  top: -8px;
+  left: 0;
+  transform: translateX(-50%);
+}
+
 
 .header__btnWrapper__wsp.icon__softgreen{
   color: $soft-green!important;  
