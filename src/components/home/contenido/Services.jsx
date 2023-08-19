@@ -11,9 +11,13 @@ const Services = () => {
         <img src={clock} alt="clock" loading="lazy"/>
         <h3>Horarios</h3>
         <div className="text-center">
-          <p>Martes a Sábados</p>
+        <p>Martes</p>
           <p>11:00 a 14:00 hs</p>
-          <p>17:00 a 00:00 hs</p>
+          <p>18:00 a 22:00 hs</p>
+          <br />
+          <p>Miércoles a Sábados</p>
+          <p>11:00 a 14:00 hs</p>
+          <p>18:00 a 00:00 hs</p>
         </div>
       </div>
       <div className="services__service">
