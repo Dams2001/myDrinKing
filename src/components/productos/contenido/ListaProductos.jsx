@@ -17,9 +17,9 @@ const ListaProductos = ({ productos }) => {
       event.target.classList.remove('added');
     }, 800);
 
-    console.log("Nombre:", producto.nombre);
-    console.log("IMG:", producto.img);
-    console.log("Precio:", producto.precio);
+    //console.log("Nombre:", producto.nombre);
+    //console.log("IMG:", producto.img);
+    //console.log("Precio:", producto.precio);
     //console.log("Producto agregado al carrito:", producto);
   };
   
