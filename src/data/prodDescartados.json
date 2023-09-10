@@ -1630,5 +1630,47 @@
         "categoria": "Vinos y Espumantes",
         "img": "/images/vinos-espumantes/.jpg",
         "precio": "425,00"
+      },
+      {
+        "id": 105,
+        "nombre": "PRINCIPE LOS APOSTOLES APOSTOLES FUERZA GAUCHA+ TONICA 2,25 LT",
+        "categoria": "Promos",
+        "img": "/images/promos/PRINCIPE LOS APOSTOLES APOSTOLES FUERZA GAUCHA+ TONICA 2,25 LT.jpeg",
+        "precio": "5.390,00"
+      },
+      {
+        "id": 110,
+        "nombre": "TANQUERAY SEVILLA + TONICA 2,25 LT",
+        "categoria": "Promos",
+        "img": "/images/promos/TANQUERAY SEVILLA + TONICA 2,25 LT.jpg",
+        "precio": "9.044,00"
+      },
+      {
+        "id": 112,
+        "nombre": "BEEFEATER PINK + TONICA 2,25 LT",
+        "categoria": "Promos",
+        "img": "/images/promos/BEEFEATER PINK + TONICA 2,25 LT.jpg",
+        "precio": "10.948,00"
+      },
+      {
+        "id": 114,
+        "nombre": "CAPTAIN MORGAN + COCA 2,25 LT",
+        "categoria": "Promos",
+        "img": "/images/promos/CAPTAIN MORGAN + COCA 2,25 LT.jpg",
+        "precio": "2.006,00"
+      },
+      {
+        "id": 117,
+        "nombre": "MALIBU + SPRITE 2,5 LITROS",
+        "categoria": "Promos",
+        "img": "/images/promos/MALIBU + SPRITE 2,5 LITROS.jpg",
+        "precio": "5.848,00"
+      },
+      {
+        "id": 142,
+        "nombre": "CARPANO ROSSO+ SODA 2,25 LT",
+        "categoria": "Promos",
+        "img": "/images/promos/CARPANO ROSSO+ SODA 2,25 LT.jpg",
+        "precio": "1.561,00"
       }
 ]
