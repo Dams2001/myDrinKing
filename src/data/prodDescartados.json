@@ -1672,5 +1672,26 @@
         "categoria": "Promos",
         "img": "/images/promos/CARPANO ROSSO+ SODA 2,25 LT.jpg",
         "precio": "1.561,00"
+      },
+      {
+        "id": 152,
+        "nombre": "HODLMOUSER + 4 SPEED",
+        "categoria": "Promos",
+        "img": "/images/promos/HODLMOUSER + 4 SPEED.jpg",
+        "precio": "7.425,60"
+      },
+      {
+        "id": 163,
+        "nombre": "2 CHANDON",
+        "categoria": "Promos",
+        "img": "/images/promos/2 CHANDON.jpeg",
+        "precio": "6.800,00"
+      },
+      {
+        "id": 164,
+        "nombre": "2 CHANDON + 4 SPEED",
+        "categoria": "Promos",
+        "img": "/images/promos/2 CHANDON + 4 SPEED.jpeg",
+        "precio": "7.969,60"
       }
 ]
