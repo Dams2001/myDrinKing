@@ -1,8 +1,16 @@
 import React from 'react';
-import slider1 from './slider1.jpg';
-import slider2 from './slider2.jpg';
-import slider3 from './slider3.jpg';
-import slider4 from './slider4.jpg';
+
+
+// import slider1 from './slider1.jpg';
+// import slider2 from './slider2.jpg';
+// import slider3 from './slider3.jpg';
+// import slider4 from './slider4.jpg';
+
+import slider1 from './slider1.jpeg';
+import slider2 from './slider2.jpeg';
+import slider3 from './slider3.jpeg';
+import slider4 from './slider4.jpeg';
+
 
 
 const SobreNosotrosHeroe = () => {
