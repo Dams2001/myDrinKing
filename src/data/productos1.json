@@ -3,4473 +3,4473 @@
       "id": 96,
       "nombre": "Otro Loco Más",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/otro-loco-mas.png",
+      "img": "/images/vinos-espumantes/otro-loco-mas.webp",
       "precio": "7164.71"
     },
     {
       "id": 97,
       "nombre": "GINEBRA LLAVE 750 ML + GASEOSA 2,25 LT",
       "categoria": "Promos",
-      "img": "/images/promos/GINEBRA LLAVE 750 ML + GASEOSA 2,25 LT.jpg",
+      "img": "/images/promos/GINEBRA LLAVE 750 ML + GASEOSA 2,25 LT.webp",
       "precio": "2.310,00"
     },
     {
       "id": 98,
       "nombre": "ARLEQUIN + TONICA 2,25 LT",
       "categoria": "Promos",
-      "img": "/images/promos/ARLEQUIN + TONICA 2,25 LT.jpg",
+      "img": "/images/promos/ARLEQUIN + TONICA 2,25 LT.webp",
       "precio": "3.196,00"
     },
     {
       "id": 99,
       "nombre": "GIN BRIGHTON + TONICA 2,25 LT",
       "categoria": "Promos",
-      "img": "/images/promos/GIN BRIGHTON + TONICA 2,25 LT.jpg",
+      "img": "/images/promos/GIN BRIGHTON + TONICA 2,25 LT.webp",
       "precio": "2.951,20"
     },
     {
       "id": 100,
       "nombre": "HERACLITO + TONICA 2,25 LT",
       "categoria": "Promos",
-      "img": "/images/promos/HERACLITO + TONICA 2,25 LT.jpg",
+      "img": "/images/promos/HERACLITO + TONICA 2,25 LT.webp",
       "precio": "4.420,00"
     },
     {
       "id": 101,
       "nombre": "GORDONS + TONICA 2,25 LT",
       "categoria": "Promos",
-      "img": "/images/promos/GORDONS + TONICA 2,25 LT.jpg",
+      "img": "/images/promos/GORDONS + TONICA 2,25 LT.webp",
       "precio": "3.604,00"
     },
     {
       "id": 102,
       "nombre": "HERACLITO MACEDONIO ROJO + TONICA 2,25 LT",
       "categoria": "Promos",
-      "img": "/images/promos/HERACLITO MACEDONIO ROJO + TONICA 2,25 LT.jpg",
+      "img": "/images/promos/HERACLITO MACEDONIO ROJO + TONICA 2,25 LT.webp",
       "precio": "4.420,00"
     },
     {
       "id": 103,
       "nombre": "ACONCAGUA + TONICA 2,25 LT",
       "categoria": "Promos",
-      "img": "/images/promos/ACONCAGUA + TONICA 2,25 LT.jpg",
+      "img": "/images/promos/ACONCAGUA + TONICA 2,25 LT.webp",
       "precio": "5.032,00"
     },
     {
       "id": 104,
       "nombre": "PRINCIPE LOS APOSTOLES APOSTOLES + TONICA 2,25 LT",
       "categoria": "Promos",
-      "img": "/images/promos/PRINCIPE LOS APOSTOLES APOSTOLES + TONICA 2,25 LT.jpg",
+      "img": "/images/promos/PRINCIPE LOS APOSTOLES APOSTOLES + TONICA 2,25 LT.webp",
       "precio": "5.236,00"
     },
     {
       "id": 106,
       "nombre": "LARIOS + TONICA 2,25 LT",
       "categoria": "Promos",
-      "img": "/images/promos/LARIOS + TONICA 2,25 LT.jpg",
+      "img": "/images/promos/LARIOS + TONICA 2,25 LT.webp",
       "precio": "5.390,00"
     },
     {
       "id": 107,
       "nombre": "TANQUERAY COMUN + TONICA 2,25 LT",
       "categoria": "Promos",
-      "img": "/images/promos/TANQUERAY COMUN + TONICA 2,25 LT.jpg",
+      "img": "/images/promos/TANQUERAY COMUN + TONICA 2,25 LT.webp",
       "precio": "7.656,80"
     },
     {
       "id": 108,
       "nombre": "BULL DOG + TONICA 2,25 LT",
       "categoria": "Promos",
-      "img": "/images/promos/BULL DOG + TONICA 2,25 LT.jpg",
+      "img": "/images/promos/BULL DOG + TONICA 2,25 LT.webp",
       "precio": "10.404,00"
     },
     {
       "id": 109,
       "nombre": "BEEFEATER + TONICA 2,25 LT",
       "categoria": "Promos",
-      "img": "/images/promos/BEEFEATER + TONICA 2,25 LT.jpg",
+      "img": "/images/promos/BEEFEATER + TONICA 2,25 LT.webp",
       "precio": "9.316,00"
     },
     {
       "id": 111,
       "nombre": "BOMBAY+ TONICA 2,25 LT",
       "categoria": "Promos",
-      "img": "/images/promos/BOMBAY+ TONICA 2,25 LT.jpg",
+      "img": "/images/promos/BOMBAY+ TONICA 2,25 LT.webp",
       "precio": "14.620,00"
     },
     {
       "id": 115,
       "nombre": "BACARDI DORADO O BLANCO + COCA 2,25 LT o SPRITE 2,25 LT",
       "categoria": "Promos",
-      "img": "/images/promos/BACARDI DORADO O BLANCO + COCA 2,25 LT o SPRITE 2,25 LT.jpg",
+      "img": "/images/promos/BACARDI DORADO O BLANCO + COCA 2,25 LT o SPRITE 2,25 LT.webp",
       "precio": "7.752,00"
     },
     {
       "id": 116,
       "nombre": "HAVANA DORADO O BLANCO + COCA 2,25 LT O SPRITE 2,25 LT",
       "categoria": "Promos",
-      "img": "/images/promos/HAVANA DORADO O BLANCO + COCA 2,25 LT O SPRITE 2,25 LT.jpg",
+      "img": "/images/promos/HAVANA DORADO O BLANCO + COCA 2,25 LT O SPRITE 2,25 LT.webp",
       "precio": "5.848,00"
     },
     {
       "id": 118,
       "nombre": "MALIBU + 2 JUGOS CITRIC",
       "categoria": "Promos",
-      "img": "/images/promos/MALIBU + 2 JUGOS CITRIC.jpg",
+      "img": "/images/promos/MALIBU + 2 JUGOS CITRIC.webp",
       "precio": "6.174,40"
     },
     {
       "id": 121,
       "nombre": "SERNOVA SABORIZADOS + GASEOSA DE 2,25 LITROS",
       "categoria": "Promos",
-      "img": "/images/promos/SERNOVA SABORIZADOS + GASEOSA DE 2,25 LITROS.jpg",
+      "img": "/images/promos/SERNOVA SABORIZADOS + GASEOSA DE 2,25 LITROS.webp",
       "precio": "2.529,60"
     },
     {
       "id": 122,
       "nombre": "SERNOVA SABORIZADOS + 4 SPEED 275 ML",
       "categoria": "Promos",
-      "img": "/images/promos/SERNOVA SABORIZADOS + 4 SPEED 275 ML.jpg",
+      "img": "/images/promos/SERNOVA SABORIZADOS + 4 SPEED 275 ML.webp",
       "precio": "2.883,20"
     },
     {
       "id": 123,
       "nombre": "SERNOVA SABORIZADOS + 4 RED BULL 275 ML",
       "categoria": "Promos",
-      "img": "/images/promos/SERNOVA SABORIZADOS + 4 RED BULL 275 ML.jpg",
+      "img": "/images/promos/SERNOVA SABORIZADOS + 4 RED BULL 275 ML.webp",
       "precio": "3.851,52"
     },
     {
       "id": 124,
       "nombre": "SERNOVA SABORIZADOS + 2 JUGOS CITRIC",
       "categoria": "Promos",
-      "img": "/images/promos/SERNOVA SABORIZADOS + 2 JUGOS CITRIC.jpg",
+      "img": "/images/promos/SERNOVA SABORIZADOS + 2 JUGOS CITRIC.webp",
       "precio": "2.856,00"
     },
     {
       "id": 125,
       "nombre": "SERNOVA SABORIZADOS + 2 MONSTER 500 ML",
       "categoria": "Promos",
-      "img": "/images/promos/SERNOVA SABORIZADOS + 2 MONSTER 500 ML.jpg",
+      "img": "/images/promos/SERNOVA SABORIZADOS + 2 MONSTER 500 ML.webp",
       "precio": "2.869,60"
     },
     {
       "id": 126,
       "nombre": "SMIRNOFF SABORIZADOS + 2 JUEGOS CITRIC NARANJA",
       "categoria": "Promos",
-      "img": "/images/promos/SMIRNOFF SABORIZADOS + 2 JUEGOS CITRIC NARANJA.jpg",
+      "img": "/images/promos/SMIRNOFF SABORIZADOS + 2 JUEGOS CITRIC NARANJA.webp",
       "precio": "3.318,40"
     },
     {
       "id": 127,
       "nombre": "SMIRNOFF SABORIZADOS + 4 SPEED 275 ML",
       "categoria": "Promos",
-      "img": "/images/promos/SMIRNOFF SABORIZADOS + 4 SPEED 275 ML.jpg",
+      "img": "/images/promos/SMIRNOFF SABORIZADOS + 4 SPEED 275 ML.webp",
       "precio": "3.345,60"
     },
     {
       "id": 128,
       "nombre": "SMIRNOFF SABORIZADOS + 4 RED BULL 275 ML",
       "categoria": "Promos",
-      "img": "/images/promos/SMIRNOFF SABORIZADOS + 4 RED BULL 275 ML.jpg",
+      "img": "/images/promos/SMIRNOFF SABORIZADOS + 4 RED BULL 275 ML.webp",
       "precio": "4.313,92"
     },
     {
       "id": 129,
       "nombre": "SMIRNOFF SABORIZADOS + 2 MONSTER 500 ML",
       "categoria": "Promos",
-      "img": "/images/promos/SMIRNOFF SABORIZADOS + 2 MONSTER 500 ML.jpg",
+      "img": "/images/promos/SMIRNOFF SABORIZADOS + 2 MONSTER 500 ML.webp",
       "precio": "3.332,00"
     },
     {
       "id": 130,
       "nombre": "SKY SABORIZADOS + 2 JUEGOS CITRIC NARANJA",
       "categoria": "Promos",
-      "img": "/images/promos/SKY SABORIZADOS + 2 JUEGOS CITRIC NARANJA.jpg",
+      "img": "/images/promos/SKY SABORIZADOS + 2 JUEGOS CITRIC NARANJA.webp",
       "precio": "3.726,40"
     },
     {
       "id": 131,
       "nombre": "SKY SABORIZADOS + 4 SPEED 275 ML",
       "categoria": "Promos",
-      "img": "/images/promos/SKY SABORIZADOS + 4 SPEED 275 ML.jpg",
+      "img": "/images/promos/SKY SABORIZADOS + 4 SPEED 275 ML.webp",
       "precio": "3.753,60"
     },
     {
       "id": 132,
       "nombre": "SKY SABORIZADOS + 4 RED BULL 275 ML",
       "categoria": "Promos",
-      "img": "/images/promos/SKY SABORIZADOS + 4 RED BULL 275 ML.jpg",
+      "img": "/images/promos/SKY SABORIZADOS + 4 RED BULL 275 ML.webp",
       "precio": "4.721,92"
     },
     {
       "id": 133,
       "nombre": "SKY SABORIZADOS + 2 MONSTER 500 ML",
       "categoria": "Promos",
-      "img": "/images/promos/SKY SABORIZADOS + 2 MONSTER 500 ML.jpg",
+      "img": "/images/promos/SKY SABORIZADOS + 2 MONSTER 500 ML.webp",
       "precio": "3.740,00"
     },
     {
       "id": 134,
       "nombre": "ABSOLUT SABORIZADOS + 2 JUEGOS CITRIC NARANJA",
       "categoria": "Promos",
-      "img": "/images/promos/ABSOLUT SABORIZADOS + 2 JUEGOS CITRIC NARANJA.jpeg",
+      "img": "/images/promos/ABSOLUT SABORIZADOS + 2 JUEGOS CITRIC NARANJA.webp",
       "precio": "9.397,60"
     },
     {
       "id": 135,
       "nombre": "ABSOLUT SABORIZADOS + 4 SPEED 275 ML",
       "categoria": "Promos",
-      "img": "/images/promos/ABSOLUT SABORIZADOS + 4 SPEED 275 ML.jpeg",
+      "img": "/images/promos/ABSOLUT SABORIZADOS + 4 SPEED 275 ML.webp",
       "precio": "9.424,80"
     },
     {
       "id": 136,
       "nombre": "ABSOLUT SABORIZADOS + 4 RED BULL 275 ML",
       "categoria": "Promos",
-      "img": "/images/promos/ABSOLUT SABORIZADOS + 4 RED BULL 275 ML.jpg",
+      "img": "/images/promos/ABSOLUT SABORIZADOS + 4 RED BULL 275 ML.webp",
       "precio": "10.393,12"
     },
     {
       "id": 138,
       "nombre": "CARPANO ROSSO+ tonica 2,25 lt",
       "categoria": "Promos",
-      "img": "/images/promos/CARPANO ROSSO+ tonica 2,25 lt.jpeg",
+      "img": "/images/promos/CARPANO ROSSO+ tonica 2,25 lt.webp",
       "precio": "1.717,50"
     },
     {
       "id": 139,
       "nombre": "MARTINI ROSSO + SODA SIFON DE 2 LITROS",
       "categoria": "Promos",
-      "img": "/images/promos/MARTINI ROSSO + SODA SIFON DE 2 LITROS.jpeg",
+      "img": "/images/promos/MARTINI ROSSO + SODA SIFON DE 2 LITROS.webp",
       "precio": "1.808,80"
     },
     {
       "id": 140,
       "nombre": "CINZANO + SODA SIFON 2 LITROS",
       "categoria": "Promos",
-      "img": "/images/promos/CINZANO + SODA SIFON 2 LITROS.jpeg",
+      "img": "/images/promos/CINZANO + SODA SIFON 2 LITROS.webp",
       "precio": "1.802,25"
     },
     {
       "id": 141,
       "nombre": "CINZANO + GASEOSA DE 2,25 LITROS",
       "categoria": "Promos",
-      "img": "/images/promos/CINZANO + GASEOSA DE 2,25 LITROS.jpeg",
+      "img": "/images/promos/CINZANO + GASEOSA DE 2,25 LITROS.webp",
       "precio": "2.318,80"
     },
     {
       "id": 143,
       "nombre": "CARPANO ROSSO+ GASEOSA 2,25 LITROS PASO DE LOS TOROS",
       "categoria": "Promos",
-      "img": "/images/promos/CARPANO ROSSO+ GASEOSA 2,25 LITROS PASO DE LOS TOROS.jpeg",
+      "img": "/images/promos/CARPANO ROSSO+ GASEOSA 2,25 LITROS PASO DE LOS TOROS.webp",
       "precio": "1.945,35"
     },
     {
       "id": 144,
       "nombre": "GANCIA + GASEOSA DE 2,25 LITROS",
       "categoria": "Promos",
-      "img": "/images/promos/GANCIA + GASEOSA DE 2,25 LITROS.jpeg",
+      "img": "/images/promos/GANCIA + GASEOSA DE 2,25 LITROS.webp",
       "precio": "2.108,00"
     },
     {
       "id": 145,
       "nombre": "GANCIA + SODA DE 2,25 LITROS",
       "categoria": "Promos",
-      "img": "/images/promos/GANCIA + SODA DE 2,25 LITROS.jpeg",
+      "img": "/images/promos/GANCIA + SODA DE 2,25 LITROS.webp",
       "precio": "1.604,80"
     },
     {
       "id": 146,
       "nombre": "CYNAR + 1 SODA SIFON DE 2 LITROS",
       "categoria": "Promos",
-      "img": "/images/promos/CYNAR + 1 SODA SIFON DE 2 LITROS.jpeg",
+      "img": "/images/promos/CYNAR + 1 SODA SIFON DE 2 LITROS.webp",
       "precio": "2.121,60"
     },
     {
       "id": 147,
       "nombre": "CYNAR + GASEOSA DE 2,25 LITROS",
       "categoria": "Promos",
-      "img": "/images/promos/CYNAR + GASEOSA DE 2,25 LITROS.jpeg",
+      "img": "/images/promos/CYNAR + GASEOSA DE 2,25 LITROS.webp",
       "precio": "2.624,80"
     },
     {
       "id": 148,
       "nombre": "MARTINI ROSSO + GASEOSA DE 2,25 LITROS",
       "categoria": "Promos",
-      "img": "/images/promos/MARTINI ROSSO + GASEOSA DE 2,25 LITROS.jpeg",
+      "img": "/images/promos/MARTINI ROSSO + GASEOSA DE 2,25 LITROS.webp",
       "precio": "2.312,00"
     },
     {
       "id": 149,
       "nombre": "APEROL + 1 JUGOS CITRIC DE NARANJA",
       "categoria": "Promos",
-      "img": "/images/promos/APEROL + 1 JUGOS CITRIC DE NARANJA.jpeg",
+      "img": "/images/promos/APEROL + 1 JUGOS CITRIC DE NARANJA.webp",
       "precio": "3.440,80"
     },
     {
       "id": 150,
       "nombre": "APEROL + 1 MUM LEGER",
       "categoria": "Promos",
-      "img": "/images/promos/APEROL + 1 MUM LEGER.jpeg",
+      "img": "/images/promos/APEROL + 1 MUM LEGER.webp",
       "precio": "3.862,40"
     },
     {
       "id": 151,
       "nombre": "CAMPARI + 2 JUGOS CITRIC DE NARANJA",
       "categoria": "Promos",
-      "img": "/images/promos/CAMPARI + 2 JUGOS CITRIC DE NARANJA.jpeg",
+      "img": "/images/promos/CAMPARI + 2 JUGOS CITRIC DE NARANJA.webp",
       "precio": "3.359,20"
     },
     {
       "id": 153,
       "nombre": "NERO 53 + COCA DE 2,25 LITROS",
       "categoria": "Promos",
-      "img": "/images/promos/NERO 53 + COCA DE 2,25 LITROS.jpeg",
+      "img": "/images/promos/NERO 53 + COCA DE 2,25 LITROS.webp",
       "precio": "3.563,20"
     },
     {
       "id": 154,
       "nombre": "FERNET BRANCA 750 ML + 2 COCA DE 1,5 LITROS",
       "categoria": "Promos",
-      "img": "/images/promos/FERNET BRANCA 750 ML + 2 COCA DE 1,5 LITROS.jpeg",
+      "img": "/images/promos/FERNET BRANCA 750 ML + 2 COCA DE 1,5 LITROS.webp",
       "precio": "3.865,60"
     },
     {
       "id": 155,
       "nombre": "FERNET BRANCA 750 ML + COCA DE 2,25 LITROS",
       "categoria": "Promos",
-      "img": "/images/promos/FERNET BRANCA 750 ML + COCA DE 2,25 LITROS.jpeg",
+      "img": "/images/promos/FERNET BRANCA 750 ML + COCA DE 2,25 LITROS.webp",
       "precio": "3.584,00"
     },
     {
       "id": 156,
       "nombre": "FERNET BRANCA 450 ML + COCA DE 2,25 LITROS",
       "categoria": "Promos",
-      "img": "/images/promos/FERNET BRANCA 450 ML + COCA DE 2,25 LITROS.jpeg",
+      "img": "/images/promos/FERNET BRANCA 450 ML + COCA DE 2,25 LITROS.webp",
       "precio": "2.727,00"
     },
     {
       "id": 157,
       "nombre": "FERNET BRANCA 450 ML + 1 COCA DE 1,5 LITROS",
       "categoria": "Promos",
-      "img": "/images/promos/FERNET BRANCA 450 ML + 1 COCA DE 1,5 LITROS.jpeg",
+      "img": "/images/promos/FERNET BRANCA 450 ML + 1 COCA DE 1,5 LITROS.webp",
       "precio": "2.488,80"
     },
     {
       "id": 159,
       "nombre": "2 DADA 7",
       "categoria": "Promos",
-      "img": "/images/promos/2 DADA 7.jpeg",
+      "img": "/images/promos/2 DADA 7.webp",
       "precio": "2.312,00"
     },
     {
       "id": 160,
       "nombre": "2 MUM",
       "categoria": "Promos",
-      "img": "/images/promos/2 MUM.jpeg",
+      "img": "/images/promos/2 MUM.webp",
       "precio": "3.128,00"
     },
     {
       "id": 161,
       "nombre": "2 DADA 7 + 4 SPEED",
       "categoria": "Promos",
-      "img": "/images/promos/2 DADA 7 + 4 SPEED.jpeg",
+      "img": "/images/promos/2 DADA 7 + 4 SPEED.webp",
       "precio": "3.481,60"
     },
     {
       "id": 162,
       "nombre": "2 MUM + 4 SPEED",
       "categoria": "Promos",
-      "img": "/images/promos/2 MUM + 4 SPEED.jpeg",
+      "img": "/images/promos/2 MUM + 4 SPEED.webp",
       "precio": "4.297,60"
     },
     {
       "id": 165,
       "nombre": "2 BARON B + 4 SPEED",
       "categoria": "Promos",
-      "img": "/images/promos/2 BARON B + 4 SPEED.jpeg",
+      "img": "/images/promos/2 BARON B + 4 SPEED.webp",
       "precio": "8.377,60"
     },
     {
       "id": 166,
       "nombre": "2 BARON B + 4 MONSTER",
       "categoria": "Promos",
-      "img": "/images/promos/2 BARON B + 4 MONSTER.jpeg",
+      "img": "/images/promos/2 BARON B + 4 MONSTER.webp",
       "precio": "8.364,00"
     },
     {
       "id": 169,
       "nombre": "BALBO + PRITTY 2,25 LITROS",
       "categoria": "Promos",
-      "img": "/images/promos/BALBO + PRITTY 2,25 LITROS.jpeg",
+      "img": "/images/promos/BALBO + PRITTY 2,25 LITROS.webp",
       "precio": "1.292,00"
     },
     {
       "id": 170,
       "nombre": "BALBO + BALBO",
       "categoria": "Promos",
-      "img": "/images/promos/BALBO + BALBO.jpeg",
+      "img": "/images/promos/BALBO + BALBO.webp",
       "precio": "1.700,00"
     },
     {
       "id": 171,
       "nombre": "CAPRICCIO FIORE",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/capriccio-fiore.png",
+      "img": "/images/vinos-espumantes/capriccio-fiore.webp",
       "precio": "6,40"
     },
     {
       "id": 172,
       "nombre": "SUTTER VARIETALES",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/SUTTER VARIETALES.jpg",
+      "img": "/images/vinos-espumantes/SUTTER VARIETALES.webp",
       "precio": "1.139,00"
     },
     {
       "id": 173,
       "nombre": "DOMADOR DEL DESIERTO",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/domador-del-desierto.png",
+      "img": "/images/vinos-espumantes/domador-del-desierto.webp",
       "precio": "212,50"
     },
     {
       "id": 177,
       "nombre": "MISTELA CROTTA",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/MISTELA CROTTA.jpg",
+      "img": "/images/vinos-espumantes/MISTELA CROTTA.webp",
       "precio": "1.275,00"
     },
     {
       "id": 178,
       "nombre": "MARTINEZ CROCE BLANCO TARDIO",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/MARTINEZ CROCE BLANCO TARDIO.jpg",
+      "img": "/images/vinos-espumantes/MARTINEZ CROCE BLANCO TARDIO.webp",
       "precio": "255,00"
     },
     {
       "id": 179,
       "nombre": "LUI ROSE",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/LUI ROSE.jpg",
+      "img": "/images/vinos-espumantes/LUI ROSE.webp",
       "precio": "2.040,00"
     },
     {
       "id": 180,
       "nombre": "SIGNOS MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/signos-malbec.png",
+      "img": "/images/vinos-espumantes/signos-malbec.webp",
       "precio": "272,00"
     },
     {
       "id": 181,
       "nombre": "CALLIA ALTA MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/CALLIA ALTA MALBEC.jpg",
+      "img": "/images/vinos-espumantes/CALLIA ALTA MALBEC.webp",
       "precio": "1.360,00"
     },
     {
       "id": 182,
       "nombre": "QUARA MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/quara-malbec.png",
+      "img": "/images/vinos-espumantes/quara-malbec.webp",
       "precio": "357,00"
     },
     {
       "id": 184,
       "nombre": "HOTEL CABERNET",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/HOTEL CABERNET.jpg",
+      "img": "/images/vinos-espumantes/HOTEL CABERNET.webp",
       "precio": "780,30"
     },
     {
       "id": 185,
       "nombre": "DILEMA BLANCO DULCE",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/dilema-blanco-dulce.png",
+      "img": "/images/vinos-espumantes/dilema-blanco-dulce.webp",
       "precio": "289,00"
     },
     {
       "id": 187,
       "nombre": "GUANACO MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/GUANACO MALBEC.jpg",
+      "img": "/images/vinos-espumantes/GUANACO MALBEC.webp",
       "precio": "1.258,00"
     },
     {
       "id": 188,
       "nombre": "OVEJA NEGRA",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/oveja-negra.png",
+      "img": "/images/vinos-espumantes/oveja-negra.webp",
       "precio": "1.020,00"
     },
     {
       "id": 189,
       "nombre": "LUCKY WINE",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/LUCKY WINE.jpg",
+      "img": "/images/vinos-espumantes/LUCKY WINE.webp",
       "precio": "935,00"
     },
     {
       "id": 191,
       "nombre": "LOLA MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/LOLA MALBEC.jpg",
+      "img": "/images/vinos-espumantes/LOLA MALBEC.webp",
       "precio": "323,00"
     },
     {
       "id": 192,
       "nombre": "LA IRIDE 750 ML",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/LA IRIDE 750 ML.jpg",
+      "img": "/images/vinos-espumantes/LA IRIDE 750 ML.webp",
       "precio": "331,50"
     },
     {
       "id": 194,
       "nombre": "SAN TELMO VARIELTALES",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/SAN TELMO VARIELTALES.jpg",
+      "img": "/images/vinos-espumantes/SAN TELMO VARIELTALES.webp",
       "precio": "1.020,00"
     },
     {
       "id": 196,
       "nombre": "SIEMPRE TENGO UN PLAN B",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/siempre-tengo-un-plan-b.png",
+      "img": "/images/vinos-espumantes/siempre-tengo-un-plan-b.webp",
       "precio": "348,50"
     },
     {
       "id": 197,
       "nombre": "CANCILLER MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/CANCILLER MALBEC.jpg",
+      "img": "/images/vinos-espumantes/CANCILLER MALBEC.webp",
       "precio": "353,60"
     },
     {
       "id": 198,
       "nombre": "DON DAVIDAD RESERVA MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/DON DAVIDAD RESERVA MALBEC.jpg",
+      "img": "/images/vinos-espumantes/DON DAVIDAD RESERVA MALBEC.webp",
       "precio": "4.080,00"
     },
     {
       "id": 201,
       "nombre": "GOYE MALBEC ROBLE",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/GOYE MALBEC ROBLE.jpg",
+      "img": "/images/vinos-espumantes/GOYE MALBEC ROBLE.webp",
       "precio": "595,00"
     },
     {
       "id": 203,
       "nombre": "BUONO B ORGANICO MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/BUONO B ORGANICO MALBEC.jpg",
+      "img": "/images/vinos-espumantes/BUONO B ORGANICO MALBEC.webp",
       "precio": "374,00"
     },
     {
       "id": 205,
       "nombre": "NIETO SENETINER BRUT NATURE",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/NIETO SENETINER BRUT NATURE.jpg",
+      "img": "/images/vinos-espumantes/NIETO SENETINER BRUT NATURE.webp",
       "precio": "3.315,00"
     },
     {
       "id": 206,
       "nombre": "PRISIONERO CHENIN DULCE",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/PRISIONERO CHENIN DULCE.jpg",
+      "img": "/images/vinos-espumantes/PRISIONERO CHENIN DULCE.webp",
       "precio": "1.190,00"
     },
     {
       "id": 207,
       "nombre": "DON VALENTIN LACRADO",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/DON VALENTIN LACRADO.jpg",
+      "img": "/images/vinos-espumantes/DON VALENTIN LACRADO.webp",
       "precio": "527,00"
     },
     {
       "id": 208,
       "nombre": "ELEGIDO MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/ELEGIDO MALBEC.jpg",
+      "img": "/images/vinos-espumantes/ELEGIDO MALBEC.webp",
       "precio": "1.190,00"
     },
     {
       "id": 209,
       "nombre": "KING MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/KING MALBEC.jpg",
+      "img": "/images/vinos-espumantes/KING MALBEC.webp",
       "precio": "408,00"
     },
     {
       "id": 213,
       "nombre": "MARLO BLANCO DULCE",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/MARLO BLANCO DULCE.jpg",
+      "img": "/images/vinos-espumantes/MARLO BLANCO DULCE.webp",
       "precio": "1.275,00"
     },
     {
       "id": 214,
       "nombre": "NAVIRA MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/NAVIRA MALBEC.jpg",
+      "img": "/images/vinos-espumantes/NAVIRA MALBEC.webp",
       "precio": "425,00"
     },
     {
       "id": 215,
       "nombre": "URBAN MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/URBAN MALBEC.jpg",
+      "img": "/images/vinos-espumantes/URBAN MALBEC.webp",
       "precio": "680,00"
     },
     {
       "id": 216,
       "nombre": "ZORRO SALVAJE",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/ZORRO SALVAJE.jpg",
+      "img": "/images/vinos-espumantes/ZORRO SALVAJE.webp",
       "precio": "850,00"
     },
     {
       "id": 218,
       "nombre": "EL NAUFRAGO MALBEC Y CHENIN X 750",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/EL NAUFRAGO MALBEC Y CHENIN X 750.jpg",
+      "img": "/images/vinos-espumantes/EL NAUFRAGO MALBEC Y CHENIN X 750.webp",
       "precio": "1.190,00"
     },
     {
       "id": 220,
       "nombre": "BEDZ MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/BEDZ MALBEC.jpg",
+      "img": "/images/vinos-espumantes/BEDZ MALBEC.webp",
       "precio": "1.133,90"
     },
     {
       "id": 225,
       "nombre": "PARECE PERO NO LO ES",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/PARECE PERO NO LO ES.jpg",
+      "img": "/images/vinos-espumantes/PARECE PERO NO LO ES.webp",
       "precio": "850,00"
     },
     {
       "id": 227,
       "nombre": "DESDEN RESERVA MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/DESDEN RESERVA MALBEC.jpg",
+      "img": "/images/vinos-espumantes/DESDEN RESERVA MALBEC.webp",
       "precio": "1.190,00"
     },
     {
       "id": 228,
       "nombre": "GORDO MOTONETA",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/GORDO MOTONETA.jpg",
+      "img": "/images/vinos-espumantes/GORDO MOTONETA.webp",
       "precio": "1.105,00"
     },
     {
       "id": 229,
       "nombre": "ASADO CLUB",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/ASADO CLUB.jpg",
+      "img": "/images/vinos-espumantes/ASADO CLUB.webp",
       "precio": "476,00"
     },
     {
       "id": 230,
       "nombre": "PROFUGO MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/PROFUGO MALBEC.jpg",
+      "img": "/images/vinos-espumantes/PROFUGO MALBEC.webp",
       "precio": "1.190,00"
     },
     {
       "id": 231,
       "nombre": "COSA DE LOCOS MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/COSA DE LOCOS MALBEC.jpg",
+      "img": "/images/vinos-espumantes/COSA DE LOCOS MALBEC.webp",
       "precio": "1.190,00"
     },
     {
       "id": 232,
       "nombre": "ATILIO MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/ATILIO MALBEC.jpg",
+      "img": "/images/vinos-espumantes/ATILIO MALBEC.webp",
       "precio": "459,00"
     },
     {
       "id": 234,
       "nombre": "LOS ARBOLES VARIETALES",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/LOS ARBOLES VARIETALES.jpg",
+      "img": "/images/vinos-espumantes/LOS ARBOLES VARIETALES.webp",
       "precio": "1.632,00"
     },
     {
       "id": 235,
       "nombre": "EL BAUTISMO MALBEC X 750",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/EL BAUTISMO MALBEC X 750.jpg",
+      "img": "/images/vinos-espumantes/EL BAUTISMO MALBEC X 750.webp",
       "precio": "1.700,00"
     },
     {
       "id": 236,
       "nombre": "CAYADO MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/CAYADO MALBEC.jpg",
+      "img": "/images/vinos-espumantes/CAYADO MALBEC.webp",
       "precio": "1.054,00"
     },
     {
       "id": 237,
       "nombre": "DOLORES ESPUMANTE",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/DOLORES ESPUMANTE.jpg",
+      "img": "/images/vinos-espumantes/DOLORES ESPUMANTE.webp",
       "precio": "510,00"
     },
     {
       "id": 239,
       "nombre": "OTRO LOCO MAS",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/OTRO LOCO MAS.jpg",
+      "img": "/images/vinos-espumantes/OTRO LOCO MAS.webp",
       "precio": "935,00"
     },
     {
       "id": 240,
       "nombre": "PUTRUELE ESPUMANTE",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/PUTRUELE ESPUMANTE.jpg",
+      "img": "/images/vinos-espumantes/PUTRUELE ESPUMANTE.webp",
       "precio": "527,00"
     },
     {
       "id": 242,
       "nombre": "CHACABUCO MALBEC 750 ML",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/CHACABUCO MALBEC 750 ML.jpg",
+      "img": "/images/vinos-espumantes/CHACABUCO MALBEC 750 ML.webp",
       "precio": "1.700,00"
     },
     {
       "id": 245,
       "nombre": "ANDELUNA RAICES MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/ANDELUNA RAICES MALBEC.jpg",
+      "img": "/images/vinos-espumantes/ANDELUNA RAICES MALBEC.webp",
       "precio": "3.230,00"
     },
     {
       "id": 246,
       "nombre": "ANDELUNA 1300 MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/ANDELUNA 1300 MALBEC.jpg",
+      "img": "/images/vinos-espumantes/ANDELUNA 1300 MALBEC.webp",
       "precio": "3.570,00"
     },
     {
       "id": 247,
       "nombre": "ESTANCIA MENDOZA ESPUMANTE",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/ESTANCIA MENDOZA ESPUMANTE.jpg",
+      "img": "/images/vinos-espumantes/ESTANCIA MENDOZA ESPUMANTE.webp",
       "precio": "510,00"
     },
     {
       "id": 249,
       "nombre": "SEXTO SENTIDO",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/SEXTO SENTIDO.jpg",
+      "img": "/images/vinos-espumantes/SEXTO SENTIDO.webp",
       "precio": "935,00"
     },
     {
       "id": 251,
       "nombre": "FUNCKENHAUSEN ROSE",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/FUNCKENHAUSEN ROSE.jpg",
+      "img": "/images/vinos-espumantes/FUNCKENHAUSEN ROSE.webp",
       "precio": "544,00"
     },
     {
       "id": 253,
       "nombre": "ESMERALDA MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/ESMERALDA MALBEC.jpg",
+      "img": "/images/vinos-espumantes/ESMERALDA MALBEC.webp",
       "precio": "340,00"
     },
     {
       "id": 254,
       "nombre": "ALCAHUETE MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/ALCAHUETE MALBEC.jpg",
+      "img": "/images/vinos-espumantes/ALCAHUETE MALBEC.webp",
       "precio": "493,00"
     },
     {
       "id": 255,
       "nombre": "MASTROENI VARIETALES NOTABLE",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/MASTROENI VARIETALES NOTABLE.jpg",
+      "img": "/images/vinos-espumantes/MASTROENI VARIETALES NOTABLE.webp",
       "precio": "1.870,00"
     },
     {
       "id": 256,
       "nombre": "SANTA JULIA MALBEC SAUVIGNON BLANC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/SANTA JULIA MALBEC SAUVIGNON BLANC.jpg",
+      "img": "/images/vinos-espumantes/SANTA JULIA MALBEC SAUVIGNON BLANC.webp",
       "precio": "1.700,00"
     },
     {
       "id": 257,
       "nombre": "RENAISSANCE EXTRA BRUT",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/RENAISSANCE EXTRA BRUT.jpg",
+      "img": "/images/vinos-espumantes/RENAISSANCE EXTRA BRUT.webp",
       "precio": "1.224,00"
     },
     {
       "id": 258,
       "nombre": "EMILIA MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/EMILIA MALBEC.jpg",
+      "img": "/images/vinos-espumantes/EMILIA MALBEC.webp",
       "precio": "2.720,00"
     },
     {
       "id": 259,
       "nombre": "ALTOS DEL PLATA",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/ALTOS DEL PLATA.jpg",
+      "img": "/images/vinos-espumantes/ALTOS DEL PLATA.webp",
       "precio": "1.700,00"
     },
     {
       "id": 260,
       "nombre": "PUESTO DEL MARQUES",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/PUESTO DEL MARQUES.jpg",
+      "img": "/images/vinos-espumantes/PUESTO DEL MARQUES.webp",
       "precio": "578,00"
     },
     {
       "id": 261,
       "nombre": "DOÑA PAULA ROSE",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/dona-paula-rose.png",
+      "img": "/images/vinos-espumantes/dona-paula-rose.webp",
       "precio": "1.785,00"
     },
     {
       "id": 262,
       "nombre": "LOS CARDOS MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/LOS CARDOS MALBEC.jpg",
+      "img": "/images/vinos-espumantes/LOS CARDOS MALBEC.webp",
       "precio": "1.530,00"
     },
     {
       "id": 263,
       "nombre": "ATILEO AVENAS ROSE DULCE",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/ATILEO AVENAS ROSE DULCE.jpg",
+      "img": "/images/vinos-espumantes/ATILEO AVENAS ROSE DULCE.webp",
       "precio": "595,00"
     },
     {
       "id": 264,
       "nombre": "LPQTP ESPUMANTE",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/LPQTP ESPUMANTE.jpg",
+      "img": "/images/vinos-espumantes/LPQTP ESPUMANTE.webp",
       "precio": "595,00"
     },
     {
       "id": 265,
       "nombre": "LUIGI BOSCA BRUT NATURE",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/LUIGI BOSCA BRUT NATURE.jpg",
+      "img": "/images/vinos-espumantes/LUIGI BOSCA BRUT NATURE.webp",
       "precio": "595,00"
     },
     {
       "id": 266,
       "nombre": "UN MUNDO CHIQUITO MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/UN MUNDO CHIQUITO MALBEC.jpg",
+      "img": "/images/vinos-espumantes/UN MUNDO CHIQUITO MALBEC.webp",
       "precio": "1.445,00"
     },
     {
       "id": 269,
       "nombre": "OID MORTALES",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/OID MORTALES.jpg",
+      "img": "/images/vinos-espumantes/OID MORTALES.webp",
       "precio": "833,00"
     },
     {
       "id": 270,
       "nombre": "ESTANCIA LA CALMA MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/ESTANCIA LA CALMA MALBEC.jpg",
+      "img": "/images/vinos-espumantes/ESTANCIA LA CALMA MALBEC.webp",
       "precio": "476,00"
     },
     {
       "id": 271,
       "nombre": "SENSEI MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/SENSEI MALBEC.jpg",
+      "img": "/images/vinos-espumantes/SENSEI MALBEC.webp",
       "precio": "1.190,00"
     },
     {
       "id": 272,
       "nombre": "ALMA MORA MALBEC O VIOGINER DULCE",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/ALMA MORA MALBEC O VIOGINER DULCE.jpg",
+      "img": "/images/vinos-espumantes/ALMA MORA MALBEC O VIOGINER DULCE.webp",
       "precio": "1.955,00"
     },
     {
       "id": 273,
       "nombre": "CAFAYATE VARIETALES",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/CAFAYATE VARIETALES.jpg",
+      "img": "/images/vinos-espumantes/CAFAYATE VARIETALES.webp",
       "precio": "1.334,50"
     },
     {
       "id": 274,
       "nombre": "NORTON COCECHA TARDIA TINTO, BLANCO, ROSE",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/NORTON COCECHA TARDIA TINTO, BLANCO, ROSE.jpg",
+      "img": "/images/vinos-espumantes/NORTON COCECHA TARDIA TINTO, BLANCO, ROSE.webp",
       "precio": "1.377,00"
     },
     {
       "id": 276,
       "nombre": "PUTRUELE MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/PUTRUELE MALBEC.jpg",
+      "img": "/images/vinos-espumantes/PUTRUELE MALBEC.webp",
       "precio": "1.479,00"
     },
     {
       "id": 278,
       "nombre": "ALCHIMIA RED BLAND 3",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/ALCHIMIA RED BLAND 3.jpg",
+      "img": "/images/vinos-espumantes/ALCHIMIA RED BLAND 3.webp",
       "precio": "632,40"
     },
     {
       "id": 280,
       "nombre": "MAGNA MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/MAGNA MALBEC.jpg",
+      "img": "/images/vinos-espumantes/MAGNA MALBEC.webp",
       "precio": "595,00"
     },
     {
       "id": 283,
       "nombre": "FUEGO NEGRO MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/FUEGO NEGRO MALBEC.jpg",
+      "img": "/images/vinos-espumantes/FUEGO NEGRO MALBEC.webp",
       "precio": "1.530,00"
     },
     {
       "id": 285,
       "nombre": "LAS PERDICES ALA COLORADA CABERNET FRANC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/LAS PERDICES ALA COLORADA CABERNET FRANC.jpg",
+      "img": "/images/vinos-espumantes/LAS PERDICES ALA COLORADA CABERNET FRANC.webp",
       "precio": "4.760,00"
     },
     {
       "id": 286,
       "nombre": "EUGENIO BUSTOS BLACO DULCE",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/EUGENIO BUSTOS BLACO DULCE.jpg",
+      "img": "/images/vinos-espumantes/EUGENIO BUSTOS BLACO DULCE.webp",
       "precio": "1.020,00"
     },
     {
       "id": 289,
       "nombre": "CORDERO PIEL DE LOBO",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/CORDERO PIEL DE LOBO.jpg",
+      "img": "/images/vinos-espumantes/CORDERO PIEL DE LOBO.webp",
       "precio": "1.615,00"
     },
     {
       "id": 290,
       "nombre": "EL JOVEN EQUILIBRISTA",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/EL JOVEN EQUILIBRISTA.jpg",
+      "img": "/images/vinos-espumantes/EL JOVEN EQUILIBRISTA.webp",
       "precio": "680,00"
     },
     {
       "id": 291,
       "nombre": "DANZA CON LOBOS MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/DANZA CON LOBOS MALBEC.jpg",
+      "img": "/images/vinos-espumantes/DANZA CON LOBOS MALBEC.webp",
       "precio": "680,00"
     },
     {
       "id": 292,
       "nombre": "LA LINDA EXTRA BRUT ESTUCHE",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/la-linda-extra-brut.png",
+      "img": "/images/vinos-espumantes/la-linda-extra-brut.webp",
       "precio": "697,00"
     },
     {
       "id": 293,
       "nombre": "ATURDIDO MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/ATURDIDO MALBEC.jpg",
+      "img": "/images/vinos-espumantes/ATURDIDO MALBEC.webp",
       "precio": "1.530,00"
     },
     {
       "id": 295,
       "nombre": "CORRAL DE PALOS DESPEINADO",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/CORRAL DE PALOS DESPEINADO.jpg",
+      "img": "/images/vinos-espumantes/CORRAL DE PALOS DESPEINADO.webp",
       "precio": "714,00"
     },
     {
       "id": 296,
       "nombre": "FEDERICO DE ALVEAR EXTRA BRUT",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/FEDERICO DE ALVEAR EXTRA BRUT.jpg",
+      "img": "/images/vinos-espumantes/FEDERICO DE ALVEAR EXTRA BRUT.webp",
       "precio": "1.190,00"
     },
     {
       "id": 297,
       "nombre": "FUZION ALTA SWEET",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/FUZION ALTA SWEET.jpg",
+      "img": "/images/vinos-espumantes/FUZION ALTA SWEET.webp",
       "precio": "1.156,00"
     },
     {
       "id": 298,
       "nombre": "LA GRAN NACHA",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/LA GRAN NACHA.jpg",
+      "img": "/images/vinos-espumantes/LA GRAN NACHA.webp",
       "precio": "1.785,00"
     },
     {
       "id": 299,
       "nombre": "SANTA JULIA CABERNET FRANC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/SANTA JULIA CABERNET FRANC.jpg",
+      "img": "/images/vinos-espumantes/SANTA JULIA CABERNET FRANC.webp",
       "precio": "1.445,00"
     },
     {
       "id": 300,
       "nombre": "GATA FLORA MALBEC Y BLANCO",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/GATA FLORA MALBEC Y BLANCO.jpg",
+      "img": "/images/vinos-espumantes/GATA FLORA MALBEC Y BLANCO.webp",
       "precio": "1.020,00"
     },
     {
       "id": 301,
       "nombre": "DADA INCREDIBLENDS 2",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/DADA INCREDIBLENDS 2.jpg",
+      "img": "/images/vinos-espumantes/DADA INCREDIBLENDS 2.webp",
       "precio": "2.040,00"
     },
     {
       "id": 302,
       "nombre": "FAMILIA GASCON",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/FAMILIA GASCON.jpg",
+      "img": "/images/vinos-espumantes/FAMILIA GASCON.webp",
       "precio": "2.380,00"
     },
     {
       "id": 303,
       "nombre": "LOS PATOS MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/LOS PATOS MALBEC.jpg",
+      "img": "/images/vinos-espumantes/LOS PATOS MALBEC.webp",
       "precio": "1.530,00"
     },
     {
       "id": 304,
       "nombre": "ABRASADO MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/ABRASADO MALBEC.jpg",
+      "img": "/images/vinos-espumantes/ABRASADO MALBEC.webp",
       "precio": "1.615,00"
     },
     {
       "id": 306,
       "nombre": "ALMA MORA RESERVA MALBEC X 750",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/ALMA MORA RESERVA MALBEC X 750.jpg",
+      "img": "/images/vinos-espumantes/ALMA MORA RESERVA MALBEC X 750.webp",
       "precio": "2.550,00"
     },
     {
       "id": 307,
       "nombre": "LA MASCOTA MALC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/LA MASCOTA MALC.jpg",
+      "img": "/images/vinos-espumantes/LA MASCOTA MALC.webp",
       "precio": "3.910,00"
     },
     {
       "id": 308,
       "nombre": "LADRAN SANCHO",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/LADRAN SANCHO.jpg",
+      "img": "/images/vinos-espumantes/LADRAN SANCHO.webp",
       "precio": "816,00"
     },
     {
       "id": 311,
       "nombre": "AGENTING MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/AGENTING MALBEC.jpg",
+      "img": "/images/vinos-espumantes/AGENTING MALBEC.webp",
       "precio": "765,00"
     },
     {
       "id": 312,
       "nombre": "CASILLERO DEL DIABLO RED BLEND",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/CASILLERO DEL DIABLO RED BLEND.jpg",
+      "img": "/images/vinos-espumantes/CASILLERO DEL DIABLO RED BLEND.webp",
       "precio": "2.040,00"
     },
     {
       "id": 314,
       "nombre": "DOÑA PAULA MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/DOÑA PAULA MALBEC.jpg",
+      "img": "/images/vinos-espumantes/DOÑA PAULA MALBEC.webp",
       "precio": "2.210,00"
     },
     {
       "id": 316,
       "nombre": "DON DAVID VARIETALES X 750",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/DON DAVID VARIETALES X 750.jpg",
+      "img": "/images/vinos-espumantes/DON DAVID VARIETALES X 750.webp",
       "precio": "2.805,00"
     },
     {
       "id": 318,
       "nombre": "SANTA JULIA CHENIN",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/SANTA JULIA CHENIN.jpg",
+      "img": "/images/vinos-espumantes/SANTA JULIA CHENIN.webp",
       "precio": "2.125,00"
     },
     {
       "id": 319,
       "nombre": "SANTA JULIA MALBEC DULCE",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/SANTA JULIA MALBEC DULCE.jpg",
+      "img": "/images/vinos-espumantes/SANTA JULIA MALBEC DULCE.webp",
       "precio": "2.040,00"
     },
     {
       "id": 321,
       "nombre": "TERRAZA RESERVA MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/TERRAZA RESERVA MALBEC.jpg",
+      "img": "/images/vinos-espumantes/TERRAZA RESERVA MALBEC.webp",
       "precio": "884,00"
     },
     {
       "id": 322,
       "nombre": "CHACABUCO CHENIN",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/CHACABUCO CHENIN.jpg",
+      "img": "/images/vinos-espumantes/CHACABUCO CHENIN.webp",
       "precio": "2.310,00"
     },
     {
       "id": 325,
       "nombre": "TRAPICHE RESERVA MALBEC X 750",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/TRAPICHE RESERVA MALBEC X 750.jpg",
+      "img": "/images/vinos-espumantes/TRAPICHE RESERVA MALBEC X 750.webp",
       "precio": "3.060,00"
     },
     {
       "id": 326,
       "nombre": "EL QUE RIE ULTIMO RIE MEJOR",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/EL QUE RIE ULTIMO RIE MEJOR.jpg",
+      "img": "/images/vinos-espumantes/EL QUE RIE ULTIMO RIE MEJOR.webp",
       "precio": "3.145,00"
     },
     {
       "id": 329,
       "nombre": "LOS PATOS MALBEC coleccion alta",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/LOS PATOS MALBEC coleccion alta.jpg",
+      "img": "/images/vinos-espumantes/LOS PATOS MALBEC coleccion alta.webp",
       "precio": "1.870,00"
     },
     {
       "id": 331,
       "nombre": "ANIMAL MALBEC ORGANICO",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/ANIMAL MALBEC ORGANICO.jpg",
+      "img": "/images/vinos-espumantes/ANIMAL MALBEC ORGANICO.webp",
       "precio": "935,00"
     },
     {
       "id": 335,
       "nombre": "DADA 7 ESPUMANTES",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/dada-espumante.png",
+      "img": "/images/vinos-espumantes/dada-espumante.webp",
       "precio": "2.924,00"
     },
     {
       "id": 336,
       "nombre": "LAS PERDICES MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/LAS PERDICES MALBEC.jpg",
+      "img": "/images/vinos-espumantes/LAS PERDICES MALBEC.webp",
       "precio": "2.380,00"
     },
     {
       "id": 339,
       "nombre": "FAMILIA BUSSETTI RESERVA",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/FAMILIA BUSSETTI RESERVA.jpg",
+      "img": "/images/vinos-espumantes/FAMILIA BUSSETTI RESERVA.webp",
       "precio": "935,00"
     },
     {
       "id": 340,
       "nombre": "ALAMBRADO MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/ALAMBRADO MALBEC.jpg",
+      "img": "/images/vinos-espumantes/ALAMBRADO MALBEC.webp",
       "precio": "1.955,00"
     },
     {
       "id": 341,
       "nombre": "PERRO CALLEJERO",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/perro-callejero.png",
+      "img": "/images/vinos-espumantes/perro-callejero.webp",
       "precio": "2.550,00"
     },
     {
       "id": 343,
       "nombre": "PERRO CALLEJERO EXTRA BRUT",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/PERRO CALLEJERO EXTRA BRUT.jpg",
+      "img": "/images/vinos-espumantes/PERRO CALLEJERO EXTRA BRUT.webp",
       "precio": "2.550,00"
     },
     {
       "id": 344,
       "nombre": "NAVARRO CORREAS SPKL BRUT X 750",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/NAVARRO CORREAS SPKL BRUT X 750.jpg",
+      "img": "/images/vinos-espumantes/NAVARRO CORREAS SPKL BRUT X 750.webp",
       "precio": "2.890,00"
     },
     {
       "id": 345,
       "nombre": "DESQUICIADO VARIETALES",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/DESQUICIADO VARIETALES.jpg",
+      "img": "/images/vinos-espumantes/DESQUICIADO VARIETALES.webp",
       "precio": "935,00"
     },
     {
       "id": 346,
       "nombre": "TUCUMEN RESERVA MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/TUCUMEN RESERVA MALBEC.jpg",
+      "img": "/images/vinos-espumantes/TUCUMEN RESERVA MALBEC.webp",
       "precio": "2.040,00"
     },
     {
       "id": 347,
       "nombre": "NOCHE ETERNA SYRA DULCE",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/NOCHE ETERNA SYRA DULCE.jpg",
+      "img": "/images/vinos-espumantes/NOCHE ETERNA SYRA DULCE.webp",
       "precio": "2.720,00"
     },
     {
       "id": 348,
       "nombre": "LAS PERDICES CHAC CHAC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/LAS PERDICES CHAC CHAC.jpg",
+      "img": "/images/vinos-espumantes/LAS PERDICES CHAC CHAC.webp",
       "precio": "2.720,00"
     },
     {
       "id": 349,
       "nombre": "COLON SELECTO MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/COLON SELECTO MALBEC.jpg",
+      "img": "/images/vinos-espumantes/COLON SELECTO MALBEC.webp",
       "precio": "1.105,00"
     },
     {
       "id": 350,
       "nombre": "LOS INTOCABLES VARIETALES",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/LOS INTOCABLES VARIETALES.jpg",
+      "img": "/images/vinos-espumantes/LOS INTOCABLES VARIETALES.webp",
       "precio": "3.655,00"
     },
     {
       "id": 351,
       "nombre": "FAMIGLIA BIANCHI",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/FAMIGLIA BIANCHI.jpg",
+      "img": "/images/vinos-espumantes/FAMIGLIA BIANCHI.webp",
       "precio": "1.020,00"
     },
     {
       "id": 352,
       "nombre": "SALENTEIN BRUT NATURE",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/SALENTEIN BRUT NATURE.jpg",
+      "img": "/images/vinos-espumantes/SALENTEIN BRUT NATURE.webp",
       "precio": "3.910,00"
     },
     {
       "id": 353,
       "nombre": "MALABARISTA MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/MALABARISTA MALBEC.jpg",
+      "img": "/images/vinos-espumantes/MALABARISTA MALBEC.webp",
       "precio": "1.190,00"
     },
     {
       "id": 354,
       "nombre": "CLANDESTINO MALBEC RESERVA",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/CLANDESTINO MALBEC RESERVA.jpg",
+      "img": "/images/vinos-espumantes/CLANDESTINO MALBEC RESERVA.webp",
       "precio": "3.400,00"
     },
     {
       "id": 355,
       "nombre": "FOND DE CAVE RESERVA MALBEC X 750",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/FOND DE CAVE RESERVA MALBEC X 750.jpg",
+      "img": "/images/vinos-espumantes/FOND DE CAVE RESERVA MALBEC X 750.webp",
       "precio": "4.080,00"
     },
     {
       "id": 357,
       "nombre": "MUMM EXTRA BRUT X 750",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/mumm-extra-brut.png",
+      "img": "/images/vinos-espumantes/mumm-extra-brut.webp",
       "precio": "3.060,00"
     },
     {
       "id": 358,
       "nombre": "MUMM LEGER",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/MUMM LEGER.jpg",
+      "img": "/images/vinos-espumantes/MUMM LEGER.webp",
       "precio": "3.060,00"
     },
     {
       "id": 361,
       "nombre": "LA IRIDE MIMBRE MALBEC 3 litros",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/LA IRIDE MIMBRE MALBEC 3 litros.jpg",
+      "img": "/images/vinos-espumantes/LA IRIDE MIMBRE MALBEC 3 litros.webp",
       "precio": "1.377,00"
     },
     {
       "id": 364,
       "nombre": "EL ESTECO BLEND",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/el-esteco-blend.png",
+      "img": "/images/vinos-espumantes/el-esteco-blend.webp",
       "precio": "5.100,00"
     },
     {
       "id": 365,
       "nombre": "SALENTEIN RESERVA CHARDONAY",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/SALENTEIN RESERVA CHARDONAY.jpg",
+      "img": "/images/vinos-espumantes/SALENTEIN RESERVA CHARDONAY.webp",
       "precio": "3.400,00"
     },
     {
       "id": 366,
       "nombre": "SALENTEIN RESERVA MALBE O FRANC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/SALENTEIN RESERVA MALBE O FRANC.jpg",
+      "img": "/images/vinos-espumantes/SALENTEIN RESERVA MALBE O FRANC.webp",
       "precio": "3.400,00"
     },
     {
       "id": 368,
       "nombre": "PISPI",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/PISPI.jpg",
+      "img": "/images/vinos-espumantes/PISPI.webp",
       "precio": "3.230,00"
     },
     {
       "id": 370,
       "nombre": "LA IRIDE MALBEC 5 LT DAMA JUANA",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/LA IRIDE MALBEC 5 LT DAMA JUANA.jpg",
+      "img": "/images/vinos-espumantes/LA IRIDE MALBEC 5 LT DAMA JUANA.webp",
       "precio": "4.760,00"
     },
     {
       "id": 371,
       "nombre": "MALEANTE",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/MALEANTE.jpg",
+      "img": "/images/vinos-espumantes/MALEANTE.webp",
       "precio": "1.292,00"
     },
     {
       "id": 372,
       "nombre": "PAZ MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/PAZ MALBEC.jpg",
+      "img": "/images/vinos-espumantes/PAZ MALBEC.webp",
       "precio": "4.080,00"
     },
     {
       "id": 374,
       "nombre": "TRUMPETER",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/trumpeter-malbec.png",
+      "img": "/images/vinos-espumantes/trumpeter-malbec.webp",
       "precio": "3.570,00"
     },
     {
       "id": 375,
       "nombre": "MALAMADO MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/MALAMADO MALBEC.jpg",
+      "img": "/images/vinos-espumantes/MALAMADO MALBEC.webp",
       "precio": "5.440,00"
     },
     {
       "id": 376,
       "nombre": "SAPO DE OTRO POZO",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/SAPO DE OTRO POZO.jpg",
+      "img": "/images/vinos-espumantes/SAPO DE OTRO POZO.webp",
       "precio": "4.505,00"
     },
     {
       "id": 377,
       "nombre": "FABRE MONTMAYOU CABERNET FRANCK, MERLOT",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/FABRE MONTMAYOU CABERNET FRANCK, MERLOT.jpg",
+      "img": "/images/vinos-espumantes/FABRE MONTMAYOU CABERNET FRANCK, MERLOT.webp",
       "precio": "2.720,00"
     },
     {
       "id": 378,
       "nombre": "SALENTEIN NUMINA MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/SALENTEIN NUMINA MALBEC.jpg",
+      "img": "/images/vinos-espumantes/SALENTEIN NUMINA MALBEC.webp",
       "precio": "5.185,00"
     },
     {
       "id": 379,
       "nombre": "LUIGI BOSCA MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/LUIGI BOSCA MALBEC.jpg",
+      "img": "/images/vinos-espumantes/LUIGI BOSCA MALBEC.webp",
       "precio": "5.270,00"
     },
     {
       "id": 380,
       "nombre": "DV CATENA ZAPATA CABERNET MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/DV CATENA ZAPATA CABERNET MALBEC.jpg",
+      "img": "/images/vinos-espumantes/DV CATENA ZAPATA CABERNET MALBEC.webp",
       "precio": "5.355,00"
     },
     {
       "id": 382,
       "nombre": "RUTINI SAUVIGNON BLANC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/RUTINI SAUVIGNON BLANC.jpg",
+      "img": "/images/vinos-espumantes/RUTINI SAUVIGNON BLANC.webp",
       "precio": "7.990,00"
     },
     {
       "id": 383,
       "nombre": "RUTINI MALBEC - CABERNET",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/RUTINI MALBEC - CABERNET.jpg",
+      "img": "/images/vinos-espumantes/RUTINI MALBEC - CABERNET.webp",
       "precio": "6.630,00"
     },
     {
       "id": 384,
       "nombre": "MOSQUITA MUERTA",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/mosquita-muerta.png",
+      "img": "/images/vinos-espumantes/mosquita-muerta.webp",
       "precio": "6.052,00"
     },
     {
       "id": 385,
       "nombre": "CLAROOSCURO MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/CLAROOSCURO MALBEC.jpg",
+      "img": "/images/vinos-espumantes/CLAROOSCURO MALBEC.webp",
       "precio": "2.941,00"
     },
     {
       "id": 386,
       "nombre": "HERMANDAD CABERNET FRANC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/HERMANDAD CABERNET FRANC.jpg",
+      "img": "/images/vinos-espumantes/HERMANDAD CABERNET FRANC.webp",
       "precio": "6.120,00"
     },
     {
       "id": 387,
       "nombre": "BARON B ESPUMANTE EXTRA BRUT",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/BARON B ESPUMANTE EXTRA BRUT.jpg",
+      "img": "/images/vinos-espumantes/BARON B ESPUMANTE EXTRA BRUT.webp",
       "precio": "8.075,00"
     },
     {
       "id": 388,
       "nombre": "RUTINI MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/RUTINI MALBEC.jpg",
+      "img": "/images/vinos-espumantes/RUTINI MALBEC.webp",
       "precio": "11.900,00"
     },
     {
       "id": 389,
       "nombre": "TIERRA TELTECA ROSE",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/TIERRA TELTECA ROSE.jpg",
+      "img": "/images/vinos-espumantes/TIERRA TELTECA ROSE.webp",
       "precio": "1.530,00"
     },
     {
       "id": 390,
       "nombre": "SAINT FELICIEN MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/SAINT FELICIEN MALBEC.jpg",
+      "img": "/images/vinos-espumantes/SAINT FELICIEN MALBEC.webp",
       "precio": "4.760,00"
     },
     {
       "id": 391,
       "nombre": "PENEDO BORGES CEPAS MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/PENEDO BORGES CEPAS MALBEC.jpg",
+      "img": "/images/vinos-espumantes/PENEDO BORGES CEPAS MALBEC.webp",
       "precio": "3.570,00"
     },
     {
       "id": 392,
       "nombre": "SEXY FISH MALBEC, CABERNET FRANCK",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/SEXY FISH MALBEC, CABERNET FRANCK.jpg",
+      "img": "/images/vinos-espumantes/SEXY FISH MALBEC, CABERNET FRANCK.webp",
       "precio": "1.785,00"
     },
     {
       "id": 393,
       "nombre": "KILKA MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/KILKA MALBEC.jpg",
+      "img": "/images/vinos-espumantes/KILKA MALBEC.webp",
       "precio": "2.125,00"
     },
     {
       "id": 394,
       "nombre": "SANTA FLORENTINA SYRAH MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/santa-florentina-syrah.png",
+      "img": "/images/vinos-espumantes/santa-florentina-syrah.webp",
       "precio": "1.360,00"
     },
     {
       "id": 395,
       "nombre": "SANTA FLORENTINA TARDIO OTOÑAL",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/SANTA FLORENTINA TARDIO OTOÑAL.jpg",
+      "img": "/images/vinos-espumantes/SANTA FLORENTINA TARDIO OTOÑAL.webp",
       "precio": "1.139,00"
     },
     {
       "id": 396,
       "nombre": "SAN FELIPE CARAMAÑOLA TINTO",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/SAN FELIPE CARAMAÑOLA TINTO.jpg",
+      "img": "/images/vinos-espumantes/SAN FELIPE CARAMAÑOLA TINTO.webp",
       "precio": "2.380,00"
     },
     {
       "id": 397,
       "nombre": "DONDE MANDA CAPITAN MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/DONDE MANDA CAPITAN MALBEC.jpg",
+      "img": "/images/vinos-espumantes/DONDE MANDA CAPITAN MALBEC.webp",
       "precio": "1.105,00"
     },
     {
       "id": 398,
       "nombre": "QUINQUELA",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/QUINQUELA.jpg",
+      "img": "/images/vinos-espumantes/QUINQUELA.webp",
       "precio": "2.040,00"
     },
     {
       "id": 399,
       "nombre": "CLAROSCURO GRAN PINOT",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/CLAROSCURO GRAN PINOT.jpg",
+      "img": "/images/vinos-espumantes/CLAROSCURO GRAN PINOT.webp",
       "precio": "4.505,00"
     },
     {
       "id": 401,
       "nombre": "EL ABUELO OPORTO",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/el-abuelo-oporto.png",
+      "img": "/images/vinos-espumantes/el-abuelo-oporto.webp",
       "precio": "935,00"
     },
     {
       "id": 402,
       "nombre": "ANDELUNA ALTITUD MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/ANDELUNA ALTITUD MALBEC.jpg",
+      "img": "/images/vinos-espumantes/ANDELUNA ALTITUD MALBEC.webp",
       "precio": "6.290,00"
     },
     {
       "id": 403,
       "nombre": "FABRE MONTMAYOU TERRUÑO CABERNET FRANCK",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/FABRE MONTMAYOU TERRUÑO CABERNET FRANCK.jpg",
+      "img": "/images/vinos-espumantes/FABRE MONTMAYOU TERRUÑO CABERNET FRANCK.webp",
       "precio": "3.400,00"
     },
     {
       "id": 404,
       "nombre": "BARON B ESPUMANTE 1,5 LITROS",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/BARON B ESPUMANTE 1,5 LITROS.jpg",
+      "img": "/images/vinos-espumantes/BARON B ESPUMANTE 1,5 LITROS.webp",
       "precio": "15.300,00"
     },
     {
       "id": 405,
       "nombre": "CONEJO VERDE VARIETALES",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/CONEJO VERDE VARIETALES.jpg",
+      "img": "/images/vinos-espumantes/CONEJO VERDE VARIETALES.webp",
       "precio": "1.530,00"
     },
     {
       "id": 406,
       "nombre": "MARIONETA CHENIN",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/MARIONETA CHENIN.jpg",
+      "img": "/images/vinos-espumantes/MARIONETA CHENIN.webp",
       "precio": "2.380,00"
     },
     {
       "id": 407,
       "nombre": "CALLIA ESPERADO DULCE TARDIO",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/CALLIA ESPERADO DULCE TARDIO.jpg",
+      "img": "/images/vinos-espumantes/CALLIA ESPERADO DULCE TARDIO.webp",
       "precio": "1.530,00"
     },
     {
       "id": 408,
       "nombre": "CHACABUCO CHENIN 500 ML ALUMINO",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/CHACABUCO CHENIN 500 ML ALUMINO.jpg",
+      "img": "/images/vinos-espumantes/CHACABUCO CHENIN 500 ML ALUMINO.webp",
       "precio": "1.785,00"
     },
     {
       "id": 409,
       "nombre": "SANTA JULIA COSETA TARDIA BLANCO DULCE",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/SANTA JULIA COSETA TARDIA BLANCO DULCE.jpg",
+      "img": "/images/vinos-espumantes/SANTA JULIA COSETA TARDIA BLANCO DULCE.webp",
       "precio": "1.785,00"
     },
     {
       "id": 410,
       "nombre": "TRAPICHE ORIGEN MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/TRAPICHE ORIGEN MALBEC.jpg",
+      "img": "/images/vinos-espumantes/TRAPICHE ORIGEN MALBEC.webp",
       "precio": "2.210,00"
     },
     {
       "id": 411,
       "nombre": "CAFAYATE RESERVA MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/CAFAYATE RESERVA MALBEC.jpg",
+      "img": "/images/vinos-espumantes/CAFAYATE RESERVA MALBEC.webp",
       "precio": "2.125,00"
     },
     {
       "id": 414,
       "nombre": "HIERRO 7 GRAN RESERVA",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/HIERRO 7 GRAN RESERVA.jpg",
+      "img": "/images/vinos-espumantes/HIERRO 7 GRAN RESERVA.webp",
       "precio": "4.370,00"
     },
     {
       "id": 415,
       "nombre": "PORTILLO MALEC Y BLANCO",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/PORTILLO MALEC Y BLANCO.jpg",
+      "img": "/images/vinos-espumantes/PORTILLO MALEC Y BLANCO.webp",
       "precio": "1.700,00"
     },
     {
       "id": 418,
       "nombre": "CAFAYATE TERROIR DE ALTURA TORRONTES",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/CAFAYATE TERROIR DE ALTURA TORRONTES.jpg",
+      "img": "/images/vinos-espumantes/CAFAYATE TERROIR DE ALTURA TORRONTES.webp",
       "precio": "3.570,00"
     },
     {
       "id": 421,
       "nombre": "PICCOLO CONCLAVE RESERVA MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/PICCOLO CONCLAVE RESERVA MALBEC.jpg",
+      "img": "/images/vinos-espumantes/PICCOLO CONCLAVE RESERVA MALBEC.webp",
       "precio": "3.230,00"
     },
     {
       "id": 422,
       "nombre": "CIVIT 757 MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/CIVIT 757 MALBEC.jpg",
+      "img": "/images/vinos-espumantes/CIVIT 757 MALBEC.webp",
       "precio": "2.125,00"
     },
     {
       "id": 423,
       "nombre": "CABARCENO PATERO VINO TINTO DULCE 3 LITROS LIMITADA",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/CABARCENO PATERO VINO TINTO DULCE 3 LITROS LIMITADA.jpg",
+      "img": "/images/vinos-espumantes/CABARCENO PATERO VINO TINTO DULCE 3 LITROS LIMITADA.webp",
       "precio": "6.800,00"
     },
     {
       "id": 424,
       "nombre": "LA CELIA PINOT GRIGIO",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/LA CELIA PINOT GRIGIO.jpg",
+      "img": "/images/vinos-espumantes/LA CELIA PINOT GRIGIO.webp",
       "precio": "1.700,00"
     },
     {
       "id": 425,
       "nombre": "LA CECIA RESERVA ROSE",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/LA CECIA RESERVA ROSE.jpg",
+      "img": "/images/vinos-espumantes/LA CECIA RESERVA ROSE.webp",
       "precio": "1.700,00"
     },
     {
       "id": 428,
       "nombre": "HELIOS PUNA MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/HELIOS PUNA MALBEC.jpg",
+      "img": "/images/vinos-espumantes/HELIOS PUNA MALBEC.webp",
       "precio": "3.230,00"
     },
     {
       "id": 431,
       "nombre": "SANTA JULIA CHENIN CON DOS VASOS",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/SANTA JULIA CHENIN CON DOS VASOS.jpg",
+      "img": "/images/vinos-espumantes/SANTA JULIA CHENIN CON DOS VASOS.webp",
       "precio": "6.290,00"
     },
     {
       "id": 432,
       "nombre": "AGOSTINO ESTATE MALBEC",
       "categoria": "Vinos y Espumantes",
-      "img": "/images/vinos-espumantes/AGOSTINO ESTATE MALBEC.jpg",
+      "img": "/images/vinos-espumantes/AGOSTINO ESTATE MALBEC.webp",
       "precio": "1.870,00"
     },
     {
       "id": 433,
       "nombre": "LATAS HEINEKEN 710 ML",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/LATAS HEINEKEN 710 ML.jpeg",
+      "img": "/images/cervezas/LATAS HEINEKEN 710 ML.webp",
       "precio": "1.192,95"
     },
     {
       "id": 434,
       "nombre": "LATAS MILLER 500 ML",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/LATAS MILLER 500 ML.jpg",
+      "img": "/images/cervezas/LATAS MILLER 500 ML.webp",
       "precio": "660,00"
     },
     {
       "id": 435,
       "nombre": "LATAS HEINEKEN 500 ML",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/LATAS HEINEKEN 500 ML.jpeg",
+      "img": "/images/cervezas/LATAS HEINEKEN 500 ML.webp",
       "precio": "735,90"
     },
     {
       "id": 436,
       "nombre": "27 EAZY LATA",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/27 EAZY LATA.jpg",
+      "img": "/images/cervezas/27 EAZY LATA.webp",
       "precio": "759,00"
     },
     {
       "id": 437,
       "nombre": "LATAS IMPERIAL IPA, ROJA, NEGRA APA",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/LATAS IMPERIAL IPA, ROJA, NEGRA APA.jpg",
+      "img": "/images/cervezas/LATAS IMPERIAL IPA, ROJA, NEGRA APA.webp",
       "precio": "597,30"
     },
     {
       "id": 438,
       "nombre": "LATAS IMPERIAL GOLDEN RUBIA",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/LATAS IMPERIAL GOLDEN RUBIA.jpg",
+      "img": "/images/cervezas/LATAS IMPERIAL GOLDEN RUBIA.webp",
       "precio": "570,90"
     },
     {
       "id": 439,
       "nombre": "OKCIDENTA 449 IPA 355ML",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/OKCIDENTA 449 IPA 355ML.jpg",
+      "img": "/images/cervezas/OKCIDENTA 449 IPA 355ML.webp",
       "precio": "445,50"
     },
     {
       "id": 440,
       "nombre": "LATAS IMPERIAL 710 ML",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/LATAS IMPERIAL 710 ML.jpeg",
+      "img": "/images/cervezas/LATAS IMPERIAL 710 ML.webp",
       "precio": "914,10"
     },
     {
       "id": 441,
       "nombre": "MICHELOB ULTRA LIGHT LATA",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/MICHELOB ULTRA LIGHT LATA.jpg",
+      "img": "/images/cervezas/MICHELOB ULTRA LIGHT LATA.webp",
       "precio": "585,75"
     },
     {
       "id": 442,
       "nombre": "LATAS ANTARES SABORES",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/LATAS ANTARES SABORES.jpg",
+      "img": "/images/cervezas/LATAS ANTARES SABORES.webp",
       "precio": "808,50"
     },
     {
       "id": 443,
       "nombre": "LATAS CORDOBA",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/LATAS CORDOBA.jpg",
+      "img": "/images/cervezas/LATAS CORDOBA.webp",
       "precio": "297,00"
     },
     {
       "id": 444,
       "nombre": "LATAS AMSTEL",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/LATAS AMSTEL.jpg",
+      "img": "/images/cervezas/LATAS AMSTEL.webp",
       "precio": "519,75"
     },
     {
       "id": 445,
       "nombre": "LATAS PATAGONIA VARIEDADES 473 CC",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/LATAS PATAGONIA VARIEDADES 473 CC.jpg",
+      "img": "/images/cervezas/LATAS PATAGONIA VARIEDADES 473 CC.webp",
       "precio": "907,50"
     },
     {
       "id": 446,
       "nombre": "LATAS STELLA NOIR",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/LATAS STELLA NOIR.jpg",
+      "img": "/images/cervezas/LATAS STELLA NOIR.webp",
       "precio": "717,75"
     },
     {
       "id": 447,
       "nombre": "LATAS STELLA",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/LATAS STELLA.jpg",
+      "img": "/images/cervezas/LATAS STELLA.webp",
       "precio": "717,75"
     },
     {
       "id": 448,
       "nombre": "LATA TEMPLE",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/LATA TEMPLE.jpg",
+      "img": "/images/cervezas/LATA TEMPLE.webp",
       "precio": "924,00"
     },
     {
       "id": 449,
       "nombre": "LATAS ANDES VARIEDADES",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/LATAS ANDES VARIEDADES.jpg",
+      "img": "/images/cervezas/LATAS ANDES VARIEDADES.webp",
       "precio": "643,50"
     },
     {
       "id": 450,
       "nombre": "LATAS ANDES RUBIA",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/LATAS ANDES RUBIA.jpg",
+      "img": "/images/cervezas/LATAS ANDES RUBIA.webp",
       "precio": "610,50"
     },
     {
       "id": 451,
       "nombre": "LATAS PATAGONIA VARIEDADES 410CC",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/LATAS PATAGONIA VARIEDADES 410CC.jpg",
+      "img": "/images/cervezas/LATAS PATAGONIA VARIEDADES 410CC.webp",
       "precio": "775,50"
     },
     {
       "id": 452,
       "nombre": "LATA GAUKLER",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/LATA GAUKLER.jpg",
+      "img": "/images/cervezas/LATA GAUKLER.webp",
       "precio": "742,50"
     },
     {
       "id": 455,
       "nombre": "LATAS BUDWEISER",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/LATAS BUDWEISER.jpg",
+      "img": "/images/cervezas/LATAS BUDWEISER.webp",
       "precio": "503,25"
     },
     {
       "id": 456,
       "nombre": "LATAS BRAHMA",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/LATAS BRAHMA.jpg",
+      "img": "/images/cervezas/LATAS BRAHMA.webp",
       "precio": "528,00"
     },
     {
       "id": 457,
       "nombre": "BARBA ROJA SIN ALCOHOL VARIEDADES",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/BARBA ROJA SIN ALCOHOL VARIEDADES.jpg",
+      "img": "/images/cervezas/BARBA ROJA SIN ALCOHOL VARIEDADES.webp",
       "precio": "643,50"
     },
     {
       "id": 458,
       "nombre": "LATAS ISENBECK",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/LATAS ISENBECK.jpg",
+      "img": "/images/cervezas/LATAS ISENBECK.webp",
       "precio": "346,50"
     },
     {
       "id": 459,
       "nombre": "LATA SOL",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/LATA SOL.jpg",
+      "img": "/images/cervezas/LATA SOL.webp",
       "precio": "735,90"
     },
     {
       "id": 460,
       "nombre": "LATAS WASTEINER",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/LATAS WASTEINER.jpg",
+      "img": "/images/cervezas/LATAS WASTEINER.webp",
       "precio": "660,00"
     },
     {
       "id": 461,
       "nombre": "LATAS GROLSH",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/LATAS GROLSH.jpg",
+      "img": "/images/cervezas/LATAS GROLSH.webp",
       "precio": "735,90"
     },
     {
       "id": 462,
       "nombre": "LATAS SCHEINDER",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/LATAS SCHEINDER.jpg",
+      "img": "/images/cervezas/LATAS SCHEINDER.webp",
       "precio": "247,50"
     },
     {
       "id": 464,
       "nombre": "OETTINGEER ALEMAN",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/OETTINGEER ALEMAN.jpg",
+      "img": "/images/cervezas/OETTINGEER ALEMAN.webp",
       "precio": "272,25"
     },
     {
       "id": 465,
       "nombre": "BAVARIA 8.6",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/BAVARIA 8.6.jpg",
+      "img": "/images/cervezas/BAVARIA 8.6.webp",
       "precio": "1.155,00"
     },
     {
       "id": 466,
       "nombre": "BAVARIA",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/BAVARIA.jpg",
+      "img": "/images/cervezas/BAVARIA.webp",
       "precio": "990,00"
     },
     {
       "id": 467,
       "nombre": "LATA DE SIDRA PATAGONIA",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/LATA DE SIDRA PATAGONIA.jpg",
+      "img": "/images/cervezas/LATA DE SIDRA PATAGONIA.webp",
       "precio": "495,00"
     },
     {
       "id": 468,
       "nombre": "STARBERG LATA",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/STARBERG LATA.jpg",
+      "img": "/images/cervezas/STARBERG LATA.webp",
       "precio": "742,50"
     },
     {
       "id": 470,
       "nombre": "LATA HEINEKEN CERO",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/LATA HEINEKEN CERO.jpg",
+      "img": "/images/cervezas/LATA HEINEKEN CERO.webp",
       "precio": "577,50"
     },
     {
       "id": 472,
       "nombre": "CORONA SIX PACK  DESCARTABLE",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/CORONA SIX PACK  DESCARTABLE.jpg",
+      "img": "/images/cervezas/CORONA SIX PACK  DESCARTABLE.webp",
       "precio": "714,00"
     },
     {
       "id": 473,
       "nombre": "BRAHMA RENORNABLE",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/BRAHMA RENORNABLE.jpg",
+      "img": "/images/cervezas/BRAHMA RENORNABLE.webp",
       "precio": "928,95"
     },
     {
       "id": 475,
       "nombre": "BUDWEISER RETORNABLE",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/BUDWEISER RETORNABLE.jpg",
+      "img": "/images/cervezas/BUDWEISER RETORNABLE.webp",
       "precio": "971,85"
     },
     {
       "id": 476,
       "nombre": "IMPERIAL RUBIA / GOLD RETORNABLE",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/IMPERIAL RUBIA RETORNABLE.png",
+      "img": "/images/cervezas/IMPERIAL RUBIA RETORNABLE.webp",
       "precio": "1.027,95"
     },
     {
       "id": 477,
       "nombre": "ANDES RUBIA RETORNABLE",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/ANDES RUBIA RETORNABLE.jpg",
+      "img": "/images/cervezas/ANDES RUBIA RETORNABLE.webp",
       "precio": "1.141,80"
     },
     {
       "id": 478,
       "nombre": "IMPERIAL IPA APA NEGRA RETORNABLE",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/IMPERIAL IPA APA NEGRA RETORNABLE.jpg",
+      "img": "/images/cervezas/IMPERIAL IPA APA NEGRA RETORNABLE.webp",
       "precio": "1.065,90"
     },
     {
       "id": 479,
       "nombre": "ANDES VARIEDADES RETORNABLE",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/ANDES VARIEDADES RETORNABLE.jpg",
+      "img": "/images/cervezas/ANDES VARIEDADES RETORNABLE.webp",
       "precio": "1.141,80"
     },
     {
       "id": 480,
       "nombre": "HEINEKEN RETORNABLE",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/HEINEKEN RETORNABLE.jpg",
+      "img": "/images/cervezas/HEINEKEN RETORNABLE.webp",
       "precio": "1.320,00"
     },
     {
       "id": 481,
       "nombre": "PATAGONIA VARIEDADES",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/PATAGONIA VARIEDADES.jpg",
+      "img": "/images/cervezas/PATAGONIA VARIEDADES.webp",
       "precio": "1.460,25"
     },
     {
       "id": 482,
       "nombre": "CORONA GRANDE DESCARTABLE",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/CORONA GRANDE DESCARTABLE.jpg",
+      "img": "/images/cervezas/CORONA GRANDE DESCARTABLE.webp",
       "precio": "1.309,00"
     },
     {
       "id": 483,
       "nombre": "STELLA RUBIA RETORNABLE",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/STELLA RUBIA RETORNABLE.jpg",
+      "img": "/images/cervezas/STELLA RUBIA RETORNABLE.webp",
       "precio": "1.353,00"
     },
     {
       "id": 484,
       "nombre": "ISENBECK RETORNABLE",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/ISENBECK RETORNABLE.jpeg",
+      "img": "/images/cervezas/ISENBECK RETORNABLE.webp",
       "precio": "561,00"
     },
     {
       "id": 488,
       "nombre": "GROLSCH RETORNABLE",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/GROLSCH RETORNABLE.jpg",
+      "img": "/images/cervezas/GROLSCH RETORNABLE.webp",
       "precio": "1.320,00"
     },
     {
       "id": 492,
       "nombre": "MILLER RETORNABLE",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/MILLER RETORNABLE.jpg",
+      "img": "/images/cervezas/MILLER RETORNABLE.webp",
       "precio": "1.179,75"
     },
     {
       "id": 493,
       "nombre": "ORANJEBOOM 12 GRADOS",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/ORANJEBOOM 12 GRADOS.jpg",
+      "img": "/images/cervezas/ORANJEBOOM 12 GRADOS.webp",
       "precio": "1.650,00"
     },
     {
       "id": 495,
       "nombre": "WASTEINER RETORNABLE",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/WASTEINER RETORNABLE.jpg",
+      "img": "/images/cervezas/WASTEINER RETORNABLE.webp",
       "precio": "1.179,75"
     },
     {
       "id": 497,
       "nombre": "CONSERVADORA BRAHMA",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/CONSERVADORA BRAHMA.jpg",
+      "img": "/images/cervezas/CONSERVADORA BRAHMA.webp",
       "precio": "13.200,00"
     },
     {
       "id": 498,
       "nombre": "CONSERVADORA CORONA",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/CONSERVADORA CORONA.jpg",
+      "img": "/images/cervezas/CONSERVADORA CORONA.webp",
       "precio": "23.100,00"
     },
     {
       "id": 504,
       "nombre": "AMSTEL RETORNABLE",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/AMSTEL RETORNABLE.jpg",
+      "img": "/images/cervezas/AMSTEL RETORNABLE.webp",
       "precio": "952,05"
     },
     {
       "id": 506,
       "nombre": "LATA SCHOFFERHOFER POMELO",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/LATA SCHOFFERHOFER POMELO.jpg",
+      "img": "/images/cervezas/LATA SCHOFFERHOFER POMELO.webp",
       "precio": "1.237,50"
     },
     {
       "id": 507,
       "nombre": "CARLSBERG",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/CARLSBERG.jpg",
+      "img": "/images/cervezas/CARLSBERG.webp",
       "precio": "528,00"
     },
     {
       "id": 509,
       "nombre": "ACDC LATA 500 CC",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/ACDC LATA 500 CC.jpg",
+      "img": "/images/cervezas/ACDC LATA 500 CC.webp",
       "precio": "1.468,50"
     },
     {
       "id": 510,
       "nombre": "FAXE IPA LATA 500 CC",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/FAXE IPA LATA 500 CC.jpg",
+      "img": "/images/cervezas/FAXE IPA LATA 500 CC.webp",
       "precio": "742,50"
     },
     {
       "id": 511,
       "nombre": "ESTRELLA DAMM LATA 500 CC",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/ESTRELLA DAMM LATA 500 CC.jpg",
+      "img": "/images/cervezas/ESTRELLA DAMM LATA 500 CC.webp",
       "precio": "907,50"
     },
     {
       "id": 512,
       "nombre": "SCHOFFERHOFER POMELO",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/SCHOFFERHOFER POMELO.jpg",
+      "img": "/images/cervezas/SCHOFFERHOFER POMELO.webp",
       "precio": "709,50"
     },
     {
       "id": 514,
       "nombre": "BEAGLE AMERICA",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/BEAGLE AMERICA.jpeg",
+      "img": "/images/cervezas/BEAGLE AMERICA.webp",
       "precio": "280,50"
     },
     {
       "id": 518,
       "nombre": "ORANJEBOOM 16 GRADOS",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/ORANJEBOOM 16 GRADOS.jpg",
+      "img": "/images/cervezas/ORANJEBOOM 16 GRADOS.webp",
       "precio": "1.254,00"
     },
     {
       "id": 520,
       "nombre": "SALTA RUBIA",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/salta-rubia.png",
+      "img": "/images/cervezas/salta-rubia.webp",
       "precio": "300,30"
     },
     {
       "id": 522,
       "nombre": "GOOSE ISLAND IPA",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/GOOSE ISLAND IPA.jpg",
+      "img": "/images/cervezas/GOOSE ISLAND IPA.webp",
       "precio": "437,25"
     },
     {
       "id": 525,
       "nombre": "LATAS PEÑON",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/LATAS PEÑON.jpg",
+      "img": "/images/cervezas/LATAS PEÑON.webp",
       "precio": "297,00"
     },
     {
       "id": 526,
       "nombre": "COCA COLA 2.25 LT SPRITE",
       "categoria": "Gaseosas",
-      "img": "/images/gaseosas/COCA COLA 2.25 LT SPRITE.jpg",
+      "img": "/images/gaseosas/COCA COLA 2.25 LT SPRITE.webp",
       "precio": "930,00"
     },
     {
       "id": 527,
       "nombre": "PRITTY 2,25",
       "categoria": "Gaseosas",
-      "img": "/images/gaseosas/PRITTY 2,25.jpg",
+      "img": "/images/gaseosas/PRITTY 2,25.webp",
       "precio": "536,25"
     },
     {
       "id": 529,
       "nombre": "BAGGIO LITRO",
       "categoria": "Gaseosas",
-      "img": "/images/gaseosas/BAGGIO LITRO.jpg",
+      "img": "/images/gaseosas/BAGGIO LITRO.webp",
       "precio": "155,00"
     },
     {
       "id": 530,
       "nombre": "SCHWEPPEES TONICA O POMELO 1,5 LT",
       "categoria": "Gaseosas",
-      "img": "/images/gaseosas/SCHWEPPEES TONICA O POMELO 1,5 LT.jpeg",
+      "img": "/images/gaseosas/SCHWEPPEES TONICA O POMELO 1,5 LT.webp",
       "precio": "742,50"
     },
     {
       "id": 531,
       "nombre": "MONSTER",
       "categoria": "Gaseosas",
-      "img": "/images/gaseosas/MONSTER.jpg",
+      "img": "/images/gaseosas/MONSTER.webp",
       "precio": "701,25"
     },
     {
       "id": 532,
       "nombre": "SPEED 275 ML",
       "categoria": "Gaseosas",
-      "img": "/images/gaseosas/SPEED 275 ML.jpeg",
+      "img": "/images/gaseosas/SPEED 275 ML.webp",
       "precio": "365,50"
     },
     {
       "id": 533,
       "nombre": "SPEED GRANDE",
       "categoria": "Gaseosas",
-      "img": "/images/gaseosas/SPEED GRANDE.jpg",
+      "img": "/images/gaseosas/SPEED GRANDE.webp",
       "precio": "465,00"
     },
     {
       "id": 534,
       "nombre": "PASO DE LOS TOROS TONICA 1,5",
       "categoria": "Gaseosas",
-      "img": "/images/gaseosas/PASO DE LOS TOROS TONICA 1,5.jpg",
+      "img": "/images/gaseosas/PASO DE LOS TOROS TONICA 1,5.webp",
       "precio": "573,50"
     },
     {
       "id": 535,
       "nombre": "PASO DE LOS TOROS POMELO 2,25 LT",
       "categoria": "Gaseosas",
-      "img": "/images/gaseosas/PASO DE LOS TOROS POMELO 2,25 LT.jpg",
+      "img": "/images/gaseosas/PASO DE LOS TOROS POMELO 2,25 LT.webp",
       "precio": "810,65"
     },
     {
       "id": 536,
       "nombre": "RED BULL CHICO",
       "categoria": "Gaseosas",
-      "img": "/images/gaseosas/RED BULL CHICO.jpeg",
+      "img": "/images/gaseosas/RED BULL CHICO.webp",
       "precio": "609,15"
     },
     {
       "id": 537,
       "nombre": "SANTA QUINA TONICA POMERLO ROSADO",
       "categoria": "Gaseosas",
-      "img": "/images/gaseosas/SANTA QUINA TONICA POMERLO ROSADO.jpg",
+      "img": "/images/gaseosas/SANTA QUINA TONICA POMERLO ROSADO.webp",
       "precio": "442,00"
     },
     {
       "id": 538,
       "nombre": "CUNNINGTON",
       "categoria": "Gaseosas",
-      "img": "/images/gaseosas/CUNNINGTON.jpg",
+      "img": "/images/gaseosas/CUNNINGTON.webp",
       "precio": "408,00"
     },
     {
       "id": 539,
       "nombre": "AGUA MINERAL GLACIAR 6 LITROS",
       "categoria": "Gaseosas",
-      "img": "/images/gaseosas/AGUA MINERAL GLACIAR 6 LITROS.jpg",
+      "img": "/images/gaseosas/AGUA MINERAL GLACIAR 6 LITROS.webp",
       "precio": "1.400,00"
     },
     {
       "id": 540,
       "nombre": "AGUA DE MAR 5 LITROS",
       "categoria": "Gaseosas",
-      "img": "/images/gaseosas/AGUA DE MAR 5 LITROS.jpeg",
+      "img": "/images/gaseosas/AGUA DE MAR 5 LITROS.webp",
       "precio": "4.620,00"
     },
     {
       "id": 543,
       "nombre": "PULPO BLANCO GINGER ALE",
       "categoria": "Gaseosas",
-      "img": "/images/gaseosas/PULPO BLANCO GINGER ALE.jpeg",
+      "img": "/images/gaseosas/PULPO BLANCO GINGER ALE.webp",
       "precio": "262,50"
     },
     {
       "id": 544,
       "nombre": "HIELO 2 KILOS",
       "categoria": "Gaseosas",
-      "img": "/images/gaseosas/HIELO 2 KILOS.jpg",
+      "img": "/images/gaseosas/HIELO 2 KILOS.webp",
       "precio": "320,00"
     },
     {
       "id": 545,
       "nombre": "HIELO 2,5 KILOS",
       "categoria": "Gaseosas",
-      "img": "/images/gaseosas/HIELO 2 KILOS.jpg",
+      "img": "/images/gaseosas/HIELO 2 KILOS.webp",
       "precio": "418,00"
     },
     {
       "id": 547,
       "nombre": "CITRIC LITRO POMELO Y NARANJA",
       "categoria": "Gaseosas",
-      "img": "/images/gaseosas/CITRIC LITRO POMELO Y NARANJA.png",
+      "img": "/images/gaseosas/CITRIC LITRO POMELO Y NARANJA.webp",
       "precio": "693,00"
     },
     {
       "id": 548,
       "nombre": "COCA COLA 1,5 LT",
       "categoria": "Gaseosas",
-      "img": "/images/gaseosas/COCA COLA 1,5 LT.jpeg",
+      "img": "/images/gaseosas/COCA COLA 1,5 LT.webp",
       "precio": "635,50"
     },
     {
       "id": 549,
       "nombre": "RED BULL GRANDE",
       "categoria": "Gaseosas",
-      "img": "/images/gaseosas/RED BULL CHICO.jpeg",
+      "img": "/images/gaseosas/RED BULL CHICO.webp",
       "precio": "745,55"
     },
     {
       "id": 550,
       "nombre": "COCA COLA 1,5 LT ZERO SIN AZUCAR",
       "categoria": "Gaseosas",
-      "img": "/images/gaseosas/COCA COLA 1,5 LT ZERO SIN AZUCAR.jpeg",
+      "img": "/images/gaseosas/COCA COLA 1,5 LT ZERO SIN AZUCAR.webp",
       "precio": "635,50"
     },
     {
       "id": 635,
       "nombre": "frangelico 750 ml",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/frangelico 750 ml.jpg",
+      "img": "/images/bebidas-espirituosas/frangelico 750 ml.webp",
       "precio": "12.070,00"
     },
     {
       "id": 636,
       "nombre": "MEZCAL JOVEN OJO DE TIGRE MEXICO",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/MEZCAL JOVEN OJO DE TIGRE MEXICO.jpg",
+      "img": "/images/bebidas-espirituosas/MEZCAL JOVEN OJO DE TIGRE MEXICO.webp",
       "precio": "25.330,00"
     },
     {
       "id": 637,
       "nombre": "Wild Africa Licor",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Wild Africa Licor.jpeg",
+      "img": "/images/bebidas-espirituosas/Wild Africa Licor.webp",
       "precio": "4.812,50"
     },
     {
       "id": 638,
       "nombre": "Baileys Chocolate (dolares)",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Baileys Chocolate (dolares).png",
+      "img": "/images/bebidas-espirituosas/Baileys Chocolate (dolares).webp",
       "precio": "30,00"
     },
     {
       "id": 639,
       "nombre": "Baileys Original",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Baileys Original.jpg",
+      "img": "/images/bebidas-espirituosas/Baileys Original.webp",
       "precio": "9.180,00"
     },
     {
       "id": 640,
       "nombre": "Amarula",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-destiladas/amarula.png",
+      "img": "/images/bebidas-destiladas/amarula.webp",
       "precio": "17.510,00"
     },
     {
       "id": 641,
       "nombre": "Amarula Vainilla, frutilla y chocolate (dolares)",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Amarula Vainilla, frutilla y chocolate (dolares).jpg",
+      "img": "/images/bebidas-espirituosas/Amarula Vainilla, frutilla y chocolate (dolares).webp",
       "precio": "46,20"
     },
     {
       "id": 642,
       "nombre": "BORGHETTI",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/BORGHETTI.jpg",
+      "img": "/images/bebidas-espirituosas/BORGHETTI.webp",
       "precio": "6.600,00"
     },
     {
       "id": 643,
       "nombre": "BAILEYS CARAMEL",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/BAILEYS CARAMEL.jpg",
+      "img": "/images/bebidas-espirituosas/BAILEYS CARAMEL.webp",
       "precio": "9.860,00"
     },
     {
       "id": 644,
       "nombre": "Tia Maria Cafe",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-destiladas/tia-maria-cafe.png",
+      "img": "/images/bebidas-destiladas/tia-maria-cafe.webp",
       "precio": "2.890,00"
     },
     {
       "id": 645,
       "nombre": "TIA MARIA CREAM",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/TIA MARIA CREAM.jpg",
+      "img": "/images/bebidas-espirituosas/TIA MARIA CREAM.webp",
       "precio": "4.080,00"
     },
     {
       "id": 647,
       "nombre": "PIÑA COLADA AMERCAN CLUB",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/PIÑA COLADA AMERCAN CLUB.jpg",
+      "img": "/images/bebidas-espirituosas/PIÑA COLADA AMERCAN CLUB.webp",
       "precio": "2.040,00"
     },
     {
       "id": 648,
       "nombre": "Hespiridina",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-destiladas/hesperidina.png",
+      "img": "/images/bebidas-destiladas/hesperidina.webp",
       "precio": "3.060,00"
     },
     {
       "id": 649,
       "nombre": "Gancia",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-destiladas/gancia.png",
+      "img": "/images/bebidas-destiladas/gancia.webp",
       "precio": "1.785,00"
     },
     {
       "id": 650,
       "nombre": "Jagermeister 700 ml",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-destiladas/jagermeister.png",
+      "img": "/images/bebidas-destiladas/jagermeister.webp",
       "precio": "13.035,00"
     },
     {
       "id": 651,
       "nombre": "Jagermeister LITRO DOLARES",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Jagermeister LITRO DOLARES.jpg",
+      "img": "/images/bebidas-espirituosas/Jagermeister LITRO DOLARES.webp",
       "precio": "19.200,00"
     },
     {
       "id": 652,
       "nombre": "JAGERMEISTER COOL EDITION",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/JAGERMEISTER COOL EDITION.jpg",
+      "img": "/images/bebidas-espirituosas/JAGERMEISTER COOL EDITION.webp",
       "precio": "2.635,00"
     },
     {
       "id": 653,
       "nombre": "HODLMOSER",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/HODLMOSER.jpg",
+      "img": "/images/bebidas-espirituosas/HODLMOSER.webp",
       "precio": "7.820,00"
     },
     {
       "id": 655,
       "nombre": "MasterSnip",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/MasterSnip.jpg",
+      "img": "/images/bebidas-espirituosas/MasterSnip.webp",
       "precio": "5.950,00"
     },
     {
       "id": 656,
       "nombre": "Jose Cuervo Gold",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Jose Cuervo Gold.jpg",
+      "img": "/images/bebidas-espirituosas/Jose Cuervo Gold.webp",
       "precio": "15.130,00"
     },
     {
       "id": 657,
       "nombre": "Jose Cuervo Silver",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Jose Cuervo Silver.jpg",
+      "img": "/images/bebidas-espirituosas/Jose Cuervo Silver.webp",
       "precio": "15.130,00"
     },
     {
       "id": 658,
       "nombre": "BRANCA 1 LITRO",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/BRANCA 1 LITRO.jpg",
+      "img": "/images/bebidas-espirituosas/BRANCA 1 LITRO.webp",
       "precio": "4.702,50"
     },
     {
       "id": 659,
       "nombre": "DOOLEYS",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/DOOLEYS.jpg",
+      "img": "/images/bebidas-espirituosas/DOOLEYS.webp",
       "precio": "15.275,00"
     },
     {
       "id": 660,
       "nombre": "Korean Gingsen (dolares)",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Korean Gingsen (dolares).jpg",
+      "img": "/images/bebidas-espirituosas/Korean Gingsen (dolares).webp",
       "precio": "16,00"
     },
     {
       "id": 661,
       "nombre": "CAMPARI",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-destiladas/campari-rosso.png",
+      "img": "/images/bebidas-destiladas/campari-rosso.webp",
       "precio": "2.771,00"
     },
     {
       "id": 662,
       "nombre": "Aperol",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Aperol.jpg",
+      "img": "/images/bebidas-espirituosas/Aperol.webp",
       "precio": "2.873,00"
     },
     {
       "id": 663,
       "nombre": "Pimm´s",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Pimm´s.jpg",
+      "img": "/images/bebidas-espirituosas/Pimm´s.webp",
       "precio": "2.887,50"
     },
     {
       "id": 664,
       "nombre": "Carpano ROSSO",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-destiladas/carpano-rosso.png",
+      "img": "/images/bebidas-destiladas/carpano-rosso.webp",
       "precio": "1.785,60"
     },
     {
       "id": 665,
       "nombre": "Martini Bianco",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Martini Bianco.jpg",
+      "img": "/images/bebidas-espirituosas/Martini Bianco.webp",
       "precio": "2.040,00"
     },
     {
       "id": 666,
       "nombre": "Martini Extra Dry",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Martini Extra Dry.jpg",
+      "img": "/images/bebidas-espirituosas/Martini Extra Dry.webp",
       "precio": "2.890,00"
     },
     {
       "id": 667,
       "nombre": "Martini Rosso",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Martini Rosso.jpg",
+      "img": "/images/bebidas-espirituosas/Martini Rosso.webp",
       "precio": "2.040,00"
     },
     {
       "id": 668,
       "nombre": "Amargo Obrero",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Amargo Obrero.jpg",
+      "img": "/images/bebidas-espirituosas/Amargo Obrero.webp",
       "precio": "935,00"
     },
     {
       "id": 669,
       "nombre": "Cynar",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Cynar.jpg",
+      "img": "/images/bebidas-espirituosas/Cynar.webp",
       "precio": "2.261,00"
     },
     {
       "id": 670,
       "nombre": "CYNAR 70",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/CYNAR 70.jpg",
+      "img": "/images/bebidas-espirituosas/CYNAR 70.webp",
       "precio": "2.805,00"
     },
     {
       "id": 671,
       "nombre": "Cinzano ROSSO",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Cinzano ROSSO.jpg",
+      "img": "/images/bebidas-espirituosas/Cinzano ROSSO.webp",
       "precio": "1.878,50"
     },
     {
       "id": 672,
       "nombre": "HERACLITO MACEDONIO",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/HERACLITO MACEDONIO.jpg",
+      "img": "/images/bebidas-espirituosas/HERACLITO MACEDONIO.webp",
       "precio": "5.445,00"
     },
     {
       "id": 673,
       "nombre": "Velho Barreiro",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Velho Barreiro.jpg",
+      "img": "/images/bebidas-espirituosas/Velho Barreiro.webp",
       "precio": "5.355,00"
     },
     {
       "id": 674,
       "nombre": "Capoeira",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Capoeira.jpg",
+      "img": "/images/bebidas-espirituosas/Capoeira.webp",
       "precio": "1.705,00"
     },
     {
       "id": 675,
       "nombre": "Capel ESPECIAL",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Capel ESPECIAL.jpeg",
+      "img": "/images/bebidas-espirituosas/Capel ESPECIAL.webp",
       "precio": "5.775,00"
     },
     {
       "id": 676,
       "nombre": "Frizze",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Frizze.jpg",
+      "img": "/images/bebidas-espirituosas/Frizze.webp",
       "precio": "709,50"
     },
     {
       "id": 677,
       "nombre": "DR Doctor Lemon",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/DR Doctor Lemon.jpg",
+      "img": "/images/bebidas-espirituosas/DR Doctor Lemon.webp",
       "precio": "990,00"
     },
     {
       "id": 679,
       "nombre": "Caña Legui",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Caña Legui.jpg",
+      "img": "/images/bebidas-espirituosas/Caña Legui.webp",
       "precio": "1.353,00"
     },
     {
       "id": 680,
       "nombre": "Grappa Valle Viejo",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Grappa Valle Viejo.jpg",
+      "img": "/images/bebidas-espirituosas/Grappa Valle Viejo.webp",
       "precio": "2.890,00"
     },
     {
       "id": 681,
       "nombre": "Otar Dupuy GRAPPA",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Otar Dupuy GRAPPA.jpg",
+      "img": "/images/bebidas-espirituosas/Otar Dupuy GRAPPA.webp",
       "precio": "1.972,00"
     },
     {
       "id": 682,
       "nombre": "Tres Plumas Licor",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Tres Plumas Licor.jpg",
+      "img": "/images/bebidas-espirituosas/Tres Plumas Licor.webp",
       "precio": "1.445,00"
     },
     {
       "id": 683,
       "nombre": "CAPITAN MORGAN COCO NUT DOLARES",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/CAPITAN MORGAN COCO NUT DOLARES.png",
+      "img": "/images/bebidas-espirituosas/CAPITAN MORGAN COCO NUT DOLARES.webp",
       "precio": "263,50"
     },
     {
       "id": 684,
       "nombre": "GIN MALARIA COMUN",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/GIN MALARIA COMUN.png",
+      "img": "/images/bebidas-espirituosas/GIN MALARIA COMUN.webp",
       "precio": "12.070,00"
     },
     {
       "id": 685,
       "nombre": "BOMBAY BLACKBERRY RASBERRY DOLARES BLUE LITRO",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/BOMBAY BLACKBERRY RASBERRY.jpg",
+      "img": "/images/bebidas-espirituosas/BOMBAY BLACKBERRY RASBERRY.webp",
       "precio": "50,00"
     },
     {
       "id": 686,
       "nombre": "PISCO CAPEL EDICION ESPECIAL 40 DOLARES",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/PISCO CAPEL EDICION ESPECIAL 40 DOLARES.jpg",
+      "img": "/images/bebidas-espirituosas/PISCO CAPEL EDICION ESPECIAL 40 DOLARES.webp",
       "precio": "90,00"
     },
     {
       "id": 687,
       "nombre": "BOMBAY BLACKBERRY RASBERRY 700 ML",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/BOMBAY BLACKBERRY RASBERRY 700 ML.jpg",
+      "img": "/images/bebidas-espirituosas/BOMBAY BLACKBERRY RASBERRY 700 ML.webp",
       "precio": "20.625,00"
     },
     {
       "id": 688,
       "nombre": "BOTELLON JW RED LABEL 3 LITROS",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/BOTELLON JW RED LABEL 3 LITROS.jpg",
+      "img": "/images/bebidas-espirituosas/BOTELLON JW RED LABEL 3 LITROS.webp",
       "precio": "50.175,00"
     },
     {
       "id": 689,
       "nombre": "Cucienier Lemonchelo",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Cucienier Lemonchelo.jpg",
+      "img": "/images/bebidas-espirituosas/Cucienier Lemonchelo.webp",
       "precio": "542,50"
     },
     {
       "id": 690,
       "nombre": "SIDRA REAL ETIQUETA NEGRA",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/SIDRA REAL ETIQUETA NEGRA.jpg",
+      "img": "/images/bebidas-espirituosas/SIDRA REAL ETIQUETA NEGRA.webp",
       "precio": "825,00"
     },
     {
       "id": 691,
       "nombre": "BOLS LICORES SABORES",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/BOLS LICORES SABORES.jpg",
+      "img": "/images/bebidas-espirituosas/BOLS LICORES SABORES.webp",
       "precio": "2.380,00"
     },
     {
       "id": 692,
       "nombre": "BOLS PINK GIN",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/BOLS PINK GIN.jpg",
+      "img": "/images/bebidas-espirituosas/BOLS PINK GIN.webp",
       "precio": "2.550,00"
     },
     {
       "id": 693,
       "nombre": "SIDRA 1888 500 ML ROSE",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/SIDRA 1888 500 ML ROSE.jpg",
+      "img": "/images/bebidas-espirituosas/SIDRA 1888 500 ML ROSE.webp",
       "precio": "742,50"
     },
     {
       "id": 694,
       "nombre": "Sidra 1888 750 ML",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Sidra 1888 750 ML.jpg",
+      "img": "/images/bebidas-espirituosas/Sidra 1888 750 ML.webp",
       "precio": "1.275,00"
     },
     {
       "id": 695,
       "nombre": "FLOR DE CAÑA RON AÑEJO 4 AÑOS",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/FLOR DE CAÑA RON AÑEJO 4 AÑOS.jpg",
+      "img": "/images/bebidas-espirituosas/FLOR DE CAÑA RON AÑEJO 4 AÑOS.webp",
       "precio": "6.120,00"
     },
     {
       "id": 696,
       "nombre": "granadina CUSENIER",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/granadina CUSENIER.jpg",
+      "img": "/images/bebidas-espirituosas/granadina CUSENIER.webp",
       "precio": "1.275,00"
     },
     {
       "id": 697,
       "nombre": "GIN BROKERS",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/GIN BROKERS.jpg",
+      "img": "/images/bebidas-espirituosas/GIN BROKERS.webp",
       "precio": "17.000,00"
     },
     {
       "id": 698,
       "nombre": "JW GOLD",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/JW GOLD.jpg",
+      "img": "/images/bebidas-espirituosas/JW GOLD.webp",
       "precio": "34.000,00"
     },
     {
       "id": 700,
       "nombre": "JW GOT DRAGON O LOBO",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/JW GOT DRAGON O LOBO.jpg",
+      "img": "/images/bebidas-espirituosas/JW GOT DRAGON O LOBO.webp",
       "precio": "63,00"
     },
     {
       "id": 702,
       "nombre": "JW Red Label 750 ml",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/JW Red Label 750 ml.jpg",
+      "img": "/images/bebidas-espirituosas/JW Red Label 750 ml.webp",
       "precio": "9.860,00"
     },
     {
       "id": 703,
       "nombre": "JW Black Label 1 LITRO",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/JW Black Label 1 LITRO.jpg",
+      "img": "/images/bebidas-espirituosas/JW Black Label 1 LITRO.webp",
       "precio": "20.400,00"
     },
     {
       "id": 704,
       "nombre": "JW Black Label 750 ml",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/JW Black Label 750 ml.jpg",
+      "img": "/images/bebidas-espirituosas/JW Black Label 750 ml.webp",
       "precio": "16.745,00"
     },
     {
       "id": 705,
       "nombre": "JW DOBLE BLACK",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/JW DOBLE BLACK.jpg",
+      "img": "/images/bebidas-espirituosas/JW DOBLE BLACK.webp",
       "precio": "18.645,00"
     },
     {
       "id": 706,
       "nombre": "JW Green Label 750 ml",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/JW Green Label 750 ml.jpg",
+      "img": "/images/bebidas-espirituosas/JW Green Label 750 ml.webp",
       "precio": "54.400,00"
     },
     {
       "id": 707,
       "nombre": "JW Swing 750 ml",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/JW Swing 750 ml.jpg",
+      "img": "/images/bebidas-espirituosas/JW Swing 750 ml.webp",
       "precio": "37.655,00"
     },
     {
       "id": 708,
       "nombre": "JW Red LabEL LITRO",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/JW Red LabEL LITRO.jpg",
+      "img": "/images/bebidas-espirituosas/JW Red LabEL LITRO.webp",
       "precio": "11.715,00"
     },
     {
       "id": 709,
       "nombre": "MOET CHANDON IMPERIAL",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/MOET CHANDON IMPERIAL.jpg",
+      "img": "/images/bebidas-espirituosas/MOET CHANDON IMPERIAL.webp",
       "precio": "54.400,00"
     },
     {
       "id": 710,
       "nombre": "JACK DANIELS N°7 750 ml",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/JACK DANIELS N°7 750 ml.jpg",
+      "img": "/images/bebidas-espirituosas/JACK DANIELS N°7 750 ml.webp",
       "precio": "26.400,00"
     },
     {
       "id": 712,
       "nombre": "JACK DANIELS N°7 Litro Caja Metal (dolares)",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/JACK DANIELS N°7 Litro Caja Metal (dolares).jpg",
+      "img": "/images/bebidas-espirituosas/JACK DANIELS N°7 Litro Caja Metal (dolares).webp",
       "precio": "137,50"
     },
     {
       "id": 713,
       "nombre": "JACK DANIELS Honey 750 ml",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/JACK DANIELS Honey 750 ml.jpg",
+      "img": "/images/bebidas-espirituosas/JACK DANIELS Honey 750 ml.webp",
       "precio": "28.050,00"
     },
     {
       "id": 716,
       "nombre": "JACK DANIELS Fire, MANZANA APPLE 750 ml",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/JACK DANIELS Fire, MANZANA APPLE 750 ml.jpg",
+      "img": "/images/bebidas-espirituosas/JACK DANIELS Fire, MANZANA APPLE 750 ml.webp",
       "precio": "33.000,00"
     },
     {
       "id": 718,
       "nombre": "MARIA CODORNIU EXTRA BRUT",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/MARIA CODORNIU EXTRA BRUT.jpg",
+      "img": "/images/bebidas-espirituosas/MARIA CODORNIU EXTRA BRUT.webp",
       "precio": "1.650,00"
     },
     {
       "id": 720,
       "nombre": "GIN MALARIA BLACK",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/GIN MALARIA BLACK.jpg",
+      "img": "/images/bebidas-espirituosas/GIN MALARIA BLACK.webp",
       "precio": "13.600,00"
     },
     {
       "id": 721,
       "nombre": "Grants 750 ML",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Grants 750 ML.jpg",
+      "img": "/images/bebidas-espirituosas/Grants 750 ML.webp",
       "precio": "8.670,00"
     },
     {
       "id": 722,
       "nombre": "CHIVAS 12 AÑOS DE LITRO",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/CHIVAS 12 AÑOS DE LITRO.jpg",
+      "img": "/images/bebidas-espirituosas/CHIVAS 12 AÑOS DE LITRO.webp",
       "precio": "20.400,00"
     },
     {
       "id": 723,
       "nombre": "Chivas MIZUNARA",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Chivas MIZUNARA.jpg",
+      "img": "/images/bebidas-espirituosas/Chivas MIZUNARA.webp",
       "precio": "28.390,00"
     },
     {
       "id": 724,
       "nombre": "Chivas 12 años 700 ML",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Chivas 12 años 700 ML.jpg",
+      "img": "/images/bebidas-espirituosas/Chivas 12 años 700 ML.webp",
       "precio": "17.000,00"
     },
     {
       "id": 725,
       "nombre": "Chivas 18 años",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Chivas 18 años.jpg",
+      "img": "/images/bebidas-espirituosas/Chivas 18 años.webp",
       "precio": "47.600,00"
     },
     {
       "id": 726,
       "nombre": "CHIVAS EXTRA 750 ML",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/CHIVAS EXTRA 750 ML.jpg",
+      "img": "/images/bebidas-espirituosas/CHIVAS EXTRA 750 ML.webp",
       "precio": "8.633,50"
     },
     {
       "id": 728,
       "nombre": "The Famous Grouse 750ML",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/The Famous Grouse 750ML.jpg",
+      "img": "/images/bebidas-espirituosas/The Famous Grouse 750ML.webp",
       "precio": "17.490,00"
     },
     {
       "id": 729,
       "nombre": "Jim Beam Devil's Cut",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-destiladas/jim-beam-devils-cut.png",
+      "img": "/images/bebidas-destiladas/jim-beam-devils-cut.webp",
       "precio": "22.100,00"
     },
     {
       "id": 730,
       "nombre": "Jim Beam Honey",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Jim Beam Honey.jpg",
+      "img": "/images/bebidas-espirituosas/Jim Beam Honey.webp",
       "precio": "11.900,00"
     },
     {
       "id": 731,
       "nombre": "VODKA SERNOVA REGULAR",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/VODKA SERNOVA REGULAR.jpg",
+      "img": "/images/bebidas-espirituosas/VODKA SERNOVA REGULAR.webp",
       "precio": "1.904,00"
     },
     {
       "id": 732,
       "nombre": "Jim Beam Bourbon 750 ml",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Jim Beam Bourbon 750 ml.jpg",
+      "img": "/images/bebidas-espirituosas/Jim Beam Bourbon 750 ml.webp",
       "precio": "11.900,00"
     },
     {
       "id": 733,
       "nombre": "Jim Beam Vainilla",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Jim Beam Vainilla.jpg",
+      "img": "/images/bebidas-espirituosas/Jim Beam Vainilla.webp",
       "precio": "11.900,00"
     },
     {
       "id": 734,
       "nombre": "Jim Beam Black",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Jim Beam Black.jpg",
+      "img": "/images/bebidas-espirituosas/Jim Beam Black.webp",
       "precio": "20.400,00"
     },
     {
       "id": 735,
       "nombre": "Cutty Sark",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Cutty Sark.jpg",
+      "img": "/images/bebidas-espirituosas/Cutty Sark.webp",
       "precio": "5.940,00"
     },
     {
       "id": 736,
       "nombre": "Benchmark N°8",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Benchmark N°8.jpg",
+      "img": "/images/bebidas-espirituosas/Benchmark N°8.webp",
       "precio": "5.270,00"
     },
     {
       "id": 738,
       "nombre": "BALLATINE 750 ML",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/BALLATINE 750 ML.jpg",
+      "img": "/images/bebidas-espirituosas/BALLATINE 750 ML.webp",
       "precio": "8.500,00"
     },
     {
       "id": 739,
       "nombre": "Old Parr",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Old Parr.jpg",
+      "img": "/images/bebidas-espirituosas/Old Parr.webp",
       "precio": "14.450,00"
     },
     {
       "id": 740,
       "nombre": "VAT 69",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/VAT 69.jpg",
+      "img": "/images/bebidas-espirituosas/VAT 69.webp",
       "precio": "3.060,00"
     },
     {
       "id": 741,
       "nombre": "VAT 69 SABORIZADOS",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/VAT 69 SABORIZADOS.jpg",
+      "img": "/images/bebidas-espirituosas/VAT 69 SABORIZADOS.webp",
       "precio": "3.145,00"
     },
     {
       "id": 742,
       "nombre": "PETACA BLENDERS",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/PETACA BLENDERS.jpg",
+      "img": "/images/bebidas-espirituosas/PETACA BLENDERS.webp",
       "precio": "850,00"
     },
     {
       "id": 743,
       "nombre": "Blenders Litro",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Blenders Litro.jpg",
+      "img": "/images/bebidas-espirituosas/Blenders Litro.webp",
       "precio": "2.975,00"
     },
     {
       "id": 744,
       "nombre": "WHITE HORSE",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/WHITE HORSE.jpg",
+      "img": "/images/bebidas-espirituosas/WHITE HORSE.webp",
       "precio": "3.910,00"
     },
     {
       "id": 745,
       "nombre": "J & B 750 ml JyB Whisky",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/J & B 750 ml JyB Whisky.jpg",
+      "img": "/images/bebidas-espirituosas/J & B 750 ml JyB Whisky.webp",
       "precio": "5.775,00"
     },
     {
       "id": 747,
       "nombre": "JAMESON IPA",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/JAMESON IPA.jpg",
+      "img": "/images/bebidas-espirituosas/JAMESON IPA.webp",
       "precio": "12.325,00"
     },
     {
       "id": 748,
       "nombre": "JAMESON STOUT",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/JAMESON STOUT.jpg",
+      "img": "/images/bebidas-espirituosas/JAMESON STOUT.webp",
       "precio": "12.325,00"
     },
     {
       "id": 749,
       "nombre": "Jameson Irish",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Jameson Irish.jpg",
+      "img": "/images/bebidas-espirituosas/Jameson Irish.webp",
       "precio": "10.200,00"
     },
     {
       "id": 750,
       "nombre": "Sir Edwards",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Sir Edwards.jpg",
+      "img": "/images/bebidas-espirituosas/Sir Edwards.webp",
       "precio": "3.565,00"
     },
     {
       "id": 751,
       "nombre": "JW GOT EN DOLARES",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/JW GOT EN DOLARES.jpg",
+      "img": "/images/bebidas-espirituosas/JW GOT EN DOLARES.webp",
       "precio": "60,00"
     },
     {
       "id": 752,
       "nombre": "Lancelot",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Lancelot.jpg",
+      "img": "/images/bebidas-espirituosas/Lancelot.webp",
       "precio": "30,00"
     },
     {
       "id": 753,
       "nombre": "Ole's Moky Harley, MANZANA, MORA (DOLARES)",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Ole's Moky Harley, MANZANA, MORA.jpg",
+      "img": "/images/bebidas-espirituosas/Ole's Moky Harley, MANZANA, MORA.webp",
       "precio": "16.120,00"
     },
     {
       "id": 754,
       "nombre": "Nuvo",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Nuvo.jpg",
+      "img": "/images/bebidas-espirituosas/Nuvo.webp",
       "precio": "44.200,00"
     },
     {
       "id": 755,
       "nombre": "STOLICHNAYA LITRO (DOLARES)",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/STOLICHNAYA LITRO (DOLARES).jpeg",
+      "img": "/images/bebidas-espirituosas/STOLICHNAYA LITRO (DOLARES).webp",
       "precio": "50,60"
     },
     {
       "id": 756,
       "nombre": "Grey Goose SABORIZADOS Litro (DOLARES)",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Grey Goose SABORIZADOS Litro (DOLARES).jpg",
+      "img": "/images/bebidas-espirituosas/Grey Goose SABORIZADOS Litro (DOLARES).webp",
       "precio": "31.220,00"
     },
     {
       "id": 757,
       "nombre": "NERO 53 CON DOS VASOS",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/NERO 53 CON DOS VASOS.jpg",
+      "img": "/images/bebidas-espirituosas/NERO 53 CON DOS VASOS.webp",
       "precio": "5.775,00"
     },
     {
       "id": 758,
       "nombre": "RON CAYMAN",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/RON CAYMAN.jpg",
+      "img": "/images/bebidas-espirituosas/RON CAYMAN.webp",
       "precio": "1.240,00"
     },
     {
       "id": 759,
       "nombre": "RON CAPITAIN MORGAN",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/RON CAPITAIN MORGAN.jpg",
+      "img": "/images/bebidas-espirituosas/RON CAPITAIN MORGAN.webp",
       "precio": "1.356,25"
     },
     {
       "id": 760,
       "nombre": "PITU",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/PITU.jpg",
+      "img": "/images/bebidas-espirituosas/PITU.webp",
       "precio": "3.230,00"
     },
     {
       "id": 761,
       "nombre": "RON MALIBU",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/RON MALIBU.jpg",
+      "img": "/images/bebidas-espirituosas/RON MALIBU.webp",
       "precio": "6.290,00"
     },
     {
       "id": 762,
       "nombre": "GIN TANQUERAY",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/GIN TANQUERAY.jpg",
+      "img": "/images/bebidas-espirituosas/GIN TANQUERAY.webp",
       "precio": "9.405,00"
     },
     {
       "id": 763,
       "nombre": "GIN HENDRICKS",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/GIN HENDRICKS.jpg",
+      "img": "/images/bebidas-espirituosas/GIN HENDRICKS.webp",
       "precio": "23.290,00"
     },
     {
       "id": 765,
       "nombre": "GINEBRA LLAVE 750ML",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/GINEBRA LLAVE 750ML.jpg",
+      "img": "/images/bebidas-espirituosas/GINEBRA LLAVE 750ML.webp",
       "precio": "1.627,50"
     },
     {
       "id": 766,
       "nombre": "GIN GORDONS",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/GIN GORDONS.jpg",
+      "img": "/images/bebidas-espirituosas/GIN GORDONS.webp",
       "precio": "4.165,00"
     },
     {
       "id": 767,
       "nombre": "VODKA SKY SABORIZADOS",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/VODKA SKY SABORIZADOS.jpg",
+      "img": "/images/bebidas-espirituosas/VODKA SKY SABORIZADOS.webp",
       "precio": "3.171,30"
     },
     {
       "id": 768,
       "nombre": "ABSOLUT 4,5 litros",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/ABSOLUT 4,5 litros.jpg",
+      "img": "/images/bebidas-espirituosas/ABSOLUT 4,5 litros.webp",
       "precio": "112.500,00"
     },
     {
       "id": 769,
       "nombre": "VODKA ABSOLUT SABORES DE 750 ML",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/VODKA ABSOLUT SABORES DE 750 ML.jpg",
+      "img": "/images/bebidas-espirituosas/VODKA ABSOLUT SABORES DE 750 ML.webp",
       "precio": "10.710,00"
     },
     {
       "id": 770,
       "nombre": "VODKA SERNOVA SABORIZADOS",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/VODKA SERNOVA SABORIZADOS.jpg",
+      "img": "/images/bebidas-espirituosas/VODKA SERNOVA SABORIZADOS.webp",
       "precio": "2.142,00"
     },
     {
       "id": 771,
       "nombre": "ALQUIMISTA GIN",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/ALQUIMISTA GIN.jpg",
+      "img": "/images/bebidas-espirituosas/ALQUIMISTA GIN.webp",
       "precio": "1.395,00"
     },
     {
       "id": 772,
       "nombre": "SINGLESTON 12",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/SINGLESTON 12.jpeg",
+      "img": "/images/bebidas-espirituosas/SINGLESTON 12.webp",
       "precio": "20.910,00"
     },
     {
       "id": 774,
       "nombre": "GIN ACONCAGUA  DE ALUMIO DE 500 ML",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/GIN ACONCAGUA  DE ALUMIO DE 500 ML.jpg",
+      "img": "/images/bebidas-espirituosas/GIN ACONCAGUA  DE ALUMIO DE 500 ML.webp",
       "precio": "2.720,00"
     },
     {
       "id": 775,
       "nombre": "NERO 53",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/NERO 53.jpg",
+      "img": "/images/bebidas-espirituosas/NERO 53.webp",
       "precio": "2.970,00"
     },
     {
       "id": 776,
       "nombre": "ZACAPA CENTENARIO 23",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/ZACAPA CENTENARIO 23.jpg",
+      "img": "/images/bebidas-espirituosas/ZACAPA CENTENARIO 23.webp",
       "precio": "34.255,00"
     },
     {
       "id": 777,
       "nombre": "WHISKY BUCHANANAS DELUXE X 750",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/WHISKY BUCHANANAS DELUXE X 750.jpg",
+      "img": "/images/bebidas-espirituosas/WHISKY BUCHANANAS DELUXE X 750.webp",
       "precio": "17.340,00"
     },
     {
       "id": 778,
       "nombre": "OLE's Moky Harley, MANZANA, MORA (DOLARES)",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Ole's Moky Harley, MANZANA, MORA.jpg",
+      "img": "/images/bebidas-espirituosas/Ole's Moky Harley, MANZANA, MORA.webp",
       "precio": "50,00"
     },
     {
       "id": 780,
       "nombre": "BOMBAY LITRO CON CAJA EDICION LIMITADA",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/BOMBAY LITRO CON CAJA EDICION LIMITADA.jpg",
+      "img": "/images/bebidas-espirituosas/BOMBAY LITRO CON CAJA EDICION LIMITADA.webp",
       "precio": "22.300,00"
     },
     {
       "id": 781,
       "nombre": "Smirnoff Triple Destilacion Litro dolares",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Smirnoff Triple Destilacion Litro dolares.jpg",
+      "img": "/images/bebidas-espirituosas/Smirnoff Triple Destilacion Litro dolares.webp",
       "precio": "32,00"
     },
     {
       "id": 784,
       "nombre": "Bombay 750 ml",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Bombay 750 ml.jpg",
+      "img": "/images/bebidas-espirituosas/Bombay 750 ml.webp",
       "precio": "18.645,00"
     },
     {
       "id": 785,
       "nombre": "SOMETHING SPECIAL DOLARES",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/SOMETHING SPECIAL DOLARES.jpg",
+      "img": "/images/bebidas-espirituosas/SOMETHING SPECIAL DOLARES.webp",
       "precio": "32,50"
     },
     {
       "id": 786,
       "nombre": "Beefeater pink 700 ml",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-destiladas/beefeater.png",
+      "img": "/images/bebidas-destiladas/beefeater.webp",
       "precio": "12.920,00"
     },
     {
       "id": 787,
       "nombre": "PATAGONIA GINKGO",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/PATAGONIA GINKGO.jpg",
+      "img": "/images/bebidas-espirituosas/PATAGONIA GINKGO.webp",
       "precio": "3.960,00"
     },
     {
       "id": 788,
       "nombre": "Beefeater Original 700 ml",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Beefeater Original 700 ml.jpg",
+      "img": "/images/bebidas-espirituosas/Beefeater Original 700 ml.webp",
       "precio": "10.625,00"
     },
     {
       "id": 789,
       "nombre": "Bulldog 700 ml",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Bulldog 700 ml.jpg",
+      "img": "/images/bebidas-espirituosas/Bulldog 700 ml.webp",
       "precio": "12.240,00"
     },
     {
       "id": 790,
       "nombre": "Principe de los Apostoles 700 ml ROSA MOSQUETA",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Principe de los Apostoles 700 ml ROSA MOSQUETA.jpg",
+      "img": "/images/bebidas-espirituosas/Principe de los Apostoles 700 ml ROSA MOSQUETA.webp",
       "precio": "5.775,00"
     },
     {
       "id": 791,
       "nombre": "Principe de los Apostoles 700 ml",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Principe de los Apostoles 700 ml.jpg",
+      "img": "/images/bebidas-espirituosas/Principe de los Apostoles 700 ml.webp",
       "precio": "5.775,00"
     },
     {
       "id": 792,
       "nombre": "Principe de los Apostoles FUERZA GAUCHA  700 ml",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Principe de los Apostoles FUERZA GAUCHA  700 ml.jpg",
+      "img": "/images/bebidas-espirituosas/Principe de los Apostoles FUERZA GAUCHA  700 ml.webp",
       "precio": "5.775,00"
     },
     {
       "id": 793,
       "nombre": "Heredero",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Heredero.jpg",
+      "img": "/images/bebidas-espirituosas/Heredero.webp",
       "precio": "2.712,50"
     },
     {
       "id": 794,
       "nombre": "GIN ARLEQUIN",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/GIN ARLEQUIN.jpg",
+      "img": "/images/bebidas-espirituosas/GIN ARLEQUIN.webp",
       "precio": "3.230,00"
     },
     {
       "id": 795,
       "nombre": "Llave Black",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Llave Black.jpg",
+      "img": "/images/bebidas-espirituosas/Llave Black.webp",
       "precio": "2.790,00"
     },
     {
       "id": 796,
       "nombre": "Sol Azteca",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Sol Azteca.jpg",
+      "img": "/images/bebidas-espirituosas/Sol Azteca.webp",
       "precio": "1.633,50"
     },
     {
       "id": 797,
       "nombre": "OSO NEGRO GIN",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/OSO NEGRO GIN.jpg",
+      "img": "/images/bebidas-espirituosas/OSO NEGRO GIN.webp",
       "precio": "4.760,00"
     },
     {
       "id": 798,
       "nombre": "Barcelo Dorado Y BLANCO",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Barcelo Dorado Y BLANCO.jpg",
+      "img": "/images/bebidas-espirituosas/Barcelo Dorado Y BLANCO.webp",
       "precio": "7.650,00"
     },
     {
       "id": 799,
       "nombre": "BARCELO IMPERIAL",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/BARCELO IMPERIAL.jpg",
+      "img": "/images/bebidas-espirituosas/BARCELO IMPERIAL.webp",
       "precio": "26.180,00"
     },
     {
       "id": 801,
       "nombre": "Havana Club Dorado",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Havana Club Dorado.jpg",
+      "img": "/images/bebidas-espirituosas/Havana Club Dorado.webp",
       "precio": "6.435,00"
     },
     {
       "id": 802,
       "nombre": "Havana Club Blanco",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Havana Club Blanco.jpg",
+      "img": "/images/bebidas-espirituosas/Havana Club Blanco.webp",
       "precio": "6.105,00"
     },
     {
       "id": 803,
       "nombre": "BACARDI DORADO litro",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/BACARDI DORADO litro.jpg",
+      "img": "/images/bebidas-espirituosas/BACARDI DORADO litro.webp",
       "precio": "9.520,00"
     },
     {
       "id": 804,
       "nombre": "BACARDI BLANCO 750 ml",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/BACARDI BLANCO 750 ml.jpg",
+      "img": "/images/bebidas-espirituosas/BACARDI BLANCO 750 ml.webp",
       "precio": "8.670,00"
     },
     {
       "id": 805,
       "nombre": "COINTREAU VICENT DARRE 700 ML",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/COINTREAU VICENT DARRE 700 ML.jpg",
+      "img": "/images/bebidas-espirituosas/COINTREAU VICENT DARRE 700 ML.webp",
       "precio": "32.470,00"
     },
     {
       "id": 806,
       "nombre": "COINTREAU 700 ML",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/COINTREAU 700 ML.jpg",
+      "img": "/images/bebidas-espirituosas/COINTREAU 700 ML.webp",
       "precio": "32.470,00"
     },
     {
       "id": 807,
       "nombre": "COINTREAU COÑAC ML",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/COINTREAU COÑAC ML.jpg",
+      "img": "/images/bebidas-espirituosas/COINTREAU COÑAC ML.webp",
       "precio": "39.100,00"
     },
     {
       "id": 808,
       "nombre": "Coco Bongo Saborizados",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Coco Bongo Saborizados.jpg",
+      "img": "/images/bebidas-espirituosas/Coco Bongo Saborizados.webp",
       "precio": "2.550,00"
     },
     {
       "id": 809,
       "nombre": "BRANCA LATA CUBA ROBLE",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/BRANCA LATA CUBA ROBLE.jpg",
+      "img": "/images/bebidas-espirituosas/BRANCA LATA CUBA ROBLE.webp",
       "precio": "5.580,00"
     },
     {
       "id": 810,
       "nombre": "Smirnoff Saborizados",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Smirnoff Saborizados.jpg",
+      "img": "/images/bebidas-espirituosas/Smirnoff Saborizados.webp",
       "precio": "2.720,00"
     },
     {
       "id": 811,
       "nombre": "Smirnoff Regular",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Smirnoff Regular.jpg",
+      "img": "/images/bebidas-espirituosas/Smirnoff Regular.webp",
       "precio": "2.465,00"
     },
     {
       "id": 812,
       "nombre": "Skyy Regular",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Skyy Regular.jpg",
+      "img": "/images/bebidas-espirituosas/Skyy Regular.webp",
       "precio": "2.839,00"
     },
     {
       "id": 813,
       "nombre": "BRANCA MINI",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/BRANCA MINI.jpg",
+      "img": "/images/bebidas-espirituosas/BRANCA MINI.webp",
       "precio": "738,00"
     },
     {
       "id": 814,
       "nombre": "Varsovia Saborizados",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Varsovia Saborizados.jpg",
+      "img": "/images/bebidas-espirituosas/Varsovia Saborizados.webp",
       "precio": "1.147,00"
     },
     {
       "id": 815,
       "nombre": "Fernet Vitone 750 ml",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Fernet Vitone 750 ml.jpg",
+      "img": "/images/bebidas-espirituosas/Fernet Vitone 750 ml.webp",
       "precio": "2.004,75"
     },
     {
       "id": 816,
       "nombre": "fernet BRANCA 450 ML",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/fernet BRANCA 450 ML.jpg",
+      "img": "/images/bebidas-espirituosas/fernet BRANCA 450 ML.webp",
       "precio": "2.154,50"
     },
     {
       "id": 817,
       "nombre": "Fernet Branca Menta 750 ml",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Fernet Branca Menta 750 ml.jpg",
+      "img": "/images/bebidas-espirituosas/Fernet Branca Menta 750 ml.webp",
       "precio": "2.588,50"
     },
     {
       "id": 818,
       "nombre": "Fernet Branca 750 ml",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Fernet Branca 750 ml.jpg",
+      "img": "/images/bebidas-espirituosas/Fernet Branca 750 ml.webp",
       "precio": "3.317,00"
     },
     {
       "id": 820,
       "nombre": "BARCELO GRAN AÑEJO",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/BARCELO GRAN AÑEJO.jpg",
+      "img": "/images/bebidas-espirituosas/BARCELO GRAN AÑEJO.webp",
       "precio": "12.750,00"
     },
     {
       "id": 821,
       "nombre": "Saint Omer Cerveza Francesa",
       "categoria": "Cervezas",
-      "img": "/images/cervezas/Saint Omer Cerveza Francesa.jpg",
+      "img": "/images/cervezas/Saint Omer Cerveza Francesa.webp",
       "precio": "170,50"
     },
     {
       "id": 822,
       "nombre": "Stargberg Cerveza Francesa",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Stargberg Cerveza Francesa.jpg",
+      "img": "/images/bebidas-espirituosas/Stargberg Cerveza Francesa.webp",
       "precio": "170,50"
     },
     {
       "id": 823,
       "nombre": "Soho Soju Saborizado",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Soho Soju Saborizado.jpeg",
+      "img": "/images/bebidas-espirituosas/Soho Soju Saborizado.webp",
       "precio": "2.890,00"
     },
     {
       "id": 825,
       "nombre": "Cerveza Duff",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Cerveza Duff.jpg",
+      "img": "/images/bebidas-espirituosas/Cerveza Duff.webp",
       "precio": "310,00"
     },
     {
       "id": 826,
       "nombre": "Tequila Hijos de Villa aniversario (dolares)",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Tequila Hijos de Villa aniversario (dolares).jpg",
+      "img": "/images/bebidas-espirituosas/Tequila Hijos de Villa aniversario (dolares).webp",
       "precio": "90,00"
     },
     {
       "id": 827,
       "nombre": "TEQUILA CORRALEJO AÑEJO",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/TEQUILA CORRALEJO AÑEJO.jpg",
+      "img": "/images/bebidas-espirituosas/TEQUILA CORRALEJO AÑEJO.webp",
       "precio": "26.400,00"
     },
     {
       "id": 828,
       "nombre": "TEQUILA CORRALEJO REPOSADO",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/TEQUILA CORRALEJO REPOSADO.jpg",
+      "img": "/images/bebidas-espirituosas/TEQUILA CORRALEJO REPOSADO.webp",
       "precio": "19.800,00"
     },
     {
       "id": 829,
       "nombre": "SHERIDANS",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/SHERIDANS.jpg",
+      "img": "/images/bebidas-espirituosas/SHERIDANS.webp",
       "precio": "12.750,00"
     },
     {
       "id": 830,
       "nombre": "BRANCA 3 LITROS",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/BRANCA 3 LITROS.jpg",
+      "img": "/images/bebidas-espirituosas/BRANCA 3 LITROS.webp",
       "precio": "59.400,00"
     },
     {
       "id": 831,
       "nombre": "SAKE CHUNGHA",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/SAKE CHUNGHA.jpg",
+      "img": "/images/bebidas-espirituosas/SAKE CHUNGHA.webp",
       "precio": "3.612,50"
     },
     {
       "id": 834,
       "nombre": "GIN GORDONSTONIC LATA",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/GIN GORDONSTONIC LATA.jpg",
+      "img": "/images/bebidas-espirituosas/GIN GORDONSTONIC LATA.webp",
       "precio": "874,50"
     },
     {
       "id": 835,
       "nombre": "Absolut 200 ml (DOLARES)",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Absolut 200 ml (DOLARES).jpg",
+      "img": "/images/bebidas-espirituosas/Absolut 200 ml (DOLARES).webp",
       "precio": "10,08"
     },
     {
       "id": 837,
       "nombre": "Jager 200 ml",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Jager 200 ml.jpg",
+      "img": "/images/bebidas-espirituosas/Jager 200 ml.webp",
       "precio": "1.705,00"
     },
     {
       "id": 838,
       "nombre": "JAGERMEISTER 1,75 LITROS CON DOSIFICADOR",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/JAGERMEISTER 1,75 LITROS CON DOSIFICADOR.jpg",
+      "img": "/images/bebidas-espirituosas/JAGERMEISTER 1,75 LITROS CON DOSIFICADOR.webp",
       "precio": "45.900,00"
     },
     {
       "id": 839,
       "nombre": "JAGERMEISTER  MANIFEST LITRO",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/JAGERMEISTER  MANIFEST LITRO.jpg",
+      "img": "/images/bebidas-espirituosas/JAGERMEISTER  MANIFEST LITRO.webp",
       "precio": "30.225,00"
     },
     {
       "id": 840,
       "nombre": "GIN HIRAM WALKER 1 LT",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/GIN HIRAM WALKER 1 LT.jpg",
+      "img": "/images/bebidas-espirituosas/GIN HIRAM WALKER 1 LT.webp",
       "precio": "1.155,00"
     },
     {
       "id": 841,
       "nombre": "MACALLAN 12 AÑOS triple",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/MACALLAN 12 AÑOS triple.jpg",
+      "img": "/images/bebidas-espirituosas/MACALLAN 12 AÑOS triple.webp",
       "precio": "83.300,00"
     },
     {
       "id": 842,
       "nombre": "MACALLAN 12 AÑOS SHERRY OAK",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/MACALLAN 12 AÑOS SHERRY OAK.jpg",
+      "img": "/images/bebidas-espirituosas/MACALLAN 12 AÑOS SHERRY OAK.webp",
       "precio": "73.980,00"
     },
     {
       "id": 843,
       "nombre": "ABSOLUT ELYX LITRO",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/ABSOLUT ELYX LITRO.jpg",
+      "img": "/images/bebidas-espirituosas/ABSOLUT ELYX LITRO.webp",
       "precio": "34.850,00"
     },
     {
       "id": 844,
       "nombre": "MINIATURA ABSOLUT PACK (DOLARES)",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/MINIATURA ABSOLUT PACK (DOLARES).jpg",
+      "img": "/images/bebidas-espirituosas/MINIATURA ABSOLUT PACK (DOLARES).webp",
       "precio": "40,00"
     },
     {
       "id": 845,
       "nombre": "LANDAUER WILLI MINIATURA",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/LANDAUER WILLI MINIATURA.jpg",
+      "img": "/images/bebidas-espirituosas/LANDAUER WILLI MINIATURA.webp",
       "precio": "1.852,50"
     },
     {
       "id": 846,
       "nombre": "BEEFEATER BLOOD ORANGE",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/BEEFEATER BLOOD ORANGE.jpg",
+      "img": "/images/bebidas-espirituosas/BEEFEATER BLOOD ORANGE.webp",
       "precio": "13.090,00"
     },
     {
       "id": 847,
       "nombre": "ABSINTHE HAPSBURG DOALRES BLUE",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/ABSINTHE HAPSBURG DOALRES BLUE.jpg",
+      "img": "/images/bebidas-espirituosas/ABSINTHE HAPSBURG DOALRES BLUE.webp",
       "precio": "50,00"
     },
     {
       "id": 848,
       "nombre": "GIN MONKEY 47",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/GIN MONKEY 47.jpg",
+      "img": "/images/bebidas-espirituosas/GIN MONKEY 47.webp",
       "precio": "32.640,00"
     },
     {
       "id": 849,
       "nombre": "GIN HEREDERO LATA",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/GIN HEREDERO LATA.jpg",
+      "img": "/images/bebidas-espirituosas/GIN HEREDERO LATA.webp",
       "precio": "646,00"
     },
     {
       "id": 850,
       "nombre": "CIROC SABORIZADO",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/CIROC SABORIZADO.jpeg",
+      "img": "/images/bebidas-espirituosas/CIROC SABORIZADO.webp",
       "precio": "26.760,00"
     },
     {
       "id": 851,
       "nombre": "TOFKA DOLAR BLUE",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/TOFKA DOLAR BLUE.jpg",
+      "img": "/images/bebidas-espirituosas/TOFKA DOLAR BLUE.webp",
       "precio": "46,80"
     },
     {
       "id": 853,
       "nombre": "BITTER ANGOSTURA ORANGE Y COMUN 100ML",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/BITTER ANGOSTURA ORANGE Y COMUN 100ML.jpg",
+      "img": "/images/bebidas-espirituosas/BITTER ANGOSTURA ORANGE Y COMUN 100ML.webp",
       "precio": "13.005,00"
     },
     {
       "id": 854,
       "nombre": "PINERAL",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/PINERAL.jpg",
+      "img": "/images/bebidas-espirituosas/PINERAL.webp",
       "precio": "765,00"
     },
     {
       "id": 855,
       "nombre": "ALTMEISTER",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/ALTMEISTER.jpg",
+      "img": "/images/bebidas-espirituosas/ALTMEISTER.webp",
       "precio": "1.472,50"
     },
     {
       "id": 856,
       "nombre": "SIDRA RAHUEN PERA",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/SIDRA RAHUEN PERA.jpg",
+      "img": "/images/bebidas-espirituosas/SIDRA RAHUEN PERA.webp",
       "precio": "263,50"
     },
     {
       "id": 857,
       "nombre": "SIDRA PEER BOTELLA 500 ML",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/SIDRA PEER BOTELLA 500 ML.jpg",
+      "img": "/images/bebidas-espirituosas/SIDRA PEER BOTELLA 500 ML.webp",
       "precio": "449,50"
     },
     {
       "id": 858,
       "nombre": "GIN CASA ROSA 500 ML",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/GIN CASA ROSA 500 ML.jpg",
+      "img": "/images/bebidas-espirituosas/GIN CASA ROSA 500 ML.webp",
       "precio": "1.069,50"
     },
     {
       "id": 859,
       "nombre": "Vodka Stolichnaya Elit Ultra Luxury 750ML",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Vodka Stolichnaya Elit Ultra Luxury 750ML.jpg",
+      "img": "/images/bebidas-espirituosas/Vodka Stolichnaya Elit Ultra Luxury 750ML.webp",
       "precio": "84,00"
     },
     {
       "id": 860,
       "nombre": "LADRAN SANCHO ESPUMANTE",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/LADRAN SANCHO ESPUMANTE.jpg",
+      "img": "/images/bebidas-espirituosas/LADRAN SANCHO ESPUMANTE.webp",
       "precio": "403,00"
     },
     {
       "id": 861,
       "nombre": "PETACA GINEBRA",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/PETACA GINEBRA.jpg",
+      "img": "/images/bebidas-espirituosas/PETACA GINEBRA.webp",
       "precio": "577,50"
     },
     {
       "id": 862,
       "nombre": "FERNET VITTONE",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/FERNET VITTONE.jpg",
+      "img": "/images/bebidas-espirituosas/FERNET VITTONE.webp",
       "precio": "682,00"
     },
     {
       "id": 863,
       "nombre": "LUNFA",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/LUNFA.jpg",
+      "img": "/images/bebidas-espirituosas/LUNFA.webp",
       "precio": "3.795,00"
     },
     {
       "id": 864,
       "nombre": "CUSENIER LICORES",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/CUSENIER LICORES.jpg",
+      "img": "/images/bebidas-espirituosas/CUSENIER LICORES.webp",
       "precio": "1.955,00"
     },
     {
       "id": 865,
       "nombre": "AMARETTO DISARONNO",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/AMARETTO DISARONNO.jpg",
+      "img": "/images/bebidas-espirituosas/AMARETTO DISARONNO.webp",
       "precio": "19.380,00"
     },
     {
       "id": 866,
       "nombre": "COÑAC RESERVA SAN JUAN",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/COÑAC RESERVA SAN JUAN.jpg",
+      "img": "/images/bebidas-espirituosas/COÑAC RESERVA SAN JUAN.webp",
       "precio": "2.958,00"
     },
     {
       "id": 867,
       "nombre": "HERACLITO LONDON DRY GIN",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/HERACLITO LONDON DRY GIN.jpg",
+      "img": "/images/bebidas-espirituosas/HERACLITO LONDON DRY GIN.webp",
       "precio": "4.760,00"
     },
     {
       "id": 870,
       "nombre": "GIN TANQUERAY SEVILLA",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/GIN TANQUERAY SEVILLA.jpeg",
+      "img": "/images/bebidas-espirituosas/GIN TANQUERAY SEVILLA.webp",
       "precio": "11.645,00"
     },
     {
       "id": 871,
       "nombre": "TANQUERAY TEN (DOLARES)",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/TANQUERAY TEN (DOLARES).jpg",
+      "img": "/images/bebidas-espirituosas/TANQUERAY TEN (DOLARES).webp",
       "precio": "86,00"
     },
     {
       "id": 872,
       "nombre": "PUNT E MES",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/PUNT E MES.jpg",
+      "img": "/images/bebidas-espirituosas/PUNT E MES.webp",
       "precio": "1.897,50"
     },
     {
       "id": 873,
       "nombre": "GIN MERLE",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/GIN MERLE.jpg",
+      "img": "/images/bebidas-espirituosas/GIN MERLE.webp",
       "precio": "2.475,00"
     },
     {
       "id": 874,
       "nombre": "ED HARDY VOSKA (DOLARES)",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/ED HARDY VOSKA (DOLARES).jpg",
+      "img": "/images/bebidas-espirituosas/ED HARDY VOSKA (DOLARES).webp",
       "precio": "120,00"
     },
     {
       "id": 875,
       "nombre": "Jager 100 ml",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Jager 100 ml.jpg",
+      "img": "/images/bebidas-espirituosas/Jager 100 ml.webp",
       "precio": "2.925,00"
     },
     {
       "id": 876,
       "nombre": "Jager SCHARF",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Jager SCHARF.jpg",
+      "img": "/images/bebidas-espirituosas/Jager SCHARF.webp",
       "precio": "14.025,00"
     },
     {
       "id": 878,
       "nombre": "BURNET LITRO GIN",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/BURNET LITRO GIN.jpg",
+      "img": "/images/bebidas-espirituosas/BURNET LITRO GIN.webp",
       "precio": "2.635,00"
     },
     {
       "id": 879,
       "nombre": "ABSENTA LA TOUR TOURNE",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/ABSENTA LA TOUR TOURNE.jpg",
+      "img": "/images/bebidas-espirituosas/ABSENTA LA TOUR TOURNE.webp",
       "precio": "7.990,00"
     },
     {
       "id": 880,
       "nombre": "VODKA NIKOV",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/VODKA NIKOV.jpg",
+      "img": "/images/bebidas-espirituosas/VODKA NIKOV.webp",
       "precio": "232,50"
     },
     {
       "id": 881,
       "nombre": "VODKA NEW STYLE",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/VODKA NEW STYLE.jpg",
+      "img": "/images/bebidas-espirituosas/VODKA NEW STYLE.webp",
       "precio": "279,00"
     },
     {
       "id": 882,
       "nombre": "PISCO CALAVERA",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/PISCO CALAVERA.jpg",
+      "img": "/images/bebidas-espirituosas/PISCO CALAVERA.webp",
       "precio": "10.200,00"
     },
     {
       "id": 883,
       "nombre": "SANTA TERESA GRAN RESERVA 5 AÑOS",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/SANTA TERESA GRAN RESERVA 5 AÑOS.jpg",
+      "img": "/images/bebidas-espirituosas/SANTA TERESA GRAN RESERVA 5 AÑOS.webp",
       "precio": "12.400,00"
     },
     {
       "id": 884,
       "nombre": "SANTA TERESA CLARO",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/SANTA TERESA CLARO.jpg",
+      "img": "/images/bebidas-espirituosas/SANTA TERESA CLARO.webp",
       "precio": "11.051,50"
     },
     {
       "id": 885,
       "nombre": "THE BOTANIST GIN",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/THE BOTANIST GIN.jpg",
+      "img": "/images/bebidas-espirituosas/THE BOTANIST GIN.webp",
       "precio": "18.600,00"
     },
     {
       "id": 886,
       "nombre": "CORRALEJO BLANCO TEQUILA",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/CORRALEJO BLANCO TEQUILA.jpg",
+      "img": "/images/bebidas-espirituosas/CORRALEJO BLANCO TEQUILA.webp",
       "precio": "11.550,00"
     },
     {
       "id": 887,
       "nombre": "8 HERMANOS ANIS",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/8 HERMANOS ANIS.jpg",
+      "img": "/images/bebidas-espirituosas/8 HERMANOS ANIS.webp",
       "precio": "1.162,50"
     },
     {
       "id": 888,
       "nombre": "UNGAVA GIN (DOLARES)",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/UNGAVA GIN (DOLARES).jpg",
+      "img": "/images/bebidas-espirituosas/UNGAVA GIN (DOLARES).webp",
       "precio": "356,50"
     },
     {
       "id": 889,
       "nombre": "TEQUILA DF CHILANGO",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/TEQUILA DF CHILANGO.jpg",
+      "img": "/images/bebidas-espirituosas/TEQUILA DF CHILANGO.webp",
       "precio": "1.530,00"
     },
     {
       "id": 890,
       "nombre": "MALEFICO GIN",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/MALEFICO GIN.jpg",
+      "img": "/images/bebidas-espirituosas/MALEFICO GIN.webp",
       "precio": "1.105,00"
     },
     {
       "id": 891,
       "nombre": "PULPA CALIPUL",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/PULPA CALIPUL.jpg",
+      "img": "/images/bebidas-espirituosas/PULPA CALIPUL.webp",
       "precio": "2.210,00"
     },
     {
       "id": 892,
       "nombre": "ORLOFF VODKA",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/ORLOFF VODKA.jpg",
+      "img": "/images/bebidas-espirituosas/ORLOFF VODKA.webp",
       "precio": "2.040,00"
     },
     {
       "id": 893,
       "nombre": "CARDHU 12 AÑOS",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/CARDHU 12 AÑOS.jpg",
+      "img": "/images/bebidas-espirituosas/CARDHU 12 AÑOS.webp",
       "precio": "41.565,00"
     },
     {
       "id": 894,
       "nombre": "GIN MARE FAROL",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/GIN MARE FAROL.jpg",
+      "img": "/images/bebidas-espirituosas/GIN MARE FAROL.webp",
       "precio": "30.240,00"
     },
     {
       "id": 896,
       "nombre": "CONVENT DRY GIN",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/CONVENT DRY GIN.jpg",
+      "img": "/images/bebidas-espirituosas/CONVENT DRY GIN.webp",
       "precio": "1.237,50"
     },
     {
       "id": 897,
       "nombre": "FIREBALL MAS SHOT",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/FIREBALL MAS SHOT.jpg",
+      "img": "/images/bebidas-espirituosas/FIREBALL MAS SHOT.webp",
       "precio": "4.495,00"
     },
     {
       "id": 898,
       "nombre": "RESTINGA GIN",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/RESTINGA GIN.jpg",
+      "img": "/images/bebidas-espirituosas/RESTINGA GIN.webp",
       "precio": "3.060,00"
     },
     {
       "id": 899,
       "nombre": "GIN LARIOS",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/GIN LARIOS.jpg",
+      "img": "/images/bebidas-espirituosas/GIN LARIOS.webp",
       "precio": "5.780,00"
     },
     {
       "id": 900,
       "nombre": "GIN LARIOS ROSADO",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/GIN LARIOS ROSADO.jpg",
+      "img": "/images/bebidas-espirituosas/GIN LARIOS ROSADO.webp",
       "precio": "7.650,00"
     },
     {
       "id": 901,
       "nombre": "RON APALMA COCO",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/RON APALMA COCO.jpg",
+      "img": "/images/bebidas-espirituosas/RON APALMA COCO.webp",
       "precio": "867,00"
     },
     {
       "id": 902,
       "nombre": "JAMESON BLACK BARREL",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/JAMESON BLACK BARREL.jpg",
+      "img": "/images/bebidas-espirituosas/JAMESON BLACK BARREL.webp",
       "precio": "17.850,00"
     },
     {
       "id": 903,
       "nombre": "MONKEY SHOULDER",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/MONKEY SHOULDER.jpg",
+      "img": "/images/bebidas-espirituosas/MONKEY SHOULDER.webp",
       "precio": "20.910,00"
     },
     {
       "id": 904,
       "nombre": "GIN ACONCAGUA TONIC 355 ML",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/GIN ACONCAGUA TONIC 355 ML.jpg",
+      "img": "/images/bebidas-espirituosas/GIN ACONCAGUA TONIC 355 ML.webp",
       "precio": "1.020,00"
     },
     {
       "id": 905,
       "nombre": "GIN ACONCAGUA MINIATURA 50 ML",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/GIN ACONCAGUA MINIATURA 50 ML.jpg",
+      "img": "/images/bebidas-espirituosas/GIN ACONCAGUA MINIATURA 50 ML.webp",
       "precio": "1.275,00"
     },
     {
       "id": 906,
       "nombre": "KARAMEL CREAM",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/KARAMEL CREAM.jpg",
+      "img": "/images/bebidas-espirituosas/KARAMEL CREAM.webp",
       "precio": "4.420,00"
     },
     {
       "id": 907,
       "nombre": "WILD TURKEY HONEY",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/WILD TURKEY HONEY.jpg",
+      "img": "/images/bebidas-espirituosas/WILD TURKEY HONEY.webp",
       "precio": "17.255,00"
     },
     {
       "id": 908,
       "nombre": "LA TILICA CALAVERA TEQUILA REPOSADO DOLARES",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/LA TILICA CALAVERA TEQUILA REPOSADO DOLARES.jpg",
+      "img": "/images/bebidas-espirituosas/LA TILICA CALAVERA TEQUILA REPOSADO DOLARES.webp",
       "precio": "90,00"
     },
     {
       "id": 909,
       "nombre": "RON RICO",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/RON RICO.jpg",
+      "img": "/images/bebidas-espirituosas/RON RICO.webp",
       "precio": "1.870,00"
     },
     {
       "id": 910,
       "nombre": "GIN THOMAS DAKIN (DOLARES)",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/GIN THOMAS DAKIN (DOLARES).jpg",
+      "img": "/images/bebidas-espirituosas/GIN THOMAS DAKIN (DOLARES).webp",
       "precio": "408,00"
     },
     {
       "id": 911,
       "nombre": "GIN BRIGHTON",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/GIN BRIGHTON.jpg",
+      "img": "/images/bebidas-espirituosas/GIN BRIGHTON.webp",
       "precio": "3.060,00"
     },
     {
       "id": 912,
       "nombre": "SANTA TERESA 1796",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/SANTA TERESA 1796.jpg",
+      "img": "/images/bebidas-espirituosas/SANTA TERESA 1796.webp",
       "precio": "39.100,00"
     },
     {
       "id": 913,
       "nombre": "MAKERS MARK",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/MAKERS MARK.jpg",
+      "img": "/images/bebidas-espirituosas/MAKERS MARK.webp",
       "precio": "25.160,00"
     },
     {
       "id": 914,
       "nombre": "GLENFIDDICH 12 años",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/GLENFIDDICH 12 años.jpg",
+      "img": "/images/bebidas-espirituosas/GLENFIDDICH 12 años.webp",
       "precio": "35.190,00"
     },
     {
       "id": 915,
       "nombre": "GIN ACONCAGUA CON COPA",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/GIN ACONCAGUA CON COPA.jpg",
+      "img": "/images/bebidas-espirituosas/GIN ACONCAGUA CON COPA.webp",
       "precio": "10.625,00"
     },
     {
       "id": 916,
       "nombre": "GIN ACONCAGUA",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/GIN ACONCAGUA.jpg",
+      "img": "/images/bebidas-espirituosas/GIN ACONCAGUA.webp",
       "precio": "5.525,00"
     },
     {
       "id": 917,
       "nombre": "GIN ARGENTINA WILD",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/GIN ARGENTINA WILD.jpg",
+      "img": "/images/bebidas-espirituosas/GIN ARGENTINA WILD.webp",
       "precio": "2.040,00"
     },
     {
       "id": 918,
       "nombre": "WILD TURKEY COMUN",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/WILD TURKEY COMUN.jpg",
+      "img": "/images/bebidas-espirituosas/WILD TURKEY COMUN.webp",
       "precio": "17.255,00"
     },
     {
       "id": 919,
       "nombre": "CHIVAS 15 GOLD XV",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/CHIVAS 15 GOLD XV.jpg",
+      "img": "/images/bebidas-espirituosas/CHIVAS 15 GOLD XV.webp",
       "precio": "27.200,00"
     },
     {
       "id": 920,
       "nombre": "WILD TURKEY 101",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/WILD TURKEY 101.jpg",
+      "img": "/images/bebidas-espirituosas/WILD TURKEY 101.webp",
       "precio": "20.536,00"
     },
     {
       "id": 921,
       "nombre": "JW XR 21 AÑOS",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/JW XR 21 AÑOS.jpg",
+      "img": "/images/bebidas-espirituosas/JW XR 21 AÑOS.webp",
       "precio": "96.900,00"
     },
     {
       "id": 922,
       "nombre": "CRYSTAL HEAD LITRO",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/CRYSTAL HEAD LITRO.jpg",
+      "img": "/images/bebidas-espirituosas/CRYSTAL HEAD LITRO.webp",
       "precio": "189,00"
     },
     {
       "id": 923,
       "nombre": "GIN SIETE ESPIRITUS",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/GIN SIETE ESPIRITUS.jpg",
+      "img": "/images/bebidas-espirituosas/GIN SIETE ESPIRITUS.webp",
       "precio": "1.785,00"
     },
     {
       "id": 924,
       "nombre": "APEROL 3 LITROS",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/APEROL 3 LITROS.jpg",
+      "img": "/images/bebidas-espirituosas/APEROL 3 LITROS.webp",
       "precio": "84.320,00"
     },
     {
       "id": 925,
       "nombre": "BEEFEATER 24",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/BEEFEATER 24.jpg",
+      "img": "/images/bebidas-espirituosas/BEEFEATER 24.webp",
       "precio": "20.740,00"
     },
     {
       "id": 926,
       "nombre": "HERACLITO 40 BOTANICOS",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/HERACLITO 40 BOTANICOS.jpg",
+      "img": "/images/bebidas-espirituosas/HERACLITO 40 BOTANICOS.webp",
       "precio": "5.040,00"
     },
     {
       "id": 927,
       "nombre": "MIRYCA",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/MIRYCA.jpg",
+      "img": "/images/bebidas-espirituosas/MIRYCA.webp",
       "precio": "170,00"
     },
     {
       "id": 928,
       "nombre": "GRANDE ABSENTA CON CUCHARA",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/GRANDE ABSENTA CON CUCHARA.jpg",
+      "img": "/images/bebidas-espirituosas/GRANDE ABSENTA CON CUCHARA.webp",
       "precio": "5.600,00"
     },
     {
       "id": 929,
       "nombre": "J W BLUE LABEL",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/J W BLUE LABEL.jpg",
+      "img": "/images/bebidas-espirituosas/J W BLUE LABEL.webp",
       "precio": "134.300,00"
     },
     {
       "id": 930,
       "nombre": "BALLATINES 12 AÑOS",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/BALLATINES 12 AÑOS1.jpg",
+      "img": "/images/bebidas-espirituosas/BALLATINES 12 AÑOS1.webp",
       "precio": "17.000,00"
     },
     {
       "id": 931,
       "nombre": "BUHERO FERNET",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/BUHERO FERNET.jpg",
+      "img": "/images/bebidas-espirituosas/BUHERO FERNET.webp",
       "precio": "2.805,00"
     },
     {
       "id": 932,
       "nombre": "JW  WINE CASK BLEND EN DOLAR",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/JW  WINE CASK BLEND EN DOLAR.jpg",
+      "img": "/images/bebidas-espirituosas/JW  WINE CASK BLEND EN DOLAR.webp",
       "precio": "104,00"
     },
     {
       "id": 933,
       "nombre": "SLITZ AGUA ARDIENTE DE CEREZA",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/SLITZ AGUA ARDIENTE DE CEREZA.jpg",
+      "img": "/images/bebidas-espirituosas/SLITZ AGUA ARDIENTE DE CEREZA.webp",
       "precio": "1.980,00"
     },
     {
       "id": 934,
       "nombre": "HILBING MALBEC",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/HILBING MALBEC.jpg",
+      "img": "/images/bebidas-espirituosas/HILBING MALBEC.webp",
       "precio": "2.640,00"
     },
     {
       "id": 935,
       "nombre": "GIN  CESTARI",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/GIN  CESTARI.jpg",
+      "img": "/images/bebidas-espirituosas/GIN  CESTARI.webp",
       "precio": "1.155,00"
     },
     {
       "id": 936,
       "nombre": "BALLATINES 7 AÑOS BOURBON",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/BALLATINES 7 AÑOS BOURBON.jpg",
+      "img": "/images/bebidas-espirituosas/BALLATINES 7 AÑOS BOURBON.webp",
       "precio": "13.685,00"
     },
     {
       "id": 937,
       "nombre": "RUNA GIN VARIEDADES",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/RUNA GIN VARIEDADES.jpg",
+      "img": "/images/bebidas-espirituosas/RUNA GIN VARIEDADES.webp",
       "precio": "1.650,00"
     },
     {
       "id": 938,
       "nombre": "KIT BOTANICO MERLE",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/KIT BOTANICO MERLE.jpg",
+      "img": "/images/bebidas-espirituosas/KIT BOTANICO MERLE.webp",
       "precio": "825,00"
     },
     {
       "id": 939,
       "nombre": "ACONCAGUA VERDE",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/ACONCAGUA VERDE.jpg",
+      "img": "/images/bebidas-espirituosas/ACONCAGUA VERDE.webp",
       "precio": "5.440,00"
     },
     {
       "id": 940,
       "nombre": "VECCHIA ROMAGNA BRANDY ETTICHETA NERA 40",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/VECCHIA ROMAGNA BRANDY ETTICHETA NERA 40.jpg",
+      "img": "/images/bebidas-espirituosas/VECCHIA ROMAGNA BRANDY ETTICHETA NERA 40.webp",
       "precio": "9.735,00"
     },
     {
       "id": 941,
       "nombre": "MALEVO VODKA ARTESANAL CARAMELO",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/MALEVO VODKA ARTESANAL CARAMELO.jpg",
+      "img": "/images/bebidas-espirituosas/MALEVO VODKA ARTESANAL CARAMELO.webp",
       "precio": "3.960,00"
     },
     {
       "id": 942,
       "nombre": "BRANDY SOBERANO",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/BRANDY SOBERANO.jpg",
+      "img": "/images/bebidas-espirituosas/BRANDY SOBERANO.webp",
       "precio": "9.075,00"
     },
     {
       "id": 943,
       "nombre": "CHIVAS ROYAL SALUTE 21 AÑOS",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/CHIVAS ROYAL SALUTE 21 AÑOS.jpg",
+      "img": "/images/bebidas-espirituosas/CHIVAS ROYAL SALUTE 21 AÑOS.webp",
       "precio": "121.040,00"
     },
     {
       "id": 944,
       "nombre": "HAVANA CLUB 7 AÑOS",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/HAVANA CLUB 7 AÑOS.jpg",
+      "img": "/images/bebidas-espirituosas/HAVANA CLUB 7 AÑOS.webp",
       "precio": "15.470,00"
     },
     {
       "id": 945,
       "nombre": "HAVANA CLUB SELECCION MAESTRO",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/HAVANA CLUB SELECCION MAESTRO.jpg",
+      "img": "/images/bebidas-espirituosas/HAVANA CLUB SELECCION MAESTRO.webp",
       "precio": "56.270,00"
     },
     {
       "id": 946,
       "nombre": "HIERROQUINA",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/HIERROQUINA.jpg",
+      "img": "/images/bebidas-espirituosas/HIERROQUINA.webp",
       "precio": "1.530,00"
     },
     {
       "id": 947,
       "nombre": "VODKA PRAVDA 1,75 LITROS",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/VODKA PRAVDA 1,75 LITROS.jpg",
+      "img": "/images/bebidas-espirituosas/VODKA PRAVDA 1,75 LITROS.webp",
       "precio": "81.400,00"
     },
     {
       "id": 948,
       "nombre": "WHISKY GLENLIVET 12 AÑOS",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/WHISKY GLENLIVET 12 AÑOS.jpg",
+      "img": "/images/bebidas-espirituosas/WHISKY GLENLIVET 12 AÑOS.webp",
       "precio": "23.347,50"
     },
     {
       "id": 949,
       "nombre": "WHISKY MALT ABERLOUR 12 AÑOS",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/WHISKY MALT ABERLOUR 12 AÑOS.jpg",
+      "img": "/images/bebidas-espirituosas/WHISKY MALT ABERLOUR 12 AÑOS.webp",
       "precio": "29.750,00"
     },
     {
       "id": 950,
       "nombre": "LATA VODKA SMIRNOFF ICE",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/LATA VODKA SMIRNOFF ICE.jpg",
+      "img": "/images/bebidas-espirituosas/LATA VODKA SMIRNOFF ICE.webp",
       "precio": "709,50"
     },
     {
       "id": 951,
       "nombre": "PIPERS 100",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/PIPERS 100.jpg",
+      "img": "/images/bebidas-espirituosas/PIPERS 100.webp",
       "precio": "2.975,00"
     },
     {
       "id": 952,
       "nombre": "PISCO VARGAS COSECHA PRIVADA CON SHOT (DOLARES)",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/PISCO VARGAS COSECHA PRIVADA CON SHOT (DOLARES).jpg",
+      "img": "/images/bebidas-espirituosas/PISCO VARGAS COSECHA PRIVADA CON SHOT (DOLARES).webp",
       "precio": "48,00"
     },
     {
       "id": 953,
       "nombre": "GIN MOREIRA CON VASO Y ESTUCHE",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/GIN MOREIRA CON VASO Y ESTUCHE.jpg",
+      "img": "/images/bebidas-espirituosas/GIN MOREIRA CON VASO Y ESTUCHE.webp",
       "precio": "3.570,00"
     },
     {
       "id": 954,
       "nombre": "PISCO MISTRAL ESPECIAL",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/PISCO MISTRAL ESPECIAL.jpg",
+      "img": "/images/bebidas-espirituosas/PISCO MISTRAL ESPECIAL.webp",
       "precio": "4.785,00"
     },
     {
       "id": 955,
       "nombre": "PISCO NOBEL MISTRAL",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/PISCO NOBEL MISTRAL.jpg",
+      "img": "/images/bebidas-espirituosas/PISCO NOBEL MISTRAL.webp",
       "precio": "6.630,00"
     },
     {
       "id": 956,
       "nombre": "KETEL ONE VODKA",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/KETEL ONE VODKA.jpg",
+      "img": "/images/bebidas-espirituosas/KETEL ONE VODKA.webp",
       "precio": "11.135,00"
     },
     {
       "id": 957,
       "nombre": "GIN CEFIRO 500 ML",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/GIN CEFIRO 500 ML.jpg",
+      "img": "/images/bebidas-espirituosas/GIN CEFIRO 500 ML.webp",
       "precio": "1.531,70"
     },
     {
       "id": 958,
       "nombre": "GOLDEN AGE APRICOT BRANDY",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/GOLDEN AGE APRICOT BRANDY.jpg",
+      "img": "/images/bebidas-espirituosas/GOLDEN AGE APRICOT BRANDY.webp",
       "precio": "6.120,00"
     },
     {
       "id": 959,
       "nombre": "GOLDEN AGE CHERRY BRANDY",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/GOLDEN AGE CHERRY BRANDY.jpg",
+      "img": "/images/bebidas-espirituosas/GOLDEN AGE CHERRY BRANDY.webp",
       "precio": "5.440,00"
     },
     {
       "id": 960,
       "nombre": "SIDRA LA FARRUCA",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/SIDRA LA FARRUCA.jpg",
+      "img": "/images/bebidas-espirituosas/SIDRA LA FARRUCA.webp",
       "precio": "255,00"
     },
     {
       "id": 966,
       "nombre": "TANQUERAY ROYALE",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/TANQUERAY ROYALE.jpeg",
+      "img": "/images/bebidas-espirituosas/TANQUERAY ROYALE.webp",
       "precio": "11.645,00"
     },
     {
       "id": 967,
       "nombre": "TULLAMORE",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/TULLAMORE.jpg",
+      "img": "/images/bebidas-espirituosas/TULLAMORE.webp",
       "precio": "15.300,00"
     },
     {
       "id": 968,
       "nombre": "LATA PRONTO AZUL",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/LATA PRONTO AZUL.jpg",
+      "img": "/images/bebidas-espirituosas/LATA PRONTO AZUL.webp",
       "precio": "259,00"
     },
     {
       "id": 969,
       "nombre": "BOTEGA GOLD",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/BOTEGA GOLD.jpg",
+      "img": "/images/bebidas-espirituosas/BOTEGA GOLD.webp",
       "precio": "64,60"
     },
     {
       "id": 970,
       "nombre": "PATRON SILVER 750 ML",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/PATRON SILVER 750 ML.jpg",
+      "img": "/images/bebidas-espirituosas/PATRON SILVER 750 ML.webp",
       "precio": "34.000,00"
     },
     {
       "id": 971,
       "nombre": "ABUELO 12 DOLAR BLUE",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/ABUELO 12 DOLAR BLUE.jpg",
+      "img": "/images/bebidas-espirituosas/ABUELO 12 DOLAR BLUE.webp",
       "precio": "260,00"
     },
     {
       "id": 972,
       "nombre": "PETERS",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/PETERS.jpg",
+      "img": "/images/bebidas-espirituosas/PETERS.webp",
       "precio": "850,00"
     },
     {
       "id": 973,
       "nombre": "Vodka Zubrowka DOLAR BLUE",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/Vodka Zubrowka DOLAR BLUE.jpg",
+      "img": "/images/bebidas-espirituosas/Vodka Zubrowka DOLAR BLUE.webp",
       "precio": "90,00"
     },
     {
       "id": 975,
       "nombre": "EL MILAGRO TEQUILA",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/EL MILAGRO TEQUILA.jpg",
+      "img": "/images/bebidas-espirituosas/EL MILAGRO TEQUILA.webp",
       "precio": "360,00"
     },
     {
       "id": 978,
       "nombre": "GIN DRY MIL DEMONIOS",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/GIN DRY MIL DEMONIOS.jpg",
+      "img": "/images/bebidas-espirituosas/GIN DRY MIL DEMONIOS.webp",
       "precio": "4.930,00"
     },
     {
       "id": 979,
       "nombre": "TOLON TOLON CHOCOLATE CREAM",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/TOLON TOLON CHOCOLATE CREAM.jpg",
+      "img": "/images/bebidas-espirituosas/TOLON TOLON CHOCOLATE CREAM.webp",
       "precio": "24.750,00"
     },
     {
       "id": 980,
       "nombre": "EL BUSCADOR OBSTINADO",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/EL BUSCADOR OBSTINADO.jpg",
+      "img": "/images/bebidas-espirituosas/EL BUSCADOR OBSTINADO.webp",
       "precio": "11.100,00"
     },
     {
       "id": 981,
       "nombre": "BARCELO IMPERIAL ONYX",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/BARCELO IMPERIAL ONYX.jpg",
+      "img": "/images/bebidas-espirituosas/BARCELO IMPERIAL ONYX.webp",
       "precio": "35.700,00"
     },
     {
       "id": 982,
       "nombre": "BACARDI DORADO 750 ML",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/BACARDI DORADO 750 ML.jpg",
+      "img": "/images/bebidas-espirituosas/BACARDI DORADO 750 ML.webp",
       "precio": "8.670,00"
     },
     {
       "id": 983,
       "nombre": "GIN MYRICA CON VASO",
       "categoria": "Bebidas Espirituosas",
-      "img": "/images/bebidas-espirituosas/GIN MYRICA CON VASO.jpg",
+      "img": "/images/bebidas-espirituosas/GIN MYRICA CON VASO.webp",
       "precio": "7.990,00"
     }
   ]
