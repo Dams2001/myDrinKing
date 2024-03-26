@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import ListaCategorias from "./contenido/ListaCategorias";
 import ListaProductos from "./contenido/ListaProductos";
-import PRODUCTOS from "../../data/productos1.json";
+import PRODUCTOS from "../../data/productos2.json";
 
 //import Button from "../global/Button";
 //import ReactWhatsapp from "react-whatsapp";
